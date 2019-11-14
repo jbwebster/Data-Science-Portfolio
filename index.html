@@ -19,7 +19,28 @@
     footer {
       background-color: #f2f2f2;
       padding: 25px;
+      position: fixed;
+      bottom: 0;
+      width: 100%
     }
+    /* Additional custom formatting, not from w3schools.com*/
+    .col-sm-3 {
+      height: 300px;
+      width: 25%;
+      overflow: hidden;
+    }
+    .col-sm-3 .img-responsive {
+      height: auto;
+      width: 25%;
+      height: 50%;
+    }
+   .col-sm-3:hover {
+      transform: scale(1.05);
+    }
+  .row {
+      width: 99%;
+  }
+  
   </style>
 </head>
 <body>
@@ -29,7 +50,7 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li class="active"><a href="index.html">Home</a></li>
-        <li><a href="About_Me.html">About Me</a></li>
+        <li><a href="About_Me.html">About</a></li>
         <li><a href="Contact.html">Contact</a></li>
       </ul>
     </div>
@@ -39,20 +60,22 @@
 <div class="jumbotron">
   <div class="container text-center">
     <h1>Data Science Portfolio</h1>      
-    <p>A portfolio of my data science projects and stories, developed in my spare time.</p>
+    <p>A portfolio of data science projects and stories developed in my spare time.</p>
   </div>
 </div>
   
 <div class="container-fluid bg-3 text-center">    
   <h3>Selected Projects</h3><br>
   <div class="row">
-    <div class="col-sm-3">
-      <p>Some text..</p>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-    </div>
+    <a href="Projects/fast-food/FastFoodLayout.html">
+        <div class="col-sm-3">
+            <p style="color:#333">Fast Food and Obesity</p>
+            <img src="Projects/fast-food/foodperstate.jpg" class="img-responsive" style="width:100%" alt="Image">
+        </div>
+    </a>
     <div class="col-sm-3"> 
       <p>Some text..</p>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%"  alt="Image">
     </div>
     <div class="col-sm-3"> 
       <p>Some text..</p>

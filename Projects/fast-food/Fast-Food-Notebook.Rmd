@@ -1,0 +1,184 @@
+---
+title: "The Disproportionate Amount of Fast Food Restaurants in Obese States"
+output:
+  html_document:
+    df_print: paged
+---
+```{r echo=FALSE, include=FALSE}
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(usmap)
+library(caret)
+library(gridExtra)
+
+```
+
+## Introduction
+Obesity is becoming an ever more important public health topic, with many people pointing fingers at different potential sources for the problem. While there are likely as many causes for obesity as there are obese individuals in the population, certain trends do seem to present themselves as being at least partially associated with the problem.
+
+Here, I present a short analysis of a fast-food dataset containing information on 10,000 fast-food restaurants in the United States (dataset found [here](https://www.kaggle.com/datafiniti/fast-food-restaurants)), combined with information about US State populations ([data here](https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States_by_population)) and US State obesity rates ([here](https://www.livescience.com/50973-obesity-rates-full-rankings.html)) to see if there is a connection between fast food restaurants and obesity.
+
+## Quick Look at the Data
+Let's begin by importing our datasets.
+
+```{r}
+# Load population dataset
+population <- read.csv("datasets/StatePop.csv")
+names(population) <- c("FullName", "state", "x2019PopEst", "x2010Pop")
+# Convert population values to numeric values
+population$x2010Pop <- as.character(population$x2010Pop)
+population$x2010Pop <- gsub(",", "", population$x2010Pop)
+population$x2010Pop <- as.numeric(population$x2010Pop)
+
+
+# Import obesity dataset
+obesity <- read.csv("datasets/StateObesity.csv")
+names(obesity) <- c("FullName", "state", "PercentObese")
+
+# Import fast food restaurant dataset
+data <- read.csv("datasets/FastFoodRestaurants.csv")
+
+# Some restaurants list Colorado Springs as their state,
+# rather than Colorado. Fix those before continuing.
+data.proc <- data
+data.proc$province <- gsub('Co Spgs', 'CO', data.proc$province)
+```
+
+A thorough data exploration isn't done here, but a quick look at the percent of the fast food restaurants that appear in different states confirms that most restaurants are in states with large populations. Since we're interested in how restaurants might be associated with obesity rates, let's also get an idea of what different state obesity rates actually are while we're at it.
+
+```{r, fig.align='center'}
+data.proc$count <- 1
+compressed.state <- data.proc %>%
+  group_by(province) %>%
+  summarise(Count = sum(count))
+names(compressed.state) <- c("state", "Count")
+compressed.state$pt <- (compressed.state$Count / 10000) * 100
+
+
+p1 <- plot_usmap(data=compressed.state, values = 'pt', color='blue') +
+  scale_fill_continuous(low="white", high="blue", name="% of Fast Food Restaurants", label=scales::comma) +
+  theme(legend.position = "right") +
+  ggtitle("Restaurants by State") 
+
+p2 <- plot_usmap(data=obesity, values = 'PercentObese', color='blue') +
+  scale_fill_continuous(low="white", high="blue",
+                        name="% of population that is obese", label=scales::comma) +
+  theme(legend.position = "right") +
+  ggtitle("US Obesity Rates")
+
+grid.arrange(p1, p2, ncol=2)
+```
+
+We actually don't seem to see much overlap here between states with high restaurant counts and states with high obesity rates - **but those maps don't tell the full story**. Below, I have taken the population of each US State, and divided it by the entire US population, to see what percent of the country lives in each state. Using those percentages, we'd expect to see an approximately equivalent number of restaurants in those states. For example, since California has ~12% of the US population, we'd expect California fast food restaurants to make up ~12% of our fast food dataset. Below, we see how many restaurants we'd expect to see in each state subtracted from the amount we actually observed, and compare that to the relative obesity of each state. States with an obesity rate higher than the median obesity rate are listed as "Greater than average obesity", and states with a rate lower than the median are listed as "Lower than average obesity".
+
+```{r, fig.align='center'}
+# Calculate population percentages
+population$pt <- (population$x2010Pop / sum(population$x2010Pop)) * 100
+
+# Merge the fast food, population, and obesity datasets
+compressed.state <- subset(compressed.state , select = -c(pt))
+df <- merge(compressed.state, population, by="state")
+df <- merge(df, obesity, by="state")
+df <- subset(df, select=c(state, Count, x2010Pop, PercentObese, pt))
+
+# Calculate the number of expected restaurants per state
+df$ExpectedRes <- (df$pt/100) * 10000
+
+# Calculate the Observed - Expected restaurants
+df$CountMinusExpected <- df$Count - df$ExpectedRes
+
+# Calculate the median state obesity rate, and categorize
+# states as being either higher or lower than the median
+med <- median(df$PercentObese)
+df$Obesity <- ifelse(df$PercentObese >= med, "Greater than average obesity", "Lower than average obesity")
+
+# Plot the data
+ggplot(df, aes(x=state, y=CountMinusExpected, fill=Obesity)) +
+  geom_col() +
+  labs(x="State", y="Observed - Expected # of Restaurants", fill="State Obesity Rate") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle=90, size=6))
+
+```
+
+It looks like there may be a trend here, but we'll need to quantify it further to be sure. To make certain that we aren't being overly influenced by outliers (I'm looking at you, California!), and to further quantify the trend above, lets take the medians of those values above and see how the median for the states with greater than average obesity rates compares to the median for the states with lower than average obesity rates.
+
+```{r, fig.align='center'}
+# Calculate the median values
+obesity.diff <- df %>%
+  group_by(Obesity) %>%
+  summarise(med = median(CountMinusExpected))
+
+# Plot the data
+ggplot(obesity.diff, aes(x=Obesity, y=med, fill=Obesity)) +
+  geom_col() +
+  labs(y="Median Value of Observed - Expected", fill="State Obesity Rate") +
+  ggtitle("Obese states have more fast food restaurants than expected") +
+  theme_minimal()
+```
+
+The median for the more obese states is about 39.4, while the less obese states have a median of about -7.0. **This means that more obese states tend to have ~40 more fast food restaurants in our dataset than what we would have predicted based on their population size, while less obese states have ~7 less fast food restaurants than we would have expected**. That might sound like a big difference, but _is it_?
+
+## Statistically Significant Difference in the Proportion of Fast Food Restaurants in Obese States
+
+Below is a run of **10,000 simulations** performing the exact same analysis as above, except that rather than using obesity rates to assign states to "Greater than average obesity" and "Lower than average obesity" categories, those category assignments are randomly assigned to different states during each simulation (permutation testing). Using those random assignments, differences in median scores for the two categories are re-calculated for each simulation, and the distribution of the difference between the simulated "Lower than average obesity" states is subtracted from the simulated "Greater than average obesity" states. In our original dataset, the difference was 39.4 - (-7.0) = 46.4, so a vertical line has been placed to show the value that we saw in our actual dataset. To be more conservative with our analysis, a line has been placed at -46.4 as well to perform a two-sided test.
+
+```{r, fig.align='center'}
+# Calculate the difference between the original 2 median values
+greater.obesity <- obesity.diff[which(obesity.diff$Obesity == "Greater than average obesity"), 2][1]
+lower.obesity <- obesity.diff[which(obesity.diff$Obesity == "Lower than average obesity"), 2][1]
+diff <- as.numeric(greater.obesity) - as.numeric(lower.obesity)
+
+# Perform the 10,000 permutation tests
+diffs <- c()
+df.resample <- subset(df, select = c(CountMinusExpected, Obesity)) 
+for (i in 1:10000) {
+  df.resample$shuffled <- sample(df.resample$Obesity, size=50, replace = FALSE) 
+  resampled.diffs <- df.resample %>%
+    group_by(shuffled) %>%
+    summarise(shuffled.med = median(CountMinusExpected))
+  greater.obesity <- resampled.diffs[which(resampled.diffs$shuffled == "Greater than average obesity"), 2][1]
+  lower.obesity <- resampled.diffs[which(resampled.diffs$shuffled == "Lower than average obesity"), 2][1]
+  new.diff <- as.numeric(greater.obesity) - as.numeric(lower.obesity)
+  diffs <- c(diffs, new.diff)
+}
+
+# Identify values that were as extreme, or more extreme, than our initial observed value
+diffs <- as.data.frame(diffs)
+diffs$extreme <- ifelse(diffs$diffs >= diff | diffs$diffs <= -diff, 1, 0)
+
+# Calculate the P-value and the percentage of simulations that fell between our cut-off values
+pt <- (1 - (sum(diffs$extreme) / 10000)) * 100
+p.value <- (sum(diffs$extreme) / 10000)
+
+# Plot the data
+ggplot(diffs, aes(x=diffs)) +
+  geom_density(color="darkblue", fill="darkblue") +
+  geom_vline(xintercept = diff) +
+  geom_vline(xintercept = -diff) +
+  labs(x="Difference in Medians") +
+  annotate("text", x=0, y=0.026, label=paste0(pt, "%")) +
+  annotate("text", x=0, y=0.015, label=paste0("P-value = ", p.value)) +
+  ggtitle("Distribution of Differences after 10,000 Permutation Tests") +
+  geom_segment(aes(x = 40,
+                   y = 0.025,
+                   xend = -40,
+                   yend = 0.025), colour='black', size=0.75,
+                   arrow = arrow(length = unit(0.5, "cm"))) +
+  geom_segment(aes(x = -40,
+                   y = 0.025,
+                   xend = 40,
+                   yend = 0.025), colour='black', size=0.75,
+               arrow = arrow(length = unit(0.5, "cm"))) + 
+  theme_minimal()
+```
+
+There it is! **After 10,000 simulations, less than 2% of randomly permuted samples had a difference that was as extreme as the one that we found in our original dataset**, which means that we have a statistically significant finding (using alpha=0.05)- in other words, **we can reject the idea that there is no relationship between fast food restaurant presence and obesity rates.** The trend that we saw in our dataset is unlikely to have happened by chance alone, if no difference between the more obese and less obese states existed.
+
+## Limitations
+While we did find a statistically significant difference, we should be careful with our interpretation of our data here. Some of the valid concerns we may have include:
+
+* Our population, obesity rates, and fast food restaurant datasets all contain data from distinct years (2010, 2015, 2018, respectively), so it's possible that we would see a less significant effect if we had data that was all from the same year.
+* Our fast food dataset contained only 10,000 entries, which is a subset of all fast food restaurants in the US. It is unclear how representative this subset is of the US as a whole. Some of the suggested uses for the dataset, as suggested by the company that provided it, include looking at comparing "States with the most and least fast food restaurants per capita", so we might assume that the data is a fair representation for different states, that isn't exactly clear.
+* A large variety of factors can affect obesity rates and restaurant locations, so there are likely many confounding variables that could exist here.

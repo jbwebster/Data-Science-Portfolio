@@ -1,0 +1,3 @@
+fast food dataset: https://www.kaggle.com/datafiniti/fast-food-restaurants
+Population data: https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States_by_population 
+Obesity Rates: https://www.livescience.com/50973-obesity-rates-full-rankings.html
