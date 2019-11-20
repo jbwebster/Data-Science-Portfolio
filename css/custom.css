@@ -1,0 +1,131 @@
+/*
+ Color Scheme
+ Background- light gray: #f5f5f5
+ Sidenav background: dark gray: #4d4d4d
+ Pop blue: #005c99
+ Muted orange: $33adff
+ 
+ */
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #4d4d4d;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #007acc;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #005c99;
+    color: white;
+}
+
+.pageContainer {
+    height:100%;
+    width: 100%;
+    background-color: #ffbf80;
+    padding-left: 5%
+    padding-right: 5%;
+}
+
+html, body {
+    height: 100vh;
+}
+body {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/578/453/162/abstract-3d-cube-wallpaper-preview.jpg")
+}
+
+.content {
+    height: 100vh;
+}
+
+.headerText {
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 15px;
+    overflow: auto;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Palatino";
+}
+
+#HomeSub {
+    text-align:left;
+    font-family: "Palatino";
+}
+
+.projectContent {
+    border-style: none none outset outset;
+    border-color: #005c99;
+    padding-left: 1%;
+    padding-right: 5%;
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.projectContent:hover {
+    background-color: #f5f5f5;
+    transform: scale(1.005);
+}
+
+
+.projectRow {
+    display: table-row;
+}
+
+.projectImage {
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+    flex: 0 0 15%;
+}
+
+.customImage {
+    height: 150px;
+    width: 150px;
+}
+
+.projectDescription {
+    height: 150px;
+    width: 100%;
+    padding: 10px;
+    flex: 1;
+}
+
+.projectTitle {
+    font-family: "Palatino"
+}
+
+.projectText {
+    color: #595959;
+}
+
+.keywordContainer {
+    position: absolute:
+    bottom: 0;
+}
+
+.keywords {
+    color: #999999;
+}
+
+.logoContainer {
+    width: 100%;
+}

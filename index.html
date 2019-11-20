@@ -1,127 +1,73 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" style="height:100%">
+
 <head>
-<!-- Adapted format from https://www.w3schools.com/bootstrap/bootstrap_templates.asp -->
-  <title>Data Science Portfolio</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-  <style>
-    /* Remove the navbar's default margin-bottom and rounded borders */ 
-    .navbar {
-      margin-bottom: 0;
-      border-radius: 0;
-      position: fixed;
-      top: 0;
-      width: 100%;
-    }
-    
-    /* Add a gray background color and some padding to the footer */
-    footer {
-      background-color: #f2f2f2;
-      padding: 25px;
-      position: fixed;
-      bottom: 0;
-      width: 100%
-    }
-    /* Additional custom formatting, not from w3schools.com*/
-    .col-sm-3 {
-      height: 300px;
-      width: 25%;
-      overflow: hidden;
-    }
-    .col-sm-3 .img-responsive {
-      height: auto;
-      width: 25%;
-      height: 50%;
-    }
-   .col-sm-3:hover {
-      transform: scale(1.05);
-    }
-  .keyword {
-      color: #DFDFDF;
-      align: left;
-  }
-  .row {
-      width: 99%;
-  }
-  
-  </style>
+    <link rel="stylesheet" type="text/css" href="css/custom.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Data Science Portfolio</title>
 </head>
-<body>
 
-<nav class="navbar navbar-inverse">
-  <div class="container-fluid">
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="index.html">Home</a></li>
-        <li><a href="About_Me.html">About</a></li>
-        <li><a href="Contact.html">Contact</a></li>
-      </ul>
-    </div>
-  </div>
-</nav>
+<body style="margin:0px; padding-left:3%; padding-right:3%">
+    <div class="pageContainer">
+        <div style="background-color:#e6e6e6">
+            <!-- Nav Bar -->
+            <div class="topnav">
+                <a class="active" href="index.html">Home</a>
+                <a href="About_Me.html">About</a>
+            </div>
+    
+            <!-- Page Content -->
+            <div class="content" style="background-color: #f2f2f2">
+                <div class="headerText">
+                    <h1>Data Science Portfolio</h1>
+                </div>
+                <div style="padding-left:5%;padding-right:5%;">
+                    <h2 id="HomeSub">Featured Projects</h2>
+                    <!-- Project Content -->
+                    <a href="Projects/DisneyPlus/DisneyPlusLayout.html" style="color:inherit;text-decoration:none;">
+                        <div class="projectContent">
+                            <div class="projectImage">
+                                <img class="customImage" src="Projects/DisneyPlus/wordcloud.jpg" alt="Project Image">
+                            </div>
+                            <div class="projectDescription">
+                                <strong class="projectTitle">Disney+ Opening Week: Sentiment Analysis on Twitter</strong><br><br>
+                                <em class="projectText">Sentiment analysis of over 100,000 Tweets collected from Twitter
+                                    in the days immediately following the release of Disney's streaming service, Disney+. The analysis
+                                    provides quantitative evidence showing the overall positive response to the streaming platform,
+                                    but also identifies some critical feedback about areas where the service could improve.</em>
+                                <div class="keywordContainer">
+                                    <p class="keywords">Keywords: Python, R, Twitter API, NLP, Sentiment Analysis
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="Projects/fast-food/FastFoodLayout.html" style="color:inherit;text-decoration:none;">
+                        <div class="projectContent">
+                            <div class="projectImage">
+                                <img class="customImage" src="Projects/fast-food/foodperstate.jpg" alt="Project Image">
+                            </div>
+                            <div class="projectDescription">
+                                <strong class="projectTitle">Fast Food and Obesity: A Micro Project</strong><br><br>
+                                <em class="projectText">Basic exploratory analysis of a fast food dataset found on Kaggle,
+                                combined with additional datasets about US State populations and obesity rates. This analysis
+                                concludes that states with higher obesity rates have a higher number of fast food
+                                restaurants than what would be expected based on the state population, based on
+                                the data available.</em>
+                                <div class="keywordContainer">
+                                    <p class="keywords">Keywords: R, ggplot, exploratory analysis
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
 
-<div class="jumbotron">
-  <div class="container text-center">
-    <h1>Data Science Portfolio</h1>      
-    <p>A portfolio of data science projects and stories developed in my spare time.</p>
-  </div>
-</div>
-  
-<div class="container-fluid bg-3 text-center">    
-  <h3>Selected Projects</h3><br>
-  <div class="row">
-    <a href="Projects/fast-food/FastFoodLayout.html">
-        <div class="col-sm-3">
-            <p style="color:#333">Fast Food and Obesity: A Micro Project</p>
-            <img src="Projects/fast-food/foodperstate.jpg" class="img-responsive" style="width:100%" alt="Image">
-            <p class="keyword">R, ggplot</p>
+            </div>
+            <footer>
+            </footer>
         </div>
-    </a>
-    <div class="col-sm-3"> 
-      <p>Some text..</p><br>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%"  alt="Image">
     </div>
-    <div class="col-sm-3"> 
-      <p>Some text..</p><br>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-    </div>
-    <div class="col-sm-3">
-      <p>Some text..</p><br>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-    </div>
-  </div>
-</div><br>
-
-<!-- Second row of projects. Uncomment this as portfolio grows
-<div class="container-fluid bg-3 text-center">    
-  <div class="row">
-    <div class="col-sm-3">
-      <p>Some text..</p>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-    </div>
-    <div class="col-sm-3"> 
-      <p>Some text..</p>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-    </div>
-    <div class="col-sm-3"> 
-      <p>Some text..</p>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-    </div>
-    <div class="col-sm-3">
-      <p>Some text..</p>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
-    </div>
-  </div>
-</div><br><br>
--->
-
-<footer class="container-fluid text-center">
-  <h3>Jace Webster</h3>
-</footer>
 
 </body>
 </html>
