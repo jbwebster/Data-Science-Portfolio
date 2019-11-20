@@ -76,7 +76,7 @@ compressed.state <- data.proc %>%
 names(compressed.state) <- c("state", "Count")
 compressed.state$pt <- (compressed.state$Count / 10000) * 100
 
-figpath <- "figures/foodperstate.jpg"
+figpath <- "foodperstate.jpg"
 p <- plot_usmap(data=compressed.state, values = 'pt', color='blue') +
   scale_fill_continuous(low="white", high="blue", name="% of Fast Food Restaurants", label=scales::comma) +
   theme(legend.position = "none") 
