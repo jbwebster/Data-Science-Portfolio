@@ -44,7 +44,7 @@
 }
 
 html, body {
-    height: 100vh;
+    min-height: 100%;
 }
 body {
     background-image: url("https://c4.wallpaperflare.com/wallpaper/578/453/162/abstract-3d-cube-wallpaper-preview.jpg")
@@ -76,8 +76,9 @@ h1 {
     border-color: #005c99;
     padding-left: 1%;
     padding-right: 5%;
-    display: flex;
+    display: inline-flex;
     margin-bottom: 5px;
+    overflow: hidden;
 }
 
 .projectContent:hover {
@@ -103,10 +104,9 @@ h1 {
 }
 
 .projectDescription {
-    height: 150px;
-    width: 100%;
-    padding: 10px;
-    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .projectTitle {
@@ -118,7 +118,6 @@ h1 {
 }
 
 .keywordContainer {
-    position: absolute:
     bottom: 0;
 }
 
@@ -129,3 +128,10 @@ h1 {
 .logoContainer {
     width: 100%;
 }
+
+.notebookContainer {
+    width: 100%;
+    height: auto;
+    min-height: 100%;
+}
+
