@@ -1,6 +1,0 @@
-Warning 1: Value 392978190.565999985 of field Shape_STAr of feature 0 not successfully written. Possibly due to too larger number with respect to field width
-Warning 1: Value 269472772.984000027 of field Shape_STAr of feature 1 not successfully written. Possibly due to too larger number with respect to field width
-Warning 1: Value 238777374.365999997 of field Shape_STAr of feature 2 not successfully written. Possibly due to too larger number with respect to field width
-Warning 1: Value 189529967.548999995 of field Shape_STAr of feature 3 not successfully written. Possibly due to too larger number with respect to field width
-Warning 1: Value 264394583.374000013 of field Shape_STAr of feature 4 not successfully written. Possibly due to too larger number with respect to field width
-Warning 1: Value 424483246.740999997 of field Shape_STAr of feature 5 not successfully written. Possibly due to too larger number with respect to field width
