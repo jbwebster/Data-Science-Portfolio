@@ -86,6 +86,16 @@ h1 {
     transform: scale(1.005);
 }
 
+.pubContent {
+    border-style: none none none outset;
+    border-color: #005c99;
+    padding-left: 1%;
+    padding-right: 5%;
+    display: inline-flex;
+    margin-bottom: 5px;
+    overflow: hidden;
+}
+
 
 .projectRow {
     display: table-row;
@@ -133,5 +143,9 @@ h1 {
     width: 100%;
     height: auto;
     min-height: 100%;
+}
+
+.aboutContainer {
+    padding: 5%
 }
 
