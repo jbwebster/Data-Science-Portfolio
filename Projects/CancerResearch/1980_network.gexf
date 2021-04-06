@@ -1,0 +1,1705 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>03/03/2020</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Cocconi G" label="Cocconi G" />
+      <node id=" Pelizzola D" label=" Pelizzola D" />
+      <node id=" Giovannini G" label=" Giovannini G" />
+      <node id="Olsson H" label="Olsson H" />
+      <node id=" Ranstam J." label=" Ranstam J." />
+      <node id=" Brinton LA" label=" Brinton LA" />
+      <node id=" Schairer C" label=" Schairer C" />
+      <node id=" Robinson E." label=" Robinson E." />
+      <node id="Strax P." label="Strax P." />
+      <node id="Shapiro S" label="Shapiro S" />
+      <node id="[No authors listed]" label="[No authors listed]" />
+      <node id="Lopez M" label="Lopez M" />
+      <node id=" Di Lauro L" label=" Di Lauro L" />
+      <node id=" Pagliarulo C" label=" Pagliarulo C" />
+      <node id=" De Placido S" label=" De Placido S" />
+      <node id=" Kvinnsland S" label=" Kvinnsland S" />
+      <node id=" Frye D" label=" Frye D" />
+      <node id=" Fraschini G" label=" Fraschini G" />
+      <node id=" Calvo F" label=" Calvo F" />
+      <node id="Foekens JA" label="Foekens JA" />
+      <node id=" Portengen H" label=" Portengen H" />
+      <node id=" Alexieva-Figusch J" label=" Alexieva-Figusch J" />
+      <node id=" Klijn JG." label=" Klijn JG." />
+      <node id="Veronesi U." label="Veronesi U." />
+      <node id=" Eklund G" label=" Eklund G" />
+      <node id=" Rutqvist LE" label=" Rutqvist LE" />
+      <node id="McGuire WL" label="McGuire WL" />
+      <node id=" Lidereau R" label=" Lidereau R" />
+      <node id=" Kopans DB" label=" Kopans DB" />
+      <node id="Fisher ER" label="Fisher ER" />
+      <node id=" Sass R" label=" Sass R" />
+      <node id=" Fisher B" label=" Fisher B" />
+      <node id=" Wolmark N." label=" Wolmark N." />
+      <node id=" Pujol H" label=" Pujol H" />
+      <node id="Ewertz M" label="Ewertz M" />
+      <node id="Stoll BA." label="Stoll BA." />
+      <node id=" Eiermann W" label=" Eiermann W" />
+      <node id="Chlebowski RT" label="Chlebowski RT" />
+      <node id=" Henderson IC" label=" Henderson IC" />
+      <node id=" Yamamoto H" label=" Yamamoto H" />
+      <node id=" Inaji H" label=" Inaji H" />
+      <node id=" Yayoi E" label=" Yayoi E" />
+      <node id=" Izuo M" label=" Izuo M" />
+      <node id=" Enomoto K" label=" Enomoto K" />
+      <node id=" Kasumi F" label=" Kasumi F" />
+      <node id=" Sakamoto G" label=" Sakamoto G" />
+      <node id=" Tominaga T" label=" Tominaga T" />
+      <node id="Henderson IC" label="Henderson IC" />
+      <node id="Bonadonna G" label="Bonadonna G" />
+      <node id=" Valagussa P." label=" Valagussa P." />
+      <node id=" Hayes DF" label=" Hayes DF" />
+      <node id=" Kufe DW." label=" Kufe DW." />
+      <node id=" Howell A" label=" Howell A" />
+      <node id=" Waterhouse JA." label=" Waterhouse JA." />
+      <node id="Tominaga T" label="Tominaga T" />
+      <node id=" Muss HB" label=" Muss HB" />
+      <node id="Ingle JN" label="Ingle JN" />
+      <node id=" Mailliard JA" label=" Mailliard JA" />
+      <node id=" Schaid DJ" label=" Schaid DJ" />
+      <node id=" Krook JE" label=" Krook JE" />
+      <node id=" Rubens RD." label=" Rubens RD." />
+      <node id=" Murphy RF." label=" Murphy RF." />
+      <node id=" Jordan VC." label=" Jordan VC." />
+      <node id=" Wang DY" label=" Wang DY" />
+      <node id=" Howell A." label=" Howell A." />
+      <node id="La Vecchia C" label="La Vecchia C" />
+      <node id=" Negri E" label=" Negri E" />
+      <node id=" Parazzini F" label=" Parazzini F" />
+      <node id=" Boyle P" label=" Boyle P" />
+      <node id=" Gentile A" label=" Gentile A" />
+      <node id=" Baum M." label=" Baum M." />
+      <node id="May FE" label="May FE" />
+      <node id=" Westley BR." label=" Westley BR." />
+      <node id=" Royle GT" label=" Royle GT" />
+      <node id=" Taylor I." label=" Taylor I." />
+      <node id=" Yamaguchi K" label=" Yamaguchi K" />
+      <node id=" Suzuki M" label=" Suzuki M" />
+      <node id=" Abe K." label=" Abe K." />
+      <node id=" Coleman RE" label=" Coleman RE" />
+      <node id=" Miller WR" label=" Miller WR" />
+      <node id=" Hawkins RA" label=" Hawkins RA" />
+      <node id=" King RJ" label=" King RJ" />
+      <node id=" McPherson K" label=" McPherson K" />
+      <node id=" Wittliff JL." label=" Wittliff JL." />
+      <node id=" Tormey DC." label=" Tormey DC." />
+      <node id="Pronzato P" label="Pronzato P" />
+      <node id=" Amoroso D" label=" Amoroso D" />
+      <node id=" Bertelli G" label=" Bertelli G" />
+      <node id=" Conte PF" label=" Conte PF" />
+      <node id=" Sertoli MR" label=" Sertoli MR" />
+      <node id=" Rosso R." label=" Rosso R." />
+      <node id=" Yamamoto T" label=" Yamamoto T" />
+      <node id=" Sugano H" label=" Sugano H" />
+      <node id="Manni A" label="Manni A" />
+      <node id=" Boucher AE" label=" Boucher AE" />
+      <node id=" Harvey HA" label=" Harvey HA" />
+      <node id=" Lipton A" label=" Lipton A" />
+      <node id=" Kaufmann M" label=" Kaufmann M" />
+      <node id="Merkel DE" label="Merkel DE" />
+      <node id=" Osborne CK." label=" Osborne CK." />
+      <node id=" Mattheiem W" label=" Mattheiem W" />
+      <node id=" Paridaens R" label=" Paridaens R" />
+      <node id=" Schnitt SJ" label=" Schnitt SJ" />
+      <node id=" Gelman R" label=" Gelman R" />
+      <node id=" Connolly JL" label=" Connolly JL" />
+      <node id=" Harris JR." label=" Harris JR." />
+      <node id=" McNeese MD" label=" McNeese MD" />
+      <node id=" Ames FC" label=" Ames FC" />
+      <node id="Robertson JF" label="Robertson JF" />
+      <node id=" Walker KJ" label=" Walker KJ" />
+      <node id=" Nicholson RI" label=" Nicholson RI" />
+      <node id=" Blamey RW." label=" Blamey RW." />
+      <node id="Henderson IC." label="Henderson IC." />
+      <node id=" Lechevrel C" label=" Lechevrel C" />
+      <node id="Devitt JE." label="Devitt JE." />
+      <node id=" Colditz GA" label=" Colditz GA" />
+      <node id=" Stampfer MJ" label=" Stampfer MJ" />
+      <node id=" Willett WC" label=" Willett WC" />
+      <node id=" Rosner B" label=" Rosner B" />
+      <node id=" Speizer FE." label=" Speizer FE." />
+      <node id=" Dupont WD" label=" Dupont WD" />
+      <node id=" Ross RK" label=" Ross RK" />
+      <node id=" Pike MC" label=" Pike MC" />
+      <node id=" Casagrande JT" label=" Casagrande JT" />
+      <node id=" Henderson BE." label=" Henderson BE." />
+      <node id="Arteaga CL" label="Arteaga CL" />
+      <node id=" Vihko R." label=" Vihko R." />
+      <node id=" Brunet M" label=" Brunet M" />
+      <node id=" Hacene K" label=" Hacene K" />
+      <node id=" Rochefort H." label=" Rochefort H." />
+      <node id="Miller AB" label="Miller AB" />
+      <node id=" Langlands AO." label=" Langlands AO." />
+      <node id="Lund E." label="Lund E." />
+      <node id=" Buzdar AU" label=" Buzdar AU" />
+      <node id=" Smith TL" label=" Smith TL" />
+      <node id=" Hortobagyi GN." label=" Hortobagyi GN." />
+      <node id=" Knabbe C" label=" Knabbe C" />
+      <node id=" Lippman ME" label=" Lippman ME" />
+      <node id=" Dickson RB." label=" Dickson RB." />
+      <node id=" Chamberlain J" label=" Chamberlain J" />
+      <node id=" Wilson P" label=" Wilson P" />
+      <node id=" Coombes RC." label=" Coombes RC." />
+      <node id="Thorpe SM" label="Thorpe SM" />
+      <node id=" Rochefort H" label=" Rochefort H" />
+      <node id=" Garcia M" label=" Garcia M" />
+      <node id=" Freiss G" label=" Freiss G" />
+      <node id=" Christensen IJ" label=" Christensen IJ" />
+      <node id=" Pau B" label=" Pau B" />
+      <node id=" Rasmussen BB" label=" Rasmussen BB" />
+      <node id=" Rose C." label=" Rose C." />
+      <node id=" Kiang DT." label=" Kiang DT." />
+      <node id=" Mouridsen HT" label=" Mouridsen HT" />
+      <node id="Andersen J" label="Andersen J" />
+      <node id=" Poulsen HS." label=" Poulsen HS." />
+      <node id="Muss HB" label="Muss HB" />
+      <node id=" Hubay CA" label=" Hubay CA" />
+      <node id=" Gordon NH" label=" Gordon NH" />
+      <node id=" Marshall JS" label=" Marshall JS" />
+      <node id="Brünner N" label="Brünner N" />
+      <node id=" Clarke R" label=" Clarke R" />
+      <node id=" Dickson RB" label=" Dickson RB" />
+      <node id=" Lippman ME." label=" Lippman ME." />
+      <node id=" Martin PM." label=" Martin PM." />
+      <node id=" Gundersen S" label=" Gundersen S" />
+      <node id=" Lund E" label=" Lund E" />
+      <node id=" Kvinnsland S." label=" Kvinnsland S." />
+      <node id="Krishnan L" label="Krishnan L" />
+      <node id=" Mansfield CM" label=" Mansfield CM" />
+      <node id=" Reddy EK" label=" Reddy EK" />
+      <node id=" Thomas JH" label=" Thomas JH" />
+      <node id=" Jewell WR." label=" Jewell WR." />
+      <node id=" Wingo PA" label=" Wingo PA" />
+      <node id=" Ellis IO" label=" Ellis IO" />
+      <node id=" Elston CW" label=" Elston CW" />
+      <node id=" Blamey RW" label=" Blamey RW" />
+      <node id="Fisher B" label="Fisher B" />
+      <node id=" Redmond C" label=" Redmond C" />
+      <node id=" Wickerham DL" label=" Wickerham DL" />
+      <node id=" Wolmark N" label=" Wolmark N" />
+      <node id=" Bowman D" label=" Bowman D" />
+      <node id=" Margolese R" label=" Margolese R" />
+      <node id=" Legault-Poisson S" label=" Legault-Poisson S" />
+      <node id=" Reed MJ" label=" Reed MJ" />
+      <node id=" Ghilchik MW" label=" Ghilchik MW" />
+      <node id=" James VH." label=" James VH." />
+      <node id=" Scambia G" label=" Scambia G" />
+      <node id=" Mancuso S." label=" Mancuso S." />
+      <node id="Eskelinen M" label="Eskelinen M" />
+      <node id=" Baak JP" label=" Baak JP" />
+      <node id="Shukla HS" label="Shukla HS" />
+      <node id=" Ikeda T" label=" Ikeda T" />
+      <node id=" Abe O." label=" Abe O." />
+      <node id="Murayama Y" label="Murayama Y" />
+      <node id=" Nakamura T" label=" Nakamura T" />
+      <node id=" Wada T" label=" Wada T" />
+      <node id=" Toge T" label=" Toge T" />
+      <node id=" Niimoto M" label=" Niimoto M" />
+      <node id=" Hattori T." label=" Hattori T." />
+      <node id=" Badger B" label=" Badger B" />
+      <node id=" Friedman S" label=" Friedman S" />
+      <node id=" Ellis H." label=" Ellis H." />
+      <node id=" Decarli A" label=" Decarli A" />
+      <node id="Ciatto S" label="Ciatto S" />
+      <node id=" Cecchini S" label=" Cecchini S" />
+      <node id=" Grazzini G" label=" Grazzini G" />
+      <node id=" Iossa A" label=" Iossa A" />
+      <node id=" Hortobagyi GN" label=" Hortobagyi GN" />
+      <node id="Osborne CK" label="Osborne CK" />
+      <node id=" Fuqua SA" label=" Fuqua SA" />
+      <node id=" Vielh P" label=" Vielh P" />
+      <node id=" Mosseri V" label=" Mosseri V" />
+      <node id=" Durand JC" label=" Durand JC" />
+      <node id=" Vilcoq JR." label=" Vilcoq JR." />
+      <node id=" Lees AW" label=" Lees AW" />
+      <node id=" Russell IS" label=" Russell IS" />
+      <node id="Noguchi S" label="Noguchi S" />
+      <node id=" Koyama H." label=" Koyama H." />
+      <node id=" Costa A" label=" Costa A" />
+      <node id="Baum M." label="Baum M." />
+      <node id=" Akagi M." label=" Akagi M." />
+      <node id=" Taguchi T" label=" Taguchi T" />
+      <node id=" Ishida T" label=" Ishida T" />
+      <node id=" Morimoto T" label=" Morimoto T" />
+      <node id=" Smith IE" label=" Smith IE" />
+      <node id=" Harmer CL" label=" Harmer CL" />
+      <node id=" Weiss RB" label=" Weiss RB" />
+      <node id=" Perloff M" label=" Perloff M" />
+      <node id=" Korzun AH" label=" Korzun AH" />
+      <node id=" Wood WC." label=" Wood WC." />
+      <node id="Zielinski CC" label="Zielinski CC" />
+      <node id=" Bell J" label=" Bell J" />
+      <node id=" Skoog L." label=" Skoog L." />
+      <node id=" Fisher B." label=" Fisher B." />
+      <node id=" Yokoe T" label=" Yokoe T" />
+      <node id=" Ogawa T" label=" Ogawa T" />
+      <node id=" Yoshida M" label=" Yoshida M" />
+      <node id=" Iino Y" label=" Iino Y" />
+      <node id=" Izuo M." label=" Izuo M." />
+      <node id=" Nomizu T" label=" Nomizu T" />
+      <node id=" Abe R." label=" Abe R." />
+      <node id="Rose DP" label="Rose DP" />
+      <node id=" Sutherland RL." label=" Sutherland RL." />
+      <node id="Colomer R" label="Colomer R" />
+      <node id=" Salvador L." label=" Salvador L." />
+      <node id=" Todd JH" label=" Todd JH" />
+      <node id="Langlands AO" label="Langlands AO" />
+      <node id="Lønning PE" label="Lønning PE" />
+      <node id=" Bloomer WD." label=" Bloomer WD." />
+      <node id="Rosen PP" label="Rosen PP" />
+      <node id=" Kinne DW" label=" Kinne DW" />
+      <node id=" Hellman S." label=" Hellman S." />
+      <node id="Maehle BO" label="Maehle BO" />
+      <node id=" Skjaerven R" label=" Skjaerven R" />
+      <node id=" Thorsen T" label=" Thorsen T" />
+      <node id=" Hartveit F." label=" Hartveit F." />
+      <node id="Clarke R" label="Clarke R" />
+      <node id=" Come S" label=" Come S" />
+      <node id=" Silver B" label=" Silver B" />
+      <node id=" Recht A" label=" Recht A" />
+      <node id="Kiang DT" label="Kiang DT" />
+      <node id=" Kennedy BJ." label=" Kennedy BJ." />
+      <node id="Nomura Y" label="Nomura Y" />
+      <node id=" Tashiro H" label=" Tashiro H" />
+      <node id=" Martin PM" label=" Martin PM" />
+      <node id="Powles TJ" label="Powles TJ" />
+      <node id=" Dowsett M" label=" Dowsett M" />
+      <node id=" McKinna A" label=" McKinna A" />
+      <node id=" Nash AG" label=" Nash AG" />
+      <node id="Forrest AP." label="Forrest AP." />
+      <node id=" Sevelda P" label=" Sevelda P" />
+      <node id=" Rosselli Del Turco M" label=" Rosselli Del Turco M" />
+      <node id="Rutqvist LE" label="Rutqvist LE" />
+      <node id=" Glas U" label=" Glas U" />
+      <node id=" Nordenskjöld B" label=" Nordenskjöld B" />
+      <node id=" Rotstein S" label=" Rotstein S" />
+      <node id=" Skoog L" label=" Skoog L" />
+      <node id=" Somell A" label=" Somell A" />
+      <node id="Simpson HW" label="Simpson HW" />
+      <node id=" Mouridsen HT." label=" Mouridsen HT." />
+      <node id="Poulin R" label="Poulin R" />
+      <node id=" Labrie F." label=" Labrie F." />
+      <node id=" Komaki K" label=" Komaki K" />
+      <node id=" Monden Y." label=" Monden Y." />
+      <node id="Parl FF" label="Parl FF" />
+      <node id="Thomsen HS" label="Thomsen HS" />
+      <node id=" Munck O" label=" Munck O" />
+      <node id=" Andersen KW." label=" Andersen KW." />
+      <node id=" Rose MA" label=" Rose MA" />
+      <node id=" Goodman RL." label=" Goodman RL." />
+      <node id="Nicholson RI" label="Nicholson RI" />
+      <node id=" Smith IE." label=" Smith IE." />
+      <node id=" Tormey DC" label=" Tormey DC" />
+      <node id=" Falkson G." label=" Falkson G." />
+      <node id=" Thompson WD." label=" Thompson WD." />
+      <node id=" Oswald MJ." label=" Oswald MJ." />
+      <node id=" Williams MR" label=" Williams MR" />
+      <node id=" Zajdela A" label=" Zajdela A" />
+      <node id=" Pouillart P." label=" Pouillart P." />
+      <node id="Osborne CK." label="Osborne CK." />
+      <node id=" Weil M" label=" Weil M" />
+      <node id=" Auclerc G" label=" Auclerc G" />
+      <node id=" Khayat D" label=" Khayat D" />
+      <node id="Adami HO" label="Adami HO" />
+      <node id=" Holmberg L" label=" Holmberg L" />
+      <node id="Mueller CB." label="Mueller CB." />
+      <node id=" Hennekens CH" label=" Hennekens CH" />
+      <node id=" Hermans J" label=" Hermans J" />
+      <node id=" Adami HO" label=" Adami HO" />
+      <node id=" Christoffersen T" label=" Christoffersen T" />
+      <node id="Stanford JL" label="Stanford JL" />
+      <node id=" Hoover RN." label=" Hoover RN." />
+      <node id=" Wax Y" label=" Wax Y" />
+      <node id=" Rosen N" label=" Rosen N" />
+      <node id=" Modan B." label=" Modan B." />
+      <node id=" Mauvais-Jarvis P." label=" Mauvais-Jarvis P." />
+      <node id=" Fagerberg G" label=" Fagerberg G" />
+      <node id=" Carstensen J" label=" Carstensen J" />
+      <node id=" Nordenskjöld B." label=" Nordenskjöld B." />
+      <node id="Lippman ME" label="Lippman ME" />
+      <node id=" Fentiman IS." label=" Fentiman IS." />
+      <node id=" Angus B" label=" Angus B" />
+      <node id=" Horne CH." label=" Horne CH." />
+      <node id="Falkson G" label="Falkson G" />
+      <node id=" Gelman RS" label=" Gelman RS" />
+      <node id="Rivkin SE" label="Rivkin SE" />
+      <node id=" Gad-el-Mawla N" label=" Gad-el-Mawla N" />
+      <node id=" Osborne CK" label=" Osborne CK" />
+      <node id=" Ciatto S" label=" Ciatto S" />
+      <node id="Nishi T" label="Nishi T" />
+      <node id=" Okajima K" label=" Okajima K" />
+      <node id=" Sato H" label=" Sato H" />
+      <node id=" Takahashi T" label=" Takahashi T" />
+      <node id="Izuo M" label="Izuo M" />
+      <node id=" Djiane J" label=" Djiane J" />
+      <node id=" Morgan DA" label=" Morgan DA" />
+      <node id="Hortobagyi GN" label="Hortobagyi GN" />
+      <node id=" Hug V" label=" Hug V" />
+      <node id=" Kau SW" label=" Kau SW" />
+      <node id=" Holmes FA" label=" Holmes FA" />
+      <node id="Wynder EL" label="Wynder EL" />
+      <node id=" Rose DP." label=" Rose DP." />
+      <node id="Dickson RB" label="Dickson RB" />
+      <node id=" Connolly J" label=" Connolly J" />
+      <node id="Vandewalle B" label="Vandewalle B" />
+      <node id=" Lefebvre J." label=" Lefebvre J." />
+      <node id="Centers for Disease Control (CDC).." label="Centers for Disease Control (CDC).." />
+      <node id=" Alberto P" label=" Alberto P" />
+      <node id=" Moser K" label=" Moser K" />
+      <node id=" Nilsson B" label=" Nilsson B" />
+      <node id="Reed MJ" label="Reed MJ" />
+      <node id=" Coldham NG" label=" Coldham NG" />
+      <node id="Holmberg L" label="Holmberg L" />
+      <node id=" Guman N" label=" Guman N" />
+      <node id=" Mordoh J." label=" Mordoh J." />
+      <node id=" Persson I" label=" Persson I" />
+      <node id=" Hoover R" label=" Hoover R" />
+      <node id=" Simoncini E" label=" Simoncini E" />
+      <node id=" Marpicati P" label=" Marpicati P" />
+      <node id=" Marini G." label=" Marini G." />
+      <node id=" Leinster SJ" label=" Leinster SJ" />
+      <node id=" Pacini P" label=" Pacini P" />
+      <node id=" Miller AB" label=" Miller AB" />
+      <node id=" Asaishi K" label=" Asaishi K" />
+      <node id=" Okazaki M" label=" Okazaki M" />
+      <node id=" Okazaki A" label=" Okazaki A" />
+      <node id=" Hayasaka H" label=" Hayasaka H" />
+      <node id="Takatsuka Y" label="Takatsuka Y" />
+      <node id=" Kawahara T" label=" Kawahara T" />
+      <node id="Yayoi E" label="Yayoi E" />
+      <node id=" Mori T." label=" Mori T." />
+      <node id="Pavlov AS" label="Pavlov AS" />
+      <node id=" Bradlow HL" label=" Bradlow HL" />
+      <node id=" Daidone MG" label=" Daidone MG" />
+      <node id=" Valagussa P" label=" Valagussa P" />
+      <node id=" Di Fronzo G" label=" Di Fronzo G" />
+      <node id=" Bonadonna G." label=" Bonadonna G." />
+      <node id=" McClelland RA" label=" McClelland RA" />
+      <node id=" Mouriesse H" label=" Mouriesse H" />
+      <node id=" May-Levin F" label=" May-Levin F" />
+      <node id=" Contesso G" label=" Contesso G" />
+      <node id=" Gilmore OJ" label=" Gilmore OJ" />
+      <node id=" Bergström R" label=" Bergström R" />
+      <node id=" Morrison AS" label=" Morrison AS" />
+      <node id=" Brisson J" label=" Brisson J" />
+      <node id=" Sadowsky NL" label=" Sadowsky NL" />
+      <node id=" Meyer JE." label=" Meyer JE." />
+      <node id=" Davidson N" label=" Davidson N" />
+      <node id="Moskowitz M." label="Moskowitz M." />
+      <node id=" McGuire WL." label=" McGuire WL." />
+      <node id=" Clark GM" label=" Clark GM" />
+      <node id=" Chamness GC" label=" Chamness GC" />
+      <node id=" Steinberg SM" label=" Steinberg SM" />
+      <node id=" Gelmann EP." label=" Gelmann EP." />
+      <node id=" Tanada M" label=" Tanada M" />
+      <node id=" Takiyama W" label=" Takiyama W" />
+      <node id=" Saeki H" label=" Saeki H" />
+      <node id=" Kobayashi S" label=" Kobayashi S" />
+      <node id=" Takahashi S" label=" Takahashi S" />
+      <node id=" Shimizu T" label=" Shimizu T" />
+      <node id=" Pallud C" label=" Pallud C" />
+      <node id="Solin LJ" label="Solin LJ" />
+      <node id=" Forrest AP" label=" Forrest AP" />
+      <node id=" Chetty U" label=" Chetty U" />
+      <node id=" Hawkins RA." label=" Hawkins RA." />
+      <node id="Nemoto T" label="Nemoto T" />
+      <node id=" Rosner D" label=" Rosner D" />
+      <node id="Kaufmann M" label="Kaufmann M" />
+      <node id=" Jonat W" label=" Jonat W" />
+      <node id=" Schmid H" label=" Schmid H" />
+      <node id=" Noguchi S" label=" Noguchi S" />
+      <node id=" Koyama H" label=" Koyama H" />
+      <node id=" Iwanaga T" label=" Iwanaga T" />
+      <node id="Kimura M" label="Kimura M" />
+      <node id=" Sato T" label=" Sato T" />
+      <node id="Tubiana M" label="Tubiana M" />
+      <node id=" Horwitz KB." label=" Horwitz KB." />
+      <node id="Trichopoulos D" label="Trichopoulos D" />
+      <node id="Pike MC" label="Pike MC" />
+      <node id="Schnitt SJ" label="Schnitt SJ" />
+      <node id=" Vessey MP." label=" Vessey MP." />
+      <node id="Powles TJ." label="Powles TJ." />
+      <node id="Jordan VC." label="Jordan VC." />
+      <node id=" Andreoli C" label=" Andreoli C" />
+      <node id=" Rauschecker H." label=" Rauschecker H." />
+      <node id="Bonneterre J" label="Bonneterre J" />
+      <node id="Harris AL" label="Harris AL" />
+      <node id=" Cantwell BM" label=" Cantwell BM" />
+      <node id=" Kubista E" label=" Kubista E" />
+      <node id=" Czerwenka K" label=" Czerwenka K" />
+      <node id=" Aiginger P" label=" Aiginger P" />
+      <node id=" Spona J." label=" Spona J." />
+      <node id=" Abeloff MD" label=" Abeloff MD" />
+      <node id=" Ahmann DL" label=" Ahmann DL" />
+      <node id=" Cowan KH." label=" Cowan KH." />
+      <node id=" Moore MR." label=" Moore MR." />
+      <node id="Rosner D" label="Rosner D" />
+      <node id=" Nemoto T" label=" Nemoto T" />
+      <node id=" Dao TL." label=" Dao TL." />
+      <node id=" Eber M" label=" Eber M" />
+      <node id=" Powles TJ." label=" Powles TJ." />
+      <node id=" McKinna JA" label=" McKinna JA" />
+      <node id="Fentiman IS." label="Fentiman IS." />
+      <node id=" Fentiman IS" label=" Fentiman IS" />
+      <node id=" Chaudary MA" label=" Chaudary MA" />
+      <node id=" Winter PJ" label=" Winter PJ" />
+      <node id=" Tong D" label=" Tong D" />
+      <node id=" Hayward JL" label=" Hayward JL" />
+      <node id="Swain SM" label="Swain SM" />
+      <node id=" Drake JC" label=" Drake JC" />
+      <node id="Taylor SG 4th" label="Taylor SG 4th" />
+      <node id=" Falkson G" label=" Falkson G" />
+      <node id="Noguchi M" label="Noguchi M" />
+      <node id=" Miyazaki I." label=" Miyazaki I." />
+      <node id="Petrakis NL" label="Petrakis NL" />
+      <node id=" King MC" label=" King MC" />
+      <node id=" Harris JR" label=" Harris JR" />
+      <node id=" Holland R" label=" Holland R" />
+      <node id=" Salvadori B" label=" Salvadori B" />
+      <node id="Brisson J" label="Brisson J" />
+      <node id=" Crowther D" label=" Crowther D" />
+      <node id="Pezner RD" label="Pezner RD" />
+      <node id=" Desai KR" label=" Desai KR" />
+      <node id=" Houghton J" label=" Houghton J" />
+      <node id=" Collette HJ" label=" Collette HJ" />
+      <node id=" Verbeek AL" label=" Verbeek AL" />
+      <node id=" Hendriks JH" label=" Hendriks JH" />
+      <node id="Schatzkin A" label="Schatzkin A" />
+      <node id="Bourgeois P" label="Bourgeois P" />
+      <node id=" Mravunac M" label=" Mravunac M" />
+      <node id=" Hanson J" label=" Hanson J" />
+      <node id=" Takatani O." label=" Takatani O." />
+      <node id=" Kobayashi T" label=" Kobayashi T" />
+      <node id=" Taylor-Papadimitriou J" label=" Taylor-Papadimitriou J" />
+      <node id=" de Jong FH" label=" de Jong FH" />
+      <node id=" Barnes DM" label=" Barnes DM" />
+      <node id=" Sellwood RA." label=" Sellwood RA." />
+      <node id="Manni A." label="Manni A." />
+      <node id="Watt T." label="Watt T." />
+      <node id="Kobayashi T" label="Kobayashi T" />
+      <node id="Kopans DB" label="Kopans DB" />
+      <node id=" Day NE." label=" Day NE." />
+      <node id=" Wittliff JL" label=" Wittliff JL" />
+      <node id="Loprinzi CL" label="Loprinzi CL" />
+      <node id=" Carbone PP." label=" Carbone PP." />
+      <node id=" Stacker SA" label=" Stacker SA" />
+      <node id=" Thompson CH" label=" Thompson CH" />
+      <node id=" McKenzie IF." label=" McKenzie IF." />
+      <node id=" Griffiths K" label=" Griffiths K" />
+      <node id=" Demaille A." label=" Demaille A." />
+      <node id=" Daxenbichler G" label=" Daxenbichler G" />
+      <node id=" Dapunt O." label=" Dapunt O." />
+      <node id="Kurtz JM" label="Kurtz JM" />
+      <node id=" Amalric R" label=" Amalric R" />
+      <node id=" Brandone H" label=" Brandone H" />
+      <node id=" Ayme Y" label=" Ayme Y" />
+      <node id=" Jacquemier J" label=" Jacquemier J" />
+      <node id=" Spitalier JM." label=" Spitalier JM." />
+      <node id=" Ingle JN" label=" Ingle JN" />
+      <node id=" Cullinan SA" label=" Cullinan SA" />
+      <node id=" Schmidt CG." label=" Schmidt CG." />
+      <node id=" Forrest AP." label=" Forrest AP." />
+      <node id=" Nicholson S" label=" Nicholson S" />
+      <node id=" Sainsbury JR" label=" Sainsbury JR" />
+      <node id=" Harris AL." label=" Harris AL." />
+      <node id=" Saez S." label=" Saez S." />
+      <node id=" Turkes A" label=" Turkes A" />
+      <node id=" Wilson DW" label=" Wilson DW" />
+      <node id=" Griffiths K." label=" Griffiths K." />
+      <node id="Morimoto T" label="Morimoto T" />
+      <node id="Ostrovtsev LD" label="Ostrovtsev LD" />
+      <node id=" Demidov VP" label=" Demidov VP" />
+      <node id=" Miller WR." label=" Miller WR." />
+      <node id=" Foster RS Jr." label=" Foster RS Jr." />
+      <node id="Carbone PP." label="Carbone PP." />
+      <node id=" Miyauchi K" label=" Miyauchi K" />
+      <node id=" Imaoka S" label=" Imaoka S" />
+      <node id=" Abe O" label=" Abe O" />
+      <node id=" Fisher ER" label=" Fisher ER" />
+      <node id="Kasumi F." label="Kasumi F." />
+      <node id="Clark GM" label="Clark GM" />
+      <node id="Wada T" label="Wada T" />
+      <node id=" Yamato M" label=" Yamato M" />
+      <node id=" Webster DJ" label=" Webster DJ" />
+      <node id=" Hughes LE" label=" Hughes LE" />
+      <node id=" Allegra JC" label=" Allegra JC" />
+      <node id="Kolarić K" label="Kolarić K" />
+      <node id="Cascinelli N" label="Cascinelli N" />
+      <node id=" Greco M" label=" Greco M" />
+      <node id=" Morabito A" label=" Morabito A" />
+      <node id=" Bufalino R" label=" Bufalino R" />
+      <node id=" Zambetti M" label=" Zambetti M" />
+      <node id=" Yasutomi M." label=" Yasutomi M." />
+      <node id="Rohan TE" label="Rohan TE" />
+      <node id=" Petrakis NL" label=" Petrakis NL" />
+      <node id=" Miike R" label=" Miike R" />
+      <node id=" Ernster VL" label=" Ernster VL" />
+      <node id=" King EB" label=" King EB" />
+      <node id=" Harris AL" label=" Harris AL" />
+      <node id=" Torhorst J" label=" Torhorst J" />
+      <node id=" Spitalier JM" label=" Spitalier JM" />
+      <node id=" Berger U" label=" Berger U" />
+      <node id=" Gazet JC" label=" Gazet JC" />
+      <node id=" Domergue J" label=" Domergue J" />
+      <node id=" Webster DJ." label=" Webster DJ." />
+      <node id="Lykkesfeldt AE" label="Lykkesfeldt AE" />
+      <node id=" Briand P." label=" Briand P." />
+      <node id=" Müller A" label=" Müller A" />
+      <node id=" Schmidt W." label=" Schmidt W." />
+      <node id=" Ohgaki K" label=" Ohgaki K" />
+      <node id="Nomura Y." label="Nomura Y." />
+      <node id="Murphy LC" label="Murphy LC" />
+      <node id=" Dombernowsky P" label=" Dombernowsky P" />
+      <node id=" Walker AM" label=" Walker AM" />
+      <node id=" Yeates D." label=" Yeates D." />
+      <node id=" Ginsberg S" label=" Ginsberg S" />
+      <node id="Buzdar AU" label="Buzdar AU" />
+      <node id="Rubens RD" label="Rubens RD" />
+      <node id=" Rotmensz N" label=" Rotmensz N" />
+      <node id=" Sylvester R" label=" Sylvester R" />
+      <node id=" Rombach JJ" label=" Rombach JJ" />
+      <node id=" Everson LK" label=" Everson LK" />
+      <node id=" King MC." label=" King MC." />
+      <node id=" Klinga K" label=" Klinga K" />
+      <node id="Nagel GA" label="Nagel GA" />
+      <node id=" Ogawa M" label=" Ogawa M" />
+      <node id=" Horikoshi N" label=" Horikoshi N" />
+      <node id=" Inoue K" label=" Inoue K" />
+      <node id=" Mukaiyama T" label=" Mukaiyama T" />
+      <node id=" Nomura Y" label=" Nomura Y" />
+      <node id=" Falkson HC." label=" Falkson HC." />
+      <node id=" Poisson R" label=" Poisson R" />
+      <node id=" Deutsch M" label=" Deutsch M" />
+      <node id=" Nishizawa Y" label=" Nishizawa Y" />
+      <node id=" Bronzert D" label=" Bronzert D" />
+      <node id=" Spang-Thomsen M" label=" Spang-Thomsen M" />
+      <node id="Tjandra JJ" label="Tjandra JJ" />
+      <node id=" Collins JP" label=" Collins JP" />
+      <node id=" Manni A" label=" Manni A" />
+      <node id="Eisman JA" label="Eisman JA" />
+      <node id=" Martin TJ." label=" Martin TJ." />
+      <node id=" Sutherland RL" label=" Sutherland RL" />
+      <node id=" Salmon SE." label=" Salmon SE." />
+      <node id=" Herberman RB" label=" Herberman RB" />
+      <node id="Dowsett M" label="Dowsett M" />
+      <node id=" Hoover RN" label=" Hoover RN" />
+      <node id=" Buzdar AU." label=" Buzdar AU." />
+      <node id=" Boice JD Jr" label=" Boice JD Jr" />
+      <node id="Toma S" label="Toma S" />
+      <node id=" Hanson J." label=" Hanson J." />
+      <node id=" Jungi WF" label=" Jungi WF" />
+      <node id=" Armand JP" label=" Armand JP" />
+      <node id=" Bastit P" label=" Bastit P" />
+      <node id=" Glick JH" label=" Glick JH" />
+      <node id=" Lê MG" label=" Lê MG" />
+      <node id=" Arriagada R" label=" Arriagada R" />
+      <node id=" Fontaine F" label=" Fontaine F" />
+      <node id=" Spielmann M" label=" Spielmann M" />
+      <node id=" Le Chevalier T" label=" Le Chevalier T" />
+      <node id="Lehrer S" label="Lehrer S" />
+      <node id=" Ito Y" label=" Ito Y" />
+      <node id=" Friberg S" label=" Friberg S" />
+      <node id=" Lichter AS." label=" Lichter AS." />
+      <node id="McGuire WL." label="McGuire WL." />
+      <node id=" Gray R" label=" Gray R" />
+      <node id=" Cooper MR" label=" Cooper MR" />
+      <node id="Ludwig Breast Cancer Study Group.." label="Ludwig Breast Cancer Study Group.." />
+      <node id=" Hamada Y" label=" Hamada Y" />
+      <node id=" Greene GL" label=" Greene GL" />
+      <node id=" McCarty KS Jr." label=" McCarty KS Jr." />
+      <node id=" Travagli JP" label=" Travagli JP" />
+      <node id=" Riou G." label=" Riou G." />
+      <node id=" Gulisano M" label=" Gulisano M" />
+      <node id=" Lionetto R" label=" Lionetto R" />
+      <node id="Oriana S" label="Oriana S" />
+      <node id=" Böhm S" label=" Böhm S" />
+      <node id=" Scavone G" label=" Scavone G" />
+      <node id=" Cady B" label=" Cady B" />
+      <node id=" Singhakowinta A" label=" Singhakowinta A" />
+      <node id=" Rosenberg L" label=" Rosenberg L" />
+      <node id=" Kaufman DW" label=" Kaufman DW" />
+      <node id=" Shapiro S." label=" Shapiro S." />
+      <node id=" Katzenellenbogen BS." label=" Katzenellenbogen BS." />
+      <node id="Tepmongkol P" label="Tepmongkol P" />
+      <node id=" Suphaphongs N" label=" Suphaphongs N" />
+      <node id="Bruning PF" label="Bruning PF" />
+      <node id=" Bonfrer JM" label=" Bonfrer JM" />
+      <node id=" Namer M." label=" Namer M." />
+      <node id=" Leclercq G" label=" Leclercq G" />
+      <node id=" Legros N" label=" Legros N" />
+      <node id=" Hakama M." label=" Hakama M." />
+      <node id=" Weiner JM" label=" Weiner JM" />
+      <node id=" Bateman JR." label=" Bateman JR." />
+      <node id="Black MM" label="Black MM" />
+      <node id=" Vignon F" label=" Vignon F" />
+      <node id=" Yap HY" label=" Yap HY" />
+      <node id=" Fowble B" label=" Fowble B" />
+      <node id=" Andersen JA" label=" Andersen JA" />
+      <node id=" Blichert-Toft M." label=" Blichert-Toft M." />
+      <node id=" Poulsen HS" label=" Poulsen HS" />
+      <node id=" Andersen J" label=" Andersen J" />
+      <node id=" Rank F" label=" Rank F" />
+      <node id=" Farndon JR" label=" Farndon JR" />
+      <node id=" Huff KK" label=" Huff KK" />
+      <node id="Anderson DE" label="Anderson DE" />
+      <node id="Secreto G" label="Secreto G" />
+      <node id=" Recchione C" label=" Recchione C" />
+      <node id=" Fariselli G" label=" Fariselli G" />
+      <node id="Schnürch HG" label="Schnürch HG" />
+      <node id=" Preece PE" label=" Preece PE" />
+      <node id=" Wood RA" label=" Wood RA" />
+      <node id=" Cuschieri A." label=" Cuschieri A." />
+      <node id=" Lindeman J" label=" Lindeman J" />
+      <node id=" Reiner G" label=" Reiner G" />
+      <node id=" Jakesz R" label=" Jakesz R" />
+      <node id=" Papaldo P" label=" Papaldo P" />
+      <node id=" Mercer RJ" label=" Mercer RJ" />
+      <node id="Recht A" label="Recht A" />
+      <node id=" Montague E" label=" Montague E" />
+      <node id="Ermilova VD" label="Ermilova VD" />
+      <node id=" Ostrovskaia IM" label=" Ostrovskaia IM" />
+      <node id="Kallioniemi OP" label="Kallioniemi OP" />
+      <node id=" Mattila J" label=" Mattila J" />
+      <node id=" Rummel HH" label=" Rummel HH" />
+      <node id=" Galligioni E" label=" Galligioni E" />
+      <node id=" Talamini R" label=" Talamini R" />
+      <node id=" Polevaia EB" label=" Polevaia EB" />
+      <node id=" Ostroumova MN" label=" Ostroumova MN" />
+      <node id=" King RJ." label=" King RJ." />
+      <node id="Wander HE" label="Wander HE" />
+      <node id=" Nagel GA." label=" Nagel GA." />
+      <node id="Jacquillat C" label="Jacquillat C" />
+      <node id=" Baillet F" label=" Baillet F" />
+      <node id="Bezwoda WR" label="Bezwoda WR" />
+      <node id=" Korejba W" label=" Korejba W" />
+      <node id=" Bukowski J" label=" Bukowski J" />
+      <node id=" Blankenstein MA" label=" Blankenstein MA" />
+      <node id=" Thijssen JH." label=" Thijssen JH." />
+      <node id="Nivinskaia MM" label="Nivinskaia MM" />
+      <node id=" Letiagin VP" label=" Letiagin VP" />
+      <node id=" Paganini-Hill A" label=" Paganini-Hill A" />
+      <node id="Ebeling K" label="Ebeling K" />
+      <node id=" Sarrazin D" label=" Sarrazin D" />
+      <node id="Chevallier B" label="Chevallier B" />
+      <node id=" Graic Y" label=" Graic Y" />
+      <node id=" Asselain B." label=" Asselain B." />
+      <node id=" Durand M" label=" Durand M" />
+      <node id=" Goodman RL" label=" Goodman RL" />
+      <node id=" Hellström L" label=" Hellström L" />
+      <node id=" Pronzato P" label=" Pronzato P" />
+      <node id="Semiglazov VF" label="Semiglazov VF" />
+      <node id=" Moiseenko VM" label=" Moiseenko VM" />
+      <node id=" Clark GM." label=" Clark GM." />
+      <node id="Valagussa P" label="Valagussa P" />
+      <node id=" Brambilla C" label=" Brambilla C" />
+      <node id=" Baum M" label=" Baum M" />
+      <node id="Goldhirsch A" label="Goldhirsch A" />
+      <node id=" Schauer A" label=" Schauer A" />
+      <node id="Jakesz R" label="Jakesz R" />
+      <node id=" Schemper M" label=" Schemper M" />
+      <node id=" Reiner A" label=" Reiner A" />
+      <node id=" Rainer H" label=" Rainer H" />
+      <node id=" Spona J" label=" Spona J" />
+      <node id="Baum M" label="Baum M" />
+      <node id="Rose C" label="Rose C" />
+      <node id=" Eiermann W." label=" Eiermann W." />
+      <node id="Bulbrook RD" label="Bulbrook RD" />
+      <node id="Rotstein S" label="Rotstein S" />
+      <node id=" Rubin GL" label=" Rubin GL" />
+      <node id=" Nomura Y." label=" Nomura Y." />
+      <node id="Jouve M" label="Jouve M" />
+      <node id=" Palangie T" label=" Palangie T" />
+      <node id=" Dorval T" label=" Dorval T" />
+      <node id=" Garcia-Giralt E" label=" Garcia-Giralt E" />
+      <node id="Vignon F" label="Vignon F" />
+      <node id=" Capony F" label=" Capony F" />
+      <node id=" Morisset M" label=" Morisset M" />
+      <node id=" Calitchi E" label=" Calitchi E" />
+      <node id=" Le Bourgeois JP" label=" Le Bourgeois JP" />
+      <node id=" Pierquin B." label=" Pierquin B." />
+      <node id="Tabár L" label="Tabár L" />
+      <node id="Hartveit F." label="Hartveit F." />
+      <node id=" McGuire WL" label=" McGuire WL" />
+      <node id=" Tominaga S" label=" Tominaga S" />
+      <node id=" Kubo K" label=" Kubo K" />
+      <node id=" Gelber RD" label=" Gelber RD" />
+      <node id=" Keiling R." label=" Keiling R." />
+      <node id=" Ivanov VM" label=" Ivanov VM" />
+      <node id="Demidov VP" label="Demidov VP" />
+      <node id=" Ostrovtsev LD" label=" Ostrovtsev LD" />
+      <node id="Jordan VC" label="Jordan VC" />
+      <node id="Miller AB." label="Miller AB." />
+      <node id=" Hill C" label=" Hill C" />
+      <node id=" Vandewalle B" label=" Vandewalle B" />
+      <node id=" Tulusan AH" label=" Tulusan AH" />
+      <node id="Wilking N" label="Wilking N" />
+      <node id="Kamby C" label="Kamby C" />
+      <node id=" Ejlertsen B" label=" Ejlertsen B" />
+      <node id=" Birkler NE" label=" Birkler NE" />
+      <node id=" Rytter L" label=" Rytter L" />
+      <node id=" Semiglazov VF" label=" Semiglazov VF" />
+      <node id=" Semiglazov VF." label=" Semiglazov VF." />
+      <node id=" Johansen H" label=" Johansen H" />
+      <node id=" Rossing N." label=" Rossing N." />
+      <node id=" Gardin G" label=" Gardin G" />
+      <node id="Lê MG" label="Lê MG" />
+      <node id=" Schlom J." label=" Schlom J." />
+      <node id="Pasqualini JR" label="Pasqualini JR" />
+      <node id=" Blichert-Toft M" label=" Blichert-Toft M" />
+      <node id=" Andersen J." label=" Andersen J." />
+      <node id=" Ermilova VD" label=" Ermilova VD" />
+      <node id="Peyrat JP" label="Peyrat JP" />
+      <node id=" Bonneterre J" label=" Bonneterre J" />
+      <node id=" Peyrat JP" label=" Peyrat JP" />
+      <node id=" Buick RN." label=" Buick RN." />
+      <node id="Kinne DW" label="Kinne DW" />
+      <node id=" Fracchia AA" label=" Fracchia AA" />
+      <node id=" Beranek PA" label=" Beranek PA" />
+      <node id=" Blomgren H" label=" Blomgren H" />
+      <node id=" Petrini B" label=" Petrini B" />
+      <node id=" Terasawa T." label=" Terasawa T." />
+      <node id=" Lindgren A" label=" Lindgren A" />
+      <node id="Sarnelli R" label="Sarnelli R" />
+      <node id=" Squartini F." label=" Squartini F." />
+      <node id="Fernö M" label="Fernö M" />
+      <node id=" Borg A" label=" Borg A" />
+      <node id=" Palli D" label=" Palli D" />
+      <node id=" Bruzzi P" label=" Bruzzi P" />
+      <node id=" Hakes TB" label=" Hakes TB" />
+      <node id=" Kaufman RJ" label=" Kaufman RJ" />
+      <node id=" Heuson JC." label=" Heuson JC." />
+      <node id=" Kuttenn F" label=" Kuttenn F" />
+      <node id=" Powles TJ" label=" Powles TJ" />
+      <node id=" Roebuck EJ" label=" Roebuck EJ" />
+      <node id=" Secreto G" label=" Secreto G" />
+      <node id="Love RR" label="Love RR" />
+      <node id="Lynch HT" label="Lynch HT" />
+      <node id=" Lynch JF." label=" Lynch JF." />
+      <node id=" Sarrazin D." label=" Sarrazin D." />
+      <node id=" La Vecchia C" label=" La Vecchia C" />
+      <node id="Holtkamp W" label="Holtkamp W" />
+      <node id=" Kneba M" label=" Kneba M" />
+      <node id=" Mauriac L" label=" Mauriac L" />
+      <node id=" Cappelaere P." label=" Cappelaere P." />
+      <node id=" Ettinger DS" label=" Ettinger DS" />
+      <node id=" Ludwig H" label=" Ludwig H" />
+      <node id=" Eppenberger U." label=" Eppenberger U." />
+      <node id=" Zava DT" label=" Zava DT" />
+      <node id=" Hietanen T" label=" Hietanen T" />
+      <node id=" Beuscart R" label=" Beuscart R" />
+      <node id="Lippman ME." label="Lippman ME." />
+      <node id="Hiatt RA" label="Hiatt RA" />
+      <node id=" Knight RK" label=" Knight RK" />
+      <node id="Coleman RE" label="Coleman RE" />
+      <node id=" Canobbio L" label=" Canobbio L" />
+      <node id="Sainsbury JR" label="Sainsbury JR" />
+      <node id="Thomas BS" label="Thomas BS" />
+      <node id=" Fishman J." label=" Fishman J." />
+      <node id=" Wynder EL." label=" Wynder EL." />
+      <node id=" Panici PB" label=" Panici PB" />
+      <node id=" Iacobelli S" label=" Iacobelli S" />
+      <node id="Korolev VI" label="Korolev VI" />
+      <node id=" Keydar I" label=" Keydar I" />
+      <node id=" Otmezguine Y" label=" Otmezguine Y" />
+      <node id="Asagoe T" label="Asagoe T" />
+      <node id=" Yamoto H" label=" Yamoto H" />
+      <node id=" Nemoto A" label=" Nemoto A" />
+      <node id=" Shikata J" label=" Shikata J" />
+      <node id=" Aoki A" label=" Aoki A" />
+      <node id=" Nakayama R." label=" Nakayama R." />
+      <node id="Furnival CM" label="Furnival CM" />
+      <node id="Andersson I" label="Andersson I" />
+      <node id=" Ranstam J" label=" Ranstam J" />
+      <node id="Boccardo F" label="Boccardo F" />
+      <node id="Forrest AP" label="Forrest AP" />
+      <node id="Chiedozi LC." label="Chiedozi LC." />
+      <node id="Moore JW" label="Moore JW" />
+      <node id=" Bulbrook RD" label=" Bulbrook RD" />
+      <node id=" Allen DS" label=" Allen DS" />
+      <node id=" Pike MC." label=" Pike MC." />
+      <node id="Hartveit F" label="Hartveit F" />
+      <node id=" Kubli F." label=" Kubli F." />
+      <node id="Martoni A" label="Martoni A" />
+      <node id=" Pannuti F." label=" Pannuti F." />
+      <node id=" Rose C" label=" Rose C" />
+      <node id=" Thorpe SM" label=" Thorpe SM" />
+      <node id="Howell A" label="Howell A" />
+      <node id=" Jones M" label=" Jones M" />
+      <node id=" Sacchini V" label=" Sacchini V" />
+      <node id="Williams MR" label="Williams MR" />
+      <node id=" Yamakawa T" label=" Yamakawa T" />
+      <node id=" Tanaka T" label=" Tanaka T" />
+      <node id=" Sonoo H" label=" Sonoo H" />
+      <node id=" Boyd NF." label=" Boyd NF." />
+      <node id=" Cavalli F." label=" Cavalli F." />
+      <node id=" Shiu RP." label=" Shiu RP." />
+      <node id=" Kinne DW." label=" Kinne DW." />
+      <node id="Izuo M." label="Izuo M." />
+      <node id="Korman DB" label="Korman DB" />
+      <node id=" Sulkes A" label=" Sulkes A" />
+      <node id=" Biran S." label=" Biran S." />
+      <node id="Lipton A" label="Lipton A" />
+      <node id=" Santen RJ" label=" Santen RJ" />
+      <node id=" Santner SJ" label=" Santner SJ" />
+      <node id=" Vogel CL" label=" Vogel CL" />
+      <node id=" Lee J" label=" Lee J" />
+      <node id=" Lippman M." label=" Lippman M." />
+      <node id=" Dittrich C" label=" Dittrich C" />
+      <node id=" Moser K." label=" Moser K." />
+      <node id=" Ashley S" label=" Ashley S" />
+      <node id="Abe R" label="Abe R" />
+      <node id=" Mansel RE" label=" Mansel RE" />
+      <node id=" Hughes LE." label=" Hughes LE." />
+      <node id="Levitt SH" label="Levitt SH" />
+      <node id=" Contesso G." label=" Contesso G." />
+      <node id="Jones SE" label="Jones SE" />
+      <node id="Iacobelli S" label="Iacobelli S" />
+      <node id=" Natoli C" label=" Natoli C" />
+      <node id="Ceriani RL" label="Ceriani RL" />
+      <node id=" Bellocq JP" label=" Bellocq JP" />
+      <node id=" Chambon P." label=" Chambon P." />
+      <node id=" Sugitachi A" label=" Sugitachi A" />
+      <node id=" Kawahara T." label=" Kawahara T." />
+      <node id="Fraschini G" label="Fraschini G" />
+      <node id=" Bajetta E" label=" Bajetta E" />
+      <node id="Reddel RR" label="Reddel RR" />
+      <node id=" Petit JY" label=" Petit JY" />
+      <node id=" Fennelly JJ" label=" Fennelly JJ" />
+      <node id="Lacour J" label="Lacour J" />
+      <node id=" Lacour F" label=" Lacour F" />
+      <node id=" Spira A" label=" Spira A" />
+      <node id=" Michelson M" label=" Michelson M" />
+      <node id=" Wright C" label=" Wright C" />
+      <node id="Fentiman IS" label="Fentiman IS" />
+      <node id=" Balkwill FR" label=" Balkwill FR" />
+      <node id=" Thomas BS" label=" Thomas BS" />
+      <node id="Pertschuk LP" label="Pertschuk LP" />
+      <node id=" Eisenberg KB" label=" Eisenberg KB" />
+      <node id=" Carter AC" label=" Carter AC" />
+      <node id=" Von Hoff DD" label=" Von Hoff DD" />
+      <node id="Wang DY" label="Wang DY" />
+      <node id=" Kwa HG" label=" Kwa HG" />
+      <node id=" Moore JW" label=" Moore JW" />
+      <node id=" Easton D" label=" Easton D" />
+      <node id=" Coombes RC" label=" Coombes RC" />
+      <node id=" Neville AM." label=" Neville AM." />
+      <node id=" Hankey BF" label=" Hankey BF" />
+      <node id="Holdaway IM" label="Holdaway IM" />
+      <node id=" Mason BH" label=" Mason BH" />
+      <node id=" Bennett RC" label=" Bennett RC" />
+      <node id=" Kolonel LN" label=" Kolonel LN" />
+      <node id=" Jackson DV" label=" Jackson DV" />
+      <node id=" Wasserman J" label=" Wasserman J" />
+      <node id=" Cataliotti L" label=" Cataliotti L" />
+      <node id=" Rubens RD" label=" Rubens RD" />
+      <node id=" Taguchi T." label=" Taguchi T." />
+      <node id=" Namer M" label=" Namer M" />
+      <node id="Hawkins RA" label="Hawkins RA" />
+      <node id="Rochefort H" label="Rochefort H" />
+      <node id=" Vignon F." label=" Vignon F." />
+      <node id=" Sakai K" label=" Sakai K" />
+      <node id="Taguchi T" label="Taguchi T" />
+      <node id=" Steele RJ" label=" Steele RJ" />
+      <node id=" Rilke F" label=" Rilke F" />
+      <node id=" Cho-Chung YS." label=" Cho-Chung YS." />
+      <node id="Munzarová M" label="Munzarová M" />
+      <node id=" Kovarík J" label=" Kovarík J" />
+      <node id=" Hlávková J" label=" Hlávková J" />
+      <node id=" Kolb R" label=" Kolb R" />
+      <node id=" Balslev I" label=" Balslev I" />
+      <node id=" Guldhammer B" label=" Guldhammer B" />
+      <node id="Letiagin VP" label="Letiagin VP" />
+      <node id=" Terasawa T" label=" Terasawa T" />
+      <node id=" Takatsuka Y" label=" Takatsuka Y" />
+      <node id=" Yoshida K" label=" Yoshida K" />
+      <node id=" Di Pietro S." label=" Di Pietro S." />
+      <node id="Feig SA." label="Feig SA." />
+      <node id=" Gravelle IH" label=" Gravelle IH" />
+      <node id=" Roberts MM" label=" Roberts MM" />
+      <node id=" Moiseenko VM." label=" Moiseenko VM." />
+      <node id="Scambia G" label="Scambia G" />
+      <node id=" Ford HT" label=" Ford HT" />
+      <node id=" Biran S" label=" Biran S" />
+      <node id="de Waard F" label="de Waard F" />
+      <node id="Sutherland CM" label="Sutherland CM" />
+      <node id=" Rosen PP" label=" Rosen PP" />
+      <node id=" Sato Y" label=" Sato Y" />
+      <node id=" Hill LR" label=" Hill LR" />
+      <node id=" Bonichon F" label=" Bonichon F" />
+      <node id="Rosenberg L" label="Rosenberg L" />
+      <node id=" Schottenfeld D" label=" Schottenfeld D" />
+      <node id=" Lippman M" label=" Lippman M" />
+      <node id=" Lund E." label=" Lund E." />
+      <node id=" Holland JF" label=" Holland JF" />
+      <node id=" Smals AG" label=" Smals AG" />
+      <node id=" Benraad TJ" label=" Benraad TJ" />
+      <node id=" Kloppenborg PW." label=" Kloppenborg PW." />
+      <node id=" Bulbrook RD." label=" Bulbrook RD." />
+      <node id=" Fraumeni JF Jr." label=" Fraumeni JF Jr." />
+      <node id=" Wolter JM" label=" Wolter JM" />
+      <node id=" Bonomi P" label=" Bonomi P" />
+      <node id=" Wolter J" label=" Wolter J" />
+      <node id=" Economou S." label=" Economou S." />
+      <node id=" van Dongen JA" label=" van Dongen JA" />
+      <node id=" Stewart HJ" label=" Stewart HJ" />
+      <node id=" Montague ED" label=" Montague ED" />
+      <node id="Levitt SH." label="Levitt SH." />
+      <node id=" Hinton CP" label=" Hinton CP" />
+      <node id=" Millis RR" label=" Millis RR" />
+      <node id=" Hayward JL." label=" Hayward JL." />
+      <node id=" Nagel GA" label=" Nagel GA" />
+      <node id="Iwasa Z" label="Iwasa Z" />
+      <node id=" Andersen KW" label=" Andersen KW" />
+      <node id=" Tubiana M" label=" Tubiana M" />
+      <node id=" Milgrom E." label=" Milgrom E." />
+      <node id=" Brown JB" label=" Brown JB" />
+      <node id="Hislop TG" label="Hislop TG" />
+      <node id=" Coldman AJ" label=" Coldman AJ" />
+      <node id=" Cocconi G." label=" Cocconi G." />
+      <node id=" Mermillod B" label=" Mermillod B" />
+      <node id=" Obrecht JP" label=" Obrecht JP" />
+      <node id="Pannuti F" label="Pannuti F" />
+      <node id=" Martoni A" label=" Martoni A" />
+      <node id=" Sleijfer DT" label=" Sleijfer DT" />
+      <node id=" Feil PD" label=" Feil PD" />
+      <node id=" Santen RJ." label=" Santen RJ." />
+      <node id=" Nola P" label=" Nola P" />
+      <node id="De Lena M" label="De Lena M" />
+      <node id="Alexieva-Figusch J" label="Alexieva-Figusch J" />
+      <node id=" Derocq D" label=" Derocq D" />
+      <node id="Miller WR" label="Miller WR" />
+      <node id=" Canavese G" label=" Canavese G" />
+      <node id=" Jones SE" label=" Jones SE" />
+      <node id="Hayes DF" label="Hayes DF" />
+      <node id=" Weinberg V" label=" Weinberg V" />
+      <node id=" Gazet JC." label=" Gazet JC." />
+      <node id=" Chabner BA." label=" Chabner BA." />
+      <node id=" Miodini P" label=" Miodini P" />
+      <node id=" Di Fronzo G." label=" Di Fronzo G." />
+      <node id=" Boublil JL" label=" Boublil JL" />
+      <node id=" Khater R" label=" Khater R" />
+      <node id=" Smith DC." label=" Smith DC." />
+      <node id=" Enderlin F" label=" Enderlin F" />
+      <node id=" Kinne D" label=" Kinne D" />
+      <node id=" Hoare SA" label=" Hoare SA" />
+      <node id=" Asselain B" label=" Asselain B" />
+      <node id=" Feig SA" label=" Feig SA" />
+      <node id="Boyd NF" label="Boyd NF" />
+      <node id=" Blackwell CW" label=" Blackwell CW" />
+      <node id=" Ownby HE" label=" Ownby HE" />
+      <node id=" Frederick J" label=" Frederick J" />
+      <node id=" Russo J" label=" Russo J" />
+      <node id=" Brennan MJ." label=" Brennan MJ." />
+      <node id=" Gutterman JU" label=" Gutterman JU" />
+      <node id=" Willett W" label=" Willett W" />
+      <node id=" Trichopoulos D" label=" Trichopoulos D" />
+      <node id=" MacMahon B." label=" MacMahon B." />
+      <node id=" Gelmann EP" label=" Gelmann EP" />
+      <node id=" Bates S" label=" Bates S" />
+      <node id=" Huff K" label=" Huff K" />
+      <node id="Polevaia EB" label="Polevaia EB" />
+      <node id="Krieger G" label="Krieger G" />
+      <node id="Elomaa I" label="Elomaa I" />
+      <node id=" Blomqvist C" label=" Blomqvist C" />
+      <node id="Lundgren B." label="Lundgren B." />
+      <node id=" Larsen JK" label=" Larsen JK" />
+      <node id=" Dyreborg U" label=" Dyreborg U" />
+      <node id=" Letiagin VP." label=" Letiagin VP." />
+      <node id="Brufman G" label="Brufman G" />
+      <node id=" Siiteri PK." label=" Siiteri PK." />
+      <node id="Gerasimenko VN" label="Gerasimenko VN" />
+      <node id=" Jouve M" label=" Jouve M" />
+      <node id=" Samal BA" label=" Samal BA" />
+      <node id="Brinton LA" label="Brinton LA" />
+      <node id=" Wittliff J" label=" Wittliff J" />
+      <node id="Pierquin B" label="Pierquin B" />
+      <node id=" Mazeron JJ" label=" Mazeron JJ" />
+      <node id=" Bastit P." label=" Bastit P." />
+      <node id="Nielsen M" label="Nielsen M" />
+      <node id=" Christensen L" label=" Christensen L" />
+      <node id=" Brincker H" label=" Brincker H" />
+      <node id="Mouridsen HT" label="Mouridsen HT" />
+      <node id=" Magdelenat H" label=" Magdelenat H" />
+      <node id="Alanko A" label="Alanko A" />
+      <node id=" Halberg F" label=" Halberg F" />
+      <node id="Shiu RP" label="Shiu RP" />
+      <node id=" Murphy LC" label=" Murphy LC" />
+      <node id="Cuzick J" label="Cuzick J" />
+      <node id=" Peto R" label=" Peto R" />
+      <node id=" Wallgren A." label=" Wallgren A." />
+      <node id=" Smirnova KD" label=" Smirnova KD" />
+      <node id="Schwartz GF" label="Schwartz GF" />
+      <node id=" Del Vecchio M" label=" Del Vecchio M" />
+      <node id="Marth C" label="Marth C" />
+      <node id=" Daxenbichler G." label=" Daxenbichler G." />
+      <node id="Liberati A" label="Liberati A" />
+      <node id=" Brown J" label=" Brown J" />
+      <node id=" Raney M" label=" Raney M" />
+      <node id="Roberts MM" label="Roberts MM" />
+      <node id=" Anderson TJ" label=" Anderson TJ" />
+      <node id="Whitney LW" label="Whitney LW" />
+      <node id=" Wilmanns W." label=" Wilmanns W." />
+      <node id=" Bisel HF" label=" Bisel HF" />
+      <node id=" Hahn RG" label=" Hahn RG" />
+      <node id=" Edmonson JH" label=" Edmonson JH" />
+      <node id=" Mishriki Y" label=" Mishriki Y" />
+      <node id=" Piana E" label=" Piana E" />
+      <node id="Shibusawa K." label="Shibusawa K." />
+      <node id=" Rossing N" label=" Rossing N" />
+      <node id=" Natoli V" label=" Natoli V" />
+      <node id="Dixon JM" label="Dixon JM" />
+      <node id=" Dixon JM" label=" Dixon JM" />
+      <node id=" Lerner H" label=" Lerner H" />
+      <node id="Kasid A" label="Kasid A" />
+      <node id=" Haehnel P" label=" Haehnel P" />
+      <node id=" Crivellari D" label=" Crivellari D" />
+      <node id="McPherson K" label="McPherson K" />
+      <node id=" Vessey MP" label=" Vessey MP" />
+      <node id=" Keenan EJ" label=" Keenan EJ" />
+      <node id=" Fletcher WS." label=" Fletcher WS." />
+      <node id=" Hellman S" label=" Hellman S" />
+      <node id=" Beex LV" label=" Beex LV" />
+      <node id=" Jensen OM." label=" Jensen OM." />
+      <node id="Abecassis J" label="Abecassis J" />
+      <node id="Conte PF" label="Conte PF" />
+      <node id=" Blumenschein GR" label=" Blumenschein GR" />
+      <node id=" Millis R" label=" Millis R" />
+      <node id=" Fishell E" label=" Fishell E" />
+      <node id=" Haybittle JL." label=" Haybittle JL." />
+      <node id=" Ardizzoni A" label=" Ardizzoni A" />
+      <node id=" Aisner J" label=" Aisner J" />
+      <node id=" Luini A" label=" Luini A" />
+      <node id=" Banfi A" label=" Banfi A" />
+      <node id=" Veronesi U." label=" Veronesi U." />
+      <node id=" Bonadonna G" label=" Bonadonna G" />
+      <node id=" Buzdar A" label=" Buzdar A" />
+      <node id=" Moon TE" label=" Moon TE" />
+      <node id=" Wise L." label=" Wise L." />
+      <node id=" Pearson OH" label=" Pearson OH" />
+      <node id=" Blossey HC" label=" Blossey HC" />
+      <node id="Coombes RC" label="Coombes RC" />
+      <node id=" Edwards DP" label=" Edwards DP" />
+      <node id=" Voigt W" label=" Voigt W" />
+      <node id=" Heinonen E" label=" Heinonen E" />
+      <node id=" Kimura M" label=" Kimura M" />
+      <node id=" Tancini G" label=" Tancini G" />
+      <node id=" Leake RE." label=" Leake RE." />
+      <node id=" Bain C" label=" Bain C" />
+      <node id=" Wolf G." label=" Wolf G." />
+      <node id="Gambrell RD Jr." label="Gambrell RD Jr." />
+      <node id="Vorherr H." label="Vorherr H." />
+      <node id="Holmes FA" label="Holmes FA" />
+      <node id="Bronzert DA" label="Bronzert DA" />
+      <node id=" Kasid A" label=" Kasid A" />
+      <node id="Chalbos D" label="Chalbos D" />
+      <node id="Pawlicki M" label="Pawlicki M" />
+      <node id=" Fujita M" label=" Fujita M" />
+      <node id="Benz C" label="Benz C" />
+      <node id=" Fukami A" label=" Fukami A" />
+      <node id="Harris JR" label="Harris JR" />
+      <node id=" Sellwood RA" label=" Sellwood RA" />
+      <node id=" Esparza L" label=" Esparza L" />
+      <node id=" Clemente C" label=" Clemente C" />
+      <node id=" Krailo MD" label=" Krailo MD" />
+      <node id=" Rubagotti A" label=" Rubagotti A" />
+      <node id=" Rosso R" label=" Rosso R" />
+      <node id=" Roberts MM." label=" Roberts MM." />
+      <node id="Sarcione EJ" label="Sarcione EJ" />
+      <node id="Stuart-Harris R" label="Stuart-Harris R" />
+      <node id=" Tattersall MH." label=" Tattersall MH." />
+      <node id=" Day NE" label=" Day NE" />
+      <node id=" Brooks SC" label=" Brooks SC" />
+      <node id=" Brown A" label=" Brown A" />
+      <node id=" Takahashi K" label=" Takahashi K" />
+      <node id=" Stegner HE." label=" Stegner HE." />
+      <node id=" Swindell R" label=" Swindell R" />
+      <node id=" Moore M" label=" Moore M" />
+      <node id="Fujita F" label="Fujita F" />
+      <node id=" Jeffcoate SL" label=" Jeffcoate SL" />
+      <node id="Raemaekers JM" label="Raemaekers JM" />
+      <node id="Bazhenova AP" label="Bazhenova AP" />
+      <node id=" Nomura AM" label=" Nomura AM" />
+      <node id=" Legha SS" label=" Legha SS" />
+      <node id=" Pearson OH." label=" Pearson OH." />
+      <node id=" Meyer CJ." label=" Meyer CJ." />
+      <node id="Santen RJ" label="Santen RJ" />
+      <node id=" Montague ED." label=" Montague ED." />
+      <node id=" Jeffcoate SL." label=" Jeffcoate SL." />
+      <node id="Murayama Y." label="Murayama Y." />
+      <node id=" Brunner KW." label=" Brunner KW." />
+      <node id=" Blumenschein GR." label=" Blumenschein GR." />
+      <node id=" Stolley PD" label=" Stolley PD" />
+      <node id=" Helmrich SP" label=" Helmrich SP" />
+      <node id=" Miller DR" label=" Miller DR" />
+      <node id=" Inui K" label=" Inui K" />
+      <node id=" Morrison JM." label=" Morrison JM." />
+      <node id=" Haybittle JL" label=" Haybittle JL" />
+      <node id=" Wallgren A" label=" Wallgren A" />
+      <node id=" Lage A." label=" Lage A." />
+      <node id=" Vyshinskaia GV" label=" Vyshinskaia GV" />
+      <node id=" Nomura AM." label=" Nomura AM." />
+      <node id=" Kay RG." label=" Kay RG." />
+      <node id=" Elwood JM" label=" Elwood JM" />
+      <node id=" Couette JE" label=" Couette JE" />
+      <node id=" Vilcoq JR" label=" Vilcoq JR" />
+      <node id=" Veith F" label=" Veith F" />
+      <node id="Pouillart P" label="Pouillart P" />
+      <node id=" Cavalli F" label=" Cavalli F" />
+      <node id=" Goldhirsch A" label=" Goldhirsch A" />
+      <node id=" Pilleron JP." label=" Pilleron JP." />
+      <node id="Stosiek U" label="Stosiek U" />
+      <node id=" Baral E" label=" Baral E" />
+      <node id="Jonat W" label="Jonat W" />
+      <node id=" Maass H." label=" Maass H." />
+      <node id=" Franceschi S" label=" Franceschi S" />
+      <node id="Gómez P" label="Gómez P" />
+      <node id=" Hayashi K" label=" Hayashi K" />
+      <node id=" Takahashi I" label=" Takahashi I" />
+      <node id=" Kosaki G." label=" Kosaki G." />
+      <node id="Stenkvist B" label="Stenkvist B" />
+      <node id=" Bengtsson E" label=" Bengtsson E" />
+      <node id=" Eriksson O" label=" Eriksson O" />
+      <node id=" Jarkrans T" label=" Jarkrans T" />
+      <node id="Horwitz KB" label="Horwitz KB" />
+      <node id=" Carpenter J" label=" Carpenter J" />
+      <node id=" Queisser W" label=" Queisser W" />
+      <node id="Steele RJ" label="Steele RJ" />
+      <node id=" Nishiki M" label=" Nishiki M" />
+      <node id=" Yamane M" label=" Yamane M" />
+      <node id=" Hersh EM." label=" Hersh EM." />
+      <node id=" Rossi A" label=" Rossi A" />
+      <node id=" Stuart-Harris R" label=" Stuart-Harris R" />
+      <node id=" White DR" label=" White DR" />
+      <node id=" Taylor-Papadimitriou J." label=" Taylor-Papadimitriou J." />
+      <node id="Wolmark N" label="Wolmark N" />
+      <node id="Carpenter JT Jr" label="Carpenter JT Jr" />
+      <node id=" Thorpe SM." label=" Thorpe SM." />
+      <node id=" Van den Berg HW" label=" Van den Berg HW" />
+      <node id=" Aufses AH Jr." label=" Aufses AH Jr." />
+      <node id=" Tognoni G." label=" Tognoni G." />
+      <node id="Veronesi U" label="Veronesi U" />
+      <node id=" Muscolino G" label=" Muscolino G" />
+      <node id="Paridaens R" label="Paridaens R" />
+      <node id=" Andersen AP" label=" Andersen AP" />
+      <node id="Koenders A" label="Koenders A" />
+      <node id=" Gustafsson SA" label=" Gustafsson SA" />
+      <node id=" Cappelletti V" label=" Cappelletti V" />
+      <node id=" Pichon MF" label=" Pichon MF" />
+      <node id=" Baral E." label=" Baral E." />
+      <node id="Ownby HE" label="Ownby HE" />
+      <node id=" Green SJ" label=" Green SJ" />
+      <node id=" Kitamura M" label=" Kitamura M" />
+      <node id=" Sutherland DJ" label=" Sutherland DJ" />
+      <node id=" Rzhankov SV" label=" Rzhankov SV" />
+      <node id="Pegoraro RJ" label="Pegoraro RJ" />
+      <node id=" Joubert SM." label=" Joubert SM." />
+      <node id=" Koposova TL" label=" Koposova TL" />
+      <node id=" Murav'eva NI" label=" Murav'eva NI" />
+      <node id=" Plotkin D" label=" Plotkin D" />
+      <node id=" Lamb J" label=" Lamb J" />
+      <node id="Strender LE" label="Strender LE" />
+      <node id="Lee YT." label="Lee YT." />
+      <node id="Edwards DP" label="Edwards DP" />
+      <node id=" Nishimura R" label=" Nishimura R" />
+      <node id="Inoue K" label="Inoue K" />
+      <node id=" Speizer FE" label=" Speizer FE" />
+      <node id=" Kuno K." label=" Kuno K." />
+      <node id=" Neville AM" label=" Neville AM" />
+      <node id=" Bodey GP." label=" Bodey GP." />
+      <node id="Papatestas AE" label="Papatestas AE" />
+      <node id=" Lesnick G" label=" Lesnick G" />
+      <node id=" Whitehead RH" label=" Whitehead RH" />
+      <node id="Senn HJ." label="Senn HJ." />
+      <node id="Greenspan EM." label="Greenspan EM." />
+      <node id="de Waard F." label="de Waard F." />
+      <node id="Tormey DC" label="Tormey DC" />
+      <node id="Cummings FJ" label="Cummings FJ" />
+      <node id=" Davis TE" label=" Davis TE" />
+      <node id="Fisher B." label="Fisher B." />
+      <node id=" Stuart JJ" label=" Stuart JJ" />
+      <node id=" Inagaki J" label=" Inagaki J" />
+      <node id=" Theve NO" label=" Theve NO" />
+      <node id=" Gilbert FI Jr" label=" Gilbert FI Jr" />
+      <node id=" Knight WA 3rd" label=" Knight WA 3rd" />
+      <node id="Hubay CA" label="Hubay CA" />
+      <node id="Cavalli F" label="Cavalli F" />
+      <node id=" George WD" label=" George WD" />
+      <node id="Allegra JC" label="Allegra JC" />
+      <node id="Jozan S" label="Jozan S" />
+      <node id=" Meyer JE" label=" Meyer JE" />
+      <node id=" Watanabe I" label=" Watanabe I" />
+      <node id=" Endo S." label=" Endo S." />
+      <node id=" Feinstein AR." label=" Feinstein AR." />
+      <node id=" Mettlin C" label=" Mettlin C" />
+      <node id=" Murphy GP." label=" Murphy GP." />
+      <node id="Papaioannou AN." label="Papaioannou AN." />
+      <node id="Carter SK." label="Carter SK." />
+      <node id=" Devleeschouwer N" label=" Devleeschouwer N" />
+      <node id=" Ogawa M." label=" Ogawa M." />
+      <node id=" Inoue K." label=" Inoue K." />
+      <node id="Paterson AH" label="Paterson AH" />
+      <node id=" Blumenschein G." label=" Blumenschein G." />
+      <node id=" Patchefsky AS" label=" Patchefsky AS" />
+      <node id=" Kelsey JL" label=" Kelsey JL" />
+      <node id=" Holford TR" label=" Holford TR" />
+      <node id=" Elias EG" label=" Elias EG" />
+      <node id=" Poortman J" label=" Poortman J" />
+      <node id="Adams DJ" label="Adams DJ" />
+      <node id="Montague ED" label="Montague ED" />
+      <node id=" Cadman E." label=" Cadman E." />
+      <node id="Verbeek AL" label="Verbeek AL" />
+      <node id=" Paszko Z" label=" Paszko Z" />
+      <node id=" Martz G" label=" Martz G" />
+      <node id=" Lesser ML" label=" Lesser ML" />
+      <node id=" Kuno K" label=" Kuno K" />
+      <node id=" Richards F 2nd" label=" Richards F 2nd" />
+      <node id=" Martin TJ" label=" Martin TJ" />
+      <node id=" Bretaudeau B" label=" Bretaudeau B" />
+      <node id="Dymarskiĭ LIu" label="Dymarskiĭ LIu" />
+      <node id="Poulsen HS" label="Poulsen HS" />
+      <node id=" Sylvester RJ" label=" Sylvester RJ" />
+      <node id=" Tangen M" label=" Tangen M" />
+      <node id=" Maslova IA" label=" Maslova IA" />
+      <node id="Bershteĭn LM" label="Bershteĭn LM" />
+      <node id=" Tabbane F" label=" Tabbane F" />
+      <node id=" Catalano RB" label=" Catalano RB" />
+      <node id=" Amano K" label=" Amano K" />
+      <node id=" Okumichi T" label=" Okumichi T" />
+      <node id=" Ezaki H." label=" Ezaki H." />
+      <node id="Nishiki M" label="Nishiki M" />
+      <node id=" Rennie GC" label=" Rennie GC" />
+      <node id=" Lie TH" label=" Lie TH" />
+      <node id=" Morgan FJ." label=" Morgan FJ." />
+      <node id="Petrini B" label="Petrini B" />
+      <node id="Chu AM" label="Chu AM" />
+      <node id="Maass H" label="Maass H" />
+      <node id=" Chu TM." label=" Chu TM." />
+      <node id=" Wander HE" label=" Wander HE" />
+      <node id=" Albano WA" label=" Albano WA" />
+      <node id=" Fruet F" label=" Fruet F" />
+      <node id=" Mansour EG" label=" Mansour EG" />
+      <node id=" Hermann RE" label=" Hermann RE" />
+      <node id=" Jones JC" label=" Jones JC" />
+      <node id=" Flynn WJ" label=" Flynn WJ" />
+      <node id=" Henderson BE" label=" Henderson BE" />
+      <node id="MacIndoe JH" label="MacIndoe JH" />
+      <node id="Legha SS" label="Legha SS" />
+      <node id="Głuszek S." label="Głuszek S." />
+      <node id=" Palshof T." label=" Palshof T." />
+      <node id="Hutter RV." label="Hutter RV." />
+      <node id=" Powell KC" label=" Powell KC" />
+      <node id=" Schell FC" label=" Schell FC" />
+      <node id=" Barnes BC" label=" Barnes BC" />
+      <node id="Moskowitz M" label="Moskowitz M" />
+      <node id=" Lauerová L" label=" Lauerová L" />
+      <node id=" Cole P" label=" Cole P" />
+      <node id=" Adams DJ" label=" Adams DJ" />
+      <node id="Knight WA 3rd" label="Knight WA 3rd" />
+      <node id="Sidorenko LN" label="Sidorenko LN" />
+      <node id=" Palshof T" label=" Palshof T" />
+      <node id=" Campbell FC" label=" Campbell FC" />
+      <node id=" Halvorsen JF." label=" Halvorsen JF." />
+      <node id="Yap HY" label="Yap HY" />
+      <node id="Smith IE" label="Smith IE" />
+      <node id="Stewart JF" label="Stewart JF" />
+      <node id="Thoresen S" label="Thoresen S" />
+      <node id=" Vana J" label=" Vana J" />
+      <node id="Zumoff B" label="Zumoff B" />
+      <node id=" Senn HJ" label=" Senn HJ" />
+      <node id=" Burns PE" label=" Burns PE" />
+      <node id=" Spurr CL." label=" Spurr CL." />
+      <node id=" Marchini S" label=" Marchini S" />
+      <node id=" Bailey BD" label=" Bailey BD" />
+      <node id=" Fukushima DK." label=" Fukushima DK." />
+      <node id="Black RB" label="Black RB" />
+      <node id=" Levin J" label=" Levin J" />
+      <node id=" Moseley JM" label=" Moseley JM" />
+      <node id="Leis HP Jr." label="Leis HP Jr." />
+      <node id="Berta V" label="Berta V" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Cocconi G" target="Paridaens R" />
+      <edge id="1" source="Cocconi G" target="Mouridsen HT" />
+      <edge id="2" source="Olsson H" target="Fernö M" />
+      <edge id="3" source="Shapiro S" target="Rosenberg L" />
+      <edge id="4" source="Foekens JA" target="Alexieva-Figusch J" />
+      <edge id="5" source="Veronesi U." target="Valagussa P" />
+      <edge id="6" source="Veronesi U." target="Bonadonna G" />
+      <edge id="7" source="Veronesi U." target="Cascinelli N" />
+      <edge id="8" source="McGuire WL" target="Dickson RB" />
+      <edge id="9" source="McGuire WL" target="Muss HB" />
+      <edge id="10" source="McGuire WL" target="Henderson IC" />
+      <edge id="11" source="McGuire WL" target="Lippman ME" />
+      <edge id="12" source="McGuire WL" target="Osborne CK" />
+      <edge id="13" source="McGuire WL" target="Cavalli F" />
+      <edge id="14" source="McGuire WL" target="Fisher ER" />
+      <edge id="15" source="McGuire WL" target="Knight WA 3rd" />
+      <edge id="16" source="McGuire WL" target="Osborne CK." />
+      <edge id="17" source="McGuire WL" target="Hortobagyi GN" />
+      <edge id="18" source="McGuire WL" target="Clark GM" />
+      <edge id="19" source="McGuire WL" target="Ceriani RL" />
+      <edge id="20" source="McGuire WL" target="Hubay CA" />
+      <edge id="21" source="McGuire WL" target="Adams DJ" />
+      <edge id="22" source="McGuire WL" target="Fisher B" />
+      <edge id="23" source="McGuire WL" target="Henderson IC." />
+      <edge id="24" source="Fisher ER" target="Wolmark N" />
+      <edge id="25" source="Fisher ER" target="Fisher B." />
+      <edge id="26" source="Fisher ER" target="Osborne CK" />
+      <edge id="27" source="Fisher ER" target="Henderson IC." />
+      <edge id="28" source="Fisher ER" target="Knight WA 3rd" />
+      <edge id="29" source="Fisher ER" target="Clark GM" />
+      <edge id="30" source="Fisher ER" target="Fisher B" />
+      <edge id="31" source="Ewertz M" target="Adami HO" />
+      <edge id="32" source="Ewertz M" target="Holmberg L" />
+      <edge id="33" source="Chlebowski RT" target="Henderson IC" />
+      <edge id="34" source="Henderson IC" target="Osborne CK." />
+      <edge id="35" source="Henderson IC" target="Fisher B" />
+      <edge id="36" source="Henderson IC" target="Schnitt SJ" />
+      <edge id="37" source="Henderson IC" target="Harris JR" />
+      <edge id="38" source="Henderson IC" target="Recht A" />
+      <edge id="39" source="Henderson IC" target="Allegra JC" />
+      <edge id="40" source="Henderson IC" target="Hayes DF" />
+      <edge id="41" source="Henderson IC" target="Santen RJ" />
+      <edge id="42" source="Bonadonna G" target="Valagussa P" />
+      <edge id="43" source="Bonadonna G" target="Jones SE" />
+      <edge id="44" source="Bonadonna G" target="Powles TJ" />
+      <edge id="45" source="Tominaga T" target="Nomura Y" />
+      <edge id="46" source="Tominaga T" target="Yayoi E" />
+      <edge id="47" source="Tominaga T" target="Izuo M" />
+      <edge id="48" source="Tominaga T" target="Takatsuka Y" />
+      <edge id="49" source="Tominaga T" target="Abe R" />
+      <edge id="50" source="Tominaga T" target="Kimura M" />
+      <edge id="51" source="Tominaga T" target="Inoue K" />
+      <edge id="52" source="Tominaga T" target="Nomura Y." />
+      <edge id="53" source="Tominaga T" target="Taguchi T" />
+      <edge id="54" source="Ingle JN" target="Loprinzi CL" />
+      <edge id="55" source="La Vecchia C" target="Liberati A" />
+      <edge id="56" source="Pronzato P" target="Conte PF" />
+      <edge id="57" source="Manni A" target="Hubay CA" />
+      <edge id="58" source="Manni A" target="Santen RJ" />
+      <edge id="59" source="Manni A" target="Lipton A" />
+      <edge id="60" source="Manni A" target="McGuire WL." />
+      <edge id="61" source="Merkel DE" target="McGuire WL." />
+      <edge id="62" source="Merkel DE" target="Osborne CK." />
+      <edge id="63" source="Merkel DE" target="Buzdar AU" />
+      <edge id="64" source="Robertson JF" target="Williams MR" />
+      <edge id="65" source="Robertson JF" target="Nicholson RI" />
+      <edge id="66" source="Henderson IC." target="Clark GM" />
+      <edge id="67" source="Henderson IC." target="Recht A" />
+      <edge id="68" source="Henderson IC." target="Hayes DF" />
+      <edge id="69" source="Henderson IC." target="Harris JR" />
+      <edge id="70" source="Arteaga CL" target="Osborne CK." />
+      <edge id="71" source="Arteaga CL" target="Clark GM" />
+      <edge id="72" source="Arteaga CL" target="Osborne CK" />
+      <edge id="73" source="Thorpe SM" target="Poulsen HS" />
+      <edge id="74" source="Thorpe SM" target="Pertschuk LP" />
+      <edge id="75" source="Thorpe SM" target="Lykkesfeldt AE" />
+      <edge id="76" source="Thorpe SM" target="Mouridsen HT" />
+      <edge id="77" source="Thorpe SM" target="Rose C" />
+      <edge id="78" source="Thorpe SM" target="Kamby C" />
+      <edge id="79" source="Thorpe SM" target="Rochefort H" />
+      <edge id="80" source="Thorpe SM" target="Andersen J" />
+      <edge id="81" source="Andersen J" target="Brünner N" />
+      <edge id="82" source="Andersen J" target="Poulsen HS" />
+      <edge id="83" source="Andersen J" target="Rose C" />
+      <edge id="84" source="Andersen J" target="Kamby C" />
+      <edge id="85" source="Andersen J" target="Nielsen M" />
+      <edge id="86" source="Andersen J" target="Mouridsen HT" />
+      <edge id="87" source="Muss HB" target="Osborne CK." />
+      <edge id="88" source="Brünner N" target="Lippman ME" />
+      <edge id="89" source="Brünner N" target="Dickson RB" />
+      <edge id="90" source="Brünner N" target="Clarke R" />
+      <edge id="91" source="Brünner N" target="Poulsen HS" />
+      <edge id="92" source="Brünner N" target="Lippman ME." />
+      <edge id="93" source="Brünner N" target="Osborne CK" />
+      <edge id="94" source="Fisher B" target="Cuzick J" />
+      <edge id="95" source="Fisher B" target="Knight WA 3rd" />
+      <edge id="96" source="Fisher B" target="Osborne CK." />
+      <edge id="97" source="Fisher B" target="Osborne CK" />
+      <edge id="98" source="Fisher B" target="Baum M" />
+      <edge id="99" source="Fisher B" target="Wolmark N" />
+      <edge id="100" source="Osborne CK" target="Knight WA 3rd" />
+      <edge id="101" source="Osborne CK" target="Montague ED" />
+      <edge id="102" source="Osborne CK" target="Dickson RB" />
+      <edge id="103" source="Osborne CK" target="Rivkin SE" />
+      <edge id="104" source="Osborne CK" target="Hortobagyi GN" />
+      <edge id="105" source="Osborne CK" target="Lippman ME." />
+      <edge id="106" source="Osborne CK" target="Clark GM" />
+      <edge id="107" source="Osborne CK" target="Tormey DC" />
+      <edge id="108" source="Osborne CK" target="McGuire WL." />
+      <edge id="109" source="Baum M." target="Cuzick J" />
+      <edge id="110" source="Rose DP" target="Wynder EL" />
+      <edge id="111" source="Rose DP" target="Falkson G" />
+      <edge id="112" source="Rose DP" target="Tormey DC" />
+      <edge id="113" source="Langlands AO" target="Forrest AP" />
+      <edge id="114" source="Lønning PE" target="Powles TJ." />
+      <edge id="115" source="Lønning PE" target="Dowsett M" />
+      <edge id="116" source="Rosen PP" target="Kinne DW" />
+      <edge id="117" source="Maehle BO" target="Thoresen S" />
+      <edge id="118" source="Maehle BO" target="Hartveit F." />
+      <edge id="119" source="Maehle BO" target="Hartveit F" />
+      <edge id="120" source="Clarke R" target="Dickson RB" />
+      <edge id="121" source="Clarke R" target="Lippman ME." />
+      <edge id="122" source="Clarke R" target="Lippman ME" />
+      <edge id="123" source="Nomura Y" target="Abe R" />
+      <edge id="124" source="Nomura Y" target="Taguchi T" />
+      <edge id="125" source="Nomura Y" target="Inoue K" />
+      <edge id="126" source="Nomura Y" target="Izuo M" />
+      <edge id="127" source="Powles TJ" target="Smith IE" />
+      <edge id="128" source="Powles TJ" target="Coombes RC" />
+      <edge id="129" source="Powles TJ" target="Jones SE" />
+      <edge id="130" source="Powles TJ" target="Harris AL" />
+      <edge id="131" source="Powles TJ" target="Dowsett M" />
+      <edge id="132" source="Forrest AP." target="Steele RJ" />
+      <edge id="133" source="Forrest AP." target="Roberts MM" />
+      <edge id="134" source="Forrest AP." target="Black RB" />
+      <edge id="135" source="Forrest AP." target="Hawkins RA" />
+      <edge id="136" source="Forrest AP." target="Miller WR" />
+      <edge id="137" source="Forrest AP." target="Dixon JM" />
+      <edge id="138" source="Rutqvist LE" target="Wilking N" />
+      <edge id="139" source="Rutqvist LE" target="Adami HO" />
+      <edge id="140" source="Rutqvist LE" target="Rotstein S" />
+      <edge id="141" source="Nicholson RI" target="Williams MR" />
+      <edge id="142" source="Adami HO" target="Holmberg L" />
+      <edge id="143" source="Stanford JL" target="Brinton LA" />
+      <edge id="144" source="Lippman ME" target="Dickson RB" />
+      <edge id="145" source="Lippman ME" target="Tormey DC" />
+      <edge id="146" source="Lippman ME" target="Kasid A" />
+      <edge id="147" source="Lippman ME" target="Allegra JC" />
+      <edge id="148" source="Lippman ME" target="Swain SM" />
+      <edge id="149" source="Lippman ME" target="Jakesz R" />
+      <edge id="150" source="Falkson G" target="Tormey DC" />
+      <edge id="151" source="Falkson G" target="Cummings FJ" />
+      <edge id="152" source="Falkson G" target="Loprinzi CL" />
+      <edge id="153" source="Falkson G" target="Carbone PP." />
+      <edge id="154" source="Falkson G" target="Love RR" />
+      <edge id="155" source="Falkson G" target="Taylor SG 4th" />
+      <edge id="156" source="Rivkin SE" target="Knight WA 3rd" />
+      <edge id="157" source="Nishi T" target="Taguchi T" />
+      <edge id="158" source="Izuo M" target="Taguchi T" />
+      <edge id="159" source="Izuo M" target="Nomura Y." />
+      <edge id="160" source="Izuo M" target="Inoue K" />
+      <edge id="161" source="Izuo M" target="Yayoi E" />
+      <edge id="162" source="Izuo M" target="Morimoto T" />
+      <edge id="163" source="Izuo M" target="Abe R" />
+      <edge id="164" source="Hortobagyi GN" target="Holmes FA" />
+      <edge id="165" source="Hortobagyi GN" target="Yap HY" />
+      <edge id="166" source="Hortobagyi GN" target="Montague ED" />
+      <edge id="167" source="Hortobagyi GN" target="Buzdar AU" />
+      <edge id="168" source="Hortobagyi GN" target="Legha SS" />
+      <edge id="169" source="Hortobagyi GN" target="Fraschini G" />
+      <edge id="170" source="Dickson RB" target="Kasid A" />
+      <edge id="171" source="Dickson RB" target="Lippman ME." />
+      <edge id="172" source="Dickson RB" target="Bronzert DA" />
+      <edge id="173" source="Vandewalle B" target="Peyrat JP" />
+      <edge id="174" source="Vandewalle B" target="Bonneterre J" />
+      <edge id="175" source="Holmberg L" target="Tabár L" />
+      <edge id="176" source="Takatsuka Y" target="Inoue K" />
+      <edge id="177" source="Takatsuka Y" target="Morimoto T" />
+      <edge id="178" source="Takatsuka Y" target="Yayoi E" />
+      <edge id="179" source="Yayoi E" target="Kobayashi T" />
+      <edge id="180" source="Yayoi E" target="Morimoto T" />
+      <edge id="181" source="Yayoi E" target="Inoue K" />
+      <edge id="182" source="Solin LJ" target="Schwartz GF" />
+      <edge id="183" source="Solin LJ" target="Recht A" />
+      <edge id="184" source="Nemoto T" target="Rosner D" />
+      <edge id="185" source="Kaufmann M" target="Senn HJ." />
+      <edge id="186" source="Kaufmann M" target="Jonat W" />
+      <edge id="187" source="Kaufmann M" target="Maass H" />
+      <edge id="188" source="Kimura M" target="Abe R" />
+      <edge id="189" source="Tubiana M" target="Lacour J" />
+      <edge id="190" source="Tubiana M" target="Bonneterre J" />
+      <edge id="191" source="Tubiana M" target="Lê MG" />
+      <edge id="192" source="Schnitt SJ" target="Recht A" />
+      <edge id="193" source="Schnitt SJ" target="Harris JR" />
+      <edge id="194" source="Powles TJ." target="Fentiman IS" />
+      <edge id="195" source="Powles TJ." target="Coombes RC" />
+      <edge id="196" source="Powles TJ." target="Smith IE" />
+      <edge id="197" source="Powles TJ." target="Harris AL" />
+      <edge id="198" source="Powles TJ." target="Dowsett M" />
+      <edge id="199" source="Jordan VC." target="Tormey DC" />
+      <edge id="200" source="Jordan VC." target="Love RR" />
+      <edge id="201" source="Bonneterre J" target="Peyrat JP" />
+      <edge id="202" source="Harris AL" target="Coombes RC" />
+      <edge id="203" source="Harris AL" target="Stuart-Harris R" />
+      <edge id="204" source="Harris AL" target="Dowsett M" />
+      <edge id="205" source="Harris AL" target="Smith IE" />
+      <edge id="206" source="Harris AL" target="Sainsbury JR" />
+      <edge id="207" source="Fentiman IS." target="Wang DY" />
+      <edge id="208" source="Fentiman IS." target="Thomas BS" />
+      <edge id="209" source="Swain SM" target="Lippman ME." />
+      <edge id="210" source="Taylor SG 4th" target="Carbone PP." />
+      <edge id="211" source="Taylor SG 4th" target="Tormey DC" />
+      <edge id="212" source="Petrakis NL" target="Lynch HT" />
+      <edge id="213" source="Brisson J" target="Kopans DB" />
+      <edge id="214" source="Schatzkin A" target="Rosenberg L" />
+      <edge id="215" source="Schatzkin A" target="Brinton LA" />
+      <edge id="216" source="Kobayashi T" target="Inoue K" />
+      <edge id="217" source="Loprinzi CL" target="Tormey DC" />
+      <edge id="218" source="Loprinzi CL" target="Carbone PP." />
+      <edge id="219" source="Kurtz JM" target="Pierquin B" />
+      <edge id="220" source="Morimoto T" target="Taguchi T" />
+      <edge id="221" source="Morimoto T" target="Inoue K" />
+      <edge id="222" source="Morimoto T" target="Abe R" />
+      <edge id="223" source="Ostrovtsev LD" target="Bazhenova AP" />
+      <edge id="224" source="Ostrovtsev LD" target="Demidov VP" />
+      <edge id="225" source="Carbone PP." target="Tormey DC" />
+      <edge id="226" source="Carbone PP." target="Love RR" />
+      <edge id="227" source="Clark GM" target="Thomas BS" />
+      <edge id="228" source="Clark GM" target="Knight WA 3rd" />
+      <edge id="229" source="Clark GM" target="McGuire WL." />
+      <edge id="230" source="Clark GM" target="Hubay CA" />
+      <edge id="231" source="Clark GM" target="Wang DY" />
+      <edge id="232" source="Clark GM" target="Bulbrook RD" />
+      <edge id="233" source="Clark GM" target="Rubens RD" />
+      <edge id="234" source="Clark GM" target="Fentiman IS" />
+      <edge id="235" source="Clark GM" target="Moore JW" />
+      <edge id="236" source="Cascinelli N" target="Veronesi U" />
+      <edge id="237" source="Lykkesfeldt AE" target="Rose C" />
+      <edge id="238" source="Nomura Y." target="Taguchi T" />
+      <edge id="239" source="Nomura Y." target="Abe R" />
+      <edge id="240" source="Murphy LC" target="Reddel RR" />
+      <edge id="241" source="Murphy LC" target="Shiu RP" />
+      <edge id="242" source="Buzdar AU" target="Yap HY" />
+      <edge id="243" source="Buzdar AU" target="Fraschini G" />
+      <edge id="244" source="Buzdar AU" target="Montague ED" />
+      <edge id="245" source="Buzdar AU" target="Holmes FA" />
+      <edge id="246" source="Buzdar AU" target="Legha SS" />
+      <edge id="247" source="Buzdar AU" target="McGuire WL." />
+      <edge id="248" source="Rubens RD" target="Stewart JF" />
+      <edge id="249" source="Rubens RD" target="Thomas BS" />
+      <edge id="250" source="Rubens RD" target="McPherson K" />
+      <edge id="251" source="Rubens RD" target="Coleman RE" />
+      <edge id="252" source="Rubens RD" target="Smith IE" />
+      <edge id="253" source="Rubens RD" target="Bulbrook RD" />
+      <edge id="254" source="Rubens RD" target="Fentiman IS" />
+      <edge id="255" source="Rubens RD" target="Wang DY" />
+      <edge id="256" source="Rubens RD" target="Howell A" />
+      <edge id="257" source="Rubens RD" target="Moore JW" />
+      <edge id="258" source="Rubens RD" target="Baum M" />
+      <edge id="259" source="Rubens RD" target="Mouridsen HT" />
+      <edge id="260" source="Nagel GA" target="Wander HE" />
+      <edge id="261" source="Nagel GA" target="Holtkamp W" />
+      <edge id="262" source="Dowsett M" target="Santen RJ" />
+      <edge id="263" source="Dowsett M" target="Smith IE" />
+      <edge id="264" source="Dowsett M" target="Stuart-Harris R" />
+      <edge id="265" source="Dowsett M" target="Coombes RC" />
+      <edge id="266" source="McGuire WL." target="Adams DJ" />
+      <edge id="267" source="McGuire WL." target="Hubay CA" />
+      <edge id="268" source="McGuire WL." target="Knight WA 3rd" />
+      <edge id="269" source="McGuire WL." target="Horwitz KB" />
+      <edge id="270" source="McGuire WL." target="Edwards DP" />
+      <edge id="271" source="Oriana S" target="Secreto G" />
+      <edge id="272" source="Oriana S" target="Valagussa P" />
+      <edge id="273" source="Secreto G" target="Valagussa P" />
+      <edge id="274" source="Recht A" target="Harris JR" />
+      <edge id="275" source="Recht A" target="Hayes DF" />
+      <edge id="276" source="Ermilova VD" target="Polevaia EB" />
+      <edge id="277" source="Ermilova VD" target="Letiagin VP" />
+      <edge id="278" source="Wander HE" target="Krieger G" />
+      <edge id="279" source="Wander HE" target="Holtkamp W" />
+      <edge id="280" source="Nivinskaia MM" target="Letiagin VP" />
+      <edge id="281" source="Valagussa P" target="Veronesi U" />
+      <edge id="282" source="Valagussa P" target="Jones SE" />
+      <edge id="283" source="Valagussa P" target="De Lena M" />
+      <edge id="284" source="Goldhirsch A" target="Cavalli F" />
+      <edge id="285" source="Jakesz R" target="Lippman ME." />
+      <edge id="286" source="Jakesz R" target="Kasid A" />
+      <edge id="287" source="Baum M" target="Cuzick J" />
+      <edge id="288" source="Baum M" target="McPherson K" />
+      <edge id="289" source="Rose C" target="Kamby C" />
+      <edge id="290" source="Rose C" target="Mouridsen HT" />
+      <edge id="291" source="Rose C" target="Pertschuk LP" />
+      <edge id="292" source="Bulbrook RD" target="Fentiman IS" />
+      <edge id="293" source="Bulbrook RD" target="Thomas BS" />
+      <edge id="294" source="Bulbrook RD" target="Howell A" />
+      <edge id="295" source="Bulbrook RD" target="Wang DY" />
+      <edge id="296" source="Bulbrook RD" target="Moore JW" />
+      <edge id="297" source="Bulbrook RD" target="Stewart JF" />
+      <edge id="298" source="Bulbrook RD" target="Cuzick J" />
+      <edge id="299" source="Rotstein S" target="Wilking N" />
+      <edge id="300" source="Rotstein S" target="Petrini B" />
+      <edge id="301" source="Jouve M" target="Pouillart P" />
+      <edge id="302" source="Vignon F" target="Chalbos D" />
+      <edge id="303" source="Vignon F" target="Rochefort H" />
+      <edge id="304" source="Hartveit F." target="Thoresen S" />
+      <edge id="305" source="Demidov VP" target="Korman DB" />
+      <edge id="306" source="Demidov VP" target="Bazhenova AP" />
+      <edge id="307" source="Kamby C" target="Mouridsen HT" />
+      <edge id="308" source="Lê MG" target="Lacour J" />
+      <edge id="309" source="Love RR" target="Tormey DC" />
+      <edge id="310" source="Lippman ME." target="Allegra JC" />
+      <edge id="311" source="Lippman ME." target="Kasid A" />
+      <edge id="312" source="Lippman ME." target="Bronzert DA" />
+      <edge id="313" source="Coleman RE" target="Mouridsen HT" />
+      <edge id="314" source="Coleman RE" target="Smith IE" />
+      <edge id="315" source="Thomas BS" target="Wang DY" />
+      <edge id="316" source="Thomas BS" target="Fentiman IS" />
+      <edge id="317" source="Thomas BS" target="Moore JW" />
+      <edge id="318" source="Forrest AP" target="Hawkins RA" />
+      <edge id="319" source="Forrest AP" target="Black RB" />
+      <edge id="320" source="Forrest AP" target="Roberts MM" />
+      <edge id="321" source="Forrest AP" target="Dixon JM" />
+      <edge id="322" source="Forrest AP" target="Steele RJ" />
+      <edge id="323" source="Moore JW" target="Fentiman IS" />
+      <edge id="324" source="Moore JW" target="Wang DY" />
+      <edge id="325" source="Hartveit F" target="Thoresen S" />
+      <edge id="326" source="Martoni A" target="Pannuti F" />
+      <edge id="327" source="Howell A" target="Fentiman IS" />
+      <edge id="328" source="Lipton A" target="Santen RJ" />
+      <edge id="329" source="Abe R" target="Taguchi T" />
+      <edge id="330" source="Iacobelli S" target="Scambia G" />
+      <edge id="331" source="Fraschini G" target="Holmes FA" />
+      <edge id="332" source="Fraschini G" target="Yap HY" />
+      <edge id="333" source="Fraschini G" target="Conte PF" />
+      <edge id="334" source="Fraschini G" target="Legha SS" />
+      <edge id="335" source="Lacour J" target="Veronesi U" />
+      <edge id="336" source="Fentiman IS" target="Cuzick J" />
+      <edge id="337" source="Fentiman IS" target="Wang DY" />
+      <edge id="338" source="Fentiman IS" target="Harris JR" />
+      <edge id="339" source="Wang DY" target="Cuzick J" />
+      <edge id="340" source="Hawkins RA" target="Steele RJ" />
+      <edge id="341" source="Hawkins RA" target="Roberts MM" />
+      <edge id="342" source="Hawkins RA" target="Miller WR" />
+      <edge id="343" source="Hawkins RA" target="Black RB" />
+      <edge id="344" source="Hawkins RA" target="Dixon JM" />
+      <edge id="345" source="Rochefort H" target="Chalbos D" />
+      <edge id="346" source="Taguchi T" target="Iwasa Z" />
+      <edge id="347" source="Letiagin VP" target="Polevaia EB" />
+      <edge id="348" source="Letiagin VP" target="Gerasimenko VN" />
+      <edge id="349" source="Feig SA." target="Schwartz GF" />
+      <edge id="350" source="De Lena M" target="Veronesi U" />
+      <edge id="351" source="Miller WR" target="Dixon JM" />
+      <edge id="352" source="Hayes DF" target="Harris JR" />
+      <edge id="353" source="Mouridsen HT" target="Stuart-Harris R" />
+      <edge id="354" source="Mouridsen HT" target="Paridaens R" />
+      <edge id="355" source="Mouridsen HT" target="Smith IE" />
+      <edge id="356" source="Roberts MM" target="McPherson K" />
+      <edge id="357" source="Roberts MM" target="Steele RJ" />
+      <edge id="358" source="Roberts MM" target="Black RB" />
+      <edge id="359" source="Dixon JM" target="Steele RJ" />
+      <edge id="360" source="Kasid A" target="Bronzert DA" />
+      <edge id="361" source="Coombes RC" target="Smith IE" />
+      <edge id="362" source="Holmes FA" target="Yap HY" />
+      <edge id="363" source="Stuart-Harris R" target="Smith IE" />
+      <edge id="364" source="Jonat W" target="Maass H" />
+      <edge id="365" source="Horwitz KB" target="Edwards DP" />
+      <edge id="366" source="Steele RJ" target="Black RB" />
+      <edge id="367" source="Wolmark N" target="Fisher B." />
+      <edge id="368" source="Strender LE" target="Petrini B" />
+      <edge id="369" source="Edwards DP" target="Adams DJ" />
+      <edge id="370" source="de Waard F." target="Verbeek AL" />
+      <edge id="371" source="Tormey DC" target="Cummings FJ" />
+      <edge id="372" source="Montague ED" target="Yap HY" />
+      <edge id="373" source="Legha SS" target="Yap HY" />
+    </edges>
+  </graph>
+</gexf>

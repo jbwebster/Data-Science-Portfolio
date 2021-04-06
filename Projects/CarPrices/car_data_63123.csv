@@ -1,0 +1,364 @@
+Zipcode,Page,NewUsed,Year,Make,Model,MSRP,Dealer_Price,Fuel_Type,Exterior_Color,City_MPG,Interior_Color,Highway_MPG,Drivetrain,Transmission,Liters,V,Mileage,Customer_Review,URL
+63123,1,NEW,2019,Nissan,Kicks SV,,17014,Gasoline,Super Black,31,Charcoal,36,FWD,Automatic CVT,1.6,6,,4.4,https://www.cars.com/vehicledetail/detail/791463434/overview/
+63123,1,NEW,2020,Nissan,Versa 1.6 SV,,16525,Gasoline,Electric Blue Metallic,32,Graphite,40,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/789146857/overview/
+63123,1,NEW,2020,Nissan,Versa S,,15703,Gasoline,Brilliant Silver Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/788041530/overview/
+63123,1,NEW,2020,Nissan,Versa 1.6 SR,,17600,Gasoline,Black,32,Gray,40,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/793429388/overview/
+63123,1,NEW,2020,Chevrolet,Spark LS,,11896,Gasoline,Raspberry,29,Black,38,FWD,Automatic CVT,1.4,6,3,4.9,https://www.cars.com/vehicledetail/detail/796785159/overview/
+63123,1,NEW,2020,Nissan,Rogue Sport SV,,25045,Gasoline,Caspian Blue,25,Light Gray,32,AWD,Automatic CVT,2.0,6,,4.6,https://www.cars.com/vehicledetail/detail/805458700/overview/
+63123,1,NEW,2019,Nissan,Kicks SV,,18279,Gasoline,Super Black,31,Charcoal,36,FWD,Automatic CVT,1.6,6,,4.4,https://www.cars.com/vehicledetail/detail/787635527/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,25338,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/802183071/overview/
+63123,1,USED,2018,Honda,Clarity Plug-In Hybrid Base,,23030,Hybrid,White,,Tan,,FWD,Variable,,,16368,4.7,https://www.cars.com/vehicledetail/detail/805075140/overview/?isShippableInsideSearchRadius
+63123,1,NEW,2020,Nissan,Rogue SL,,30916,Gasoline,Gun Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/806527175/overview/
+63123,1,USED,2018,Volkswagen,Atlas 3.6L SE w/Technology,,27990,Gasoline,Reflex Silver Metallic,,Titan Black,,AWD,8-Speed Automatic,3.6,6,35100,4.7,https://www.cars.com/vehicledetail/detail/808000275/overview/
+63123,1,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Summit White / White,26,,31,FWD,6-Speed Automatic,1.4,6,5,4.6,https://www.cars.com/vehicledetail/detail/797232025/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,25850,Gasoline,White,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/801356514/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,25567,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/798947767/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,26113,Gasoline,Caspian Blue,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/803394516/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,25373,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/803394509/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,25515,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/807183319/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,25557,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/798526228/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,25885,Gasoline,White,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/805104247/overview/
+63123,1,NEW,2020,Nissan,Rogue SL,,31236,Gasoline,White,26,Beige,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/795746830/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,24075,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/806798714/overview/
+63123,1,NEW,2020,Nissan,Rogue SL,,32805,Gasoline,White,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/802660890/overview/
+63123,1,NEW,2020,Nissan,Versa S,,14353,Gasoline,Brilliant Silver Metallic,27,Charcoal,35,FWD,5-Speed Manual,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/796943062/overview/
+63123,1,NEW,2020,Nissan,Versa S,,14353,Gasoline,Electric Blue Metallic,27,Charcoal,35,FWD,5-Speed Manual,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/797795998/overview/
+63123,1,NEW,2020,Nissan,Rogue SL,,31090,Gasoline,White,26,Beige,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/794208200/overview/
+63123,1,NEW,2020,Chevrolet,Spark LS,,13194,Gasoline,Raspberry Red,29,Jet Black,38,FWD,Automatic CVT,1.4,6,7,4.9,https://www.cars.com/vehicledetail/detail/799855031/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,25338,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/798526222/overview/
+63123,1,NEW,2020,Nissan,Versa 1.6 SR,,17600,Gasoline,Gun Metallic,32,Gray,40,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/788041513/overview/
+63123,1,NEW,2019,Nissan,Kicks SV,,18094,Gasoline,Aspen White,31,Charcoal,36,FWD,Automatic CVT,1.6,6,,4.4,https://www.cars.com/vehicledetail/detail/790594390/overview/
+63123,1,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Satin Steel Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/792917681/overview/
+63123,1,NEW,2020,Chevrolet,Spark LS,,13194,Gasoline,Passion,29,Jet Black,38,FWD,Automatic CVT,1.4,6,8,4.9,https://www.cars.com/vehicledetail/detail/788687978/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,25373,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/803394512/overview/
+63123,1,NEW,2020,Nissan,Kicks S,,19185,Gasoline,Gun Metallic,31,Charcoal,36,FWD,Automatic CVT,1.6,6,3,4,https://www.cars.com/vehicledetail/detail/797266124/overview/
+63123,1,USED,2016,GMC,Yukon Denali,,38620,Gasoline,Summit White,15,Jet Black,21,4WD,Automatic,6.2,8,49190,4,https://www.cars.com/vehicledetail/detail/807286794/overview/?isShippableInsideSearchRadius
+63123,1,NEW,2020,Nissan,Rogue SL,,31072,Gasoline,White,26,Beige,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/799465012/overview/
+63123,1,NEW,2020,Nissan,Rogue SL,,29246,Gasoline,Gun Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/802660810/overview/
+63123,1,NEW,2020,Nissan,Rogue Sport SL,,28295,Gasoline,Brilliant Silver Metallic,25,Light Gray,32,FWD,Automatic CVT,2.0,6,,4.6,https://www.cars.com/vehicledetail/detail/802660804/overview/
+63123,1,NEW,2019,Nissan,Kicks SV,,17899,Gasoline,Deep Blue Pearl / Fresh Powder,31,Charcoal,36,FWD,Automatic CVT,1.6,6,,4.4,https://www.cars.com/vehicledetail/detail/790594492/overview/
+63123,1,NEW,2020,Chevrolet,Spark LS,,12982,Gasoline,Silver Ice Gray,29,Jet Black,38,FWD,Automatic CVT,1.4,6,10,4.9,https://www.cars.com/vehicledetail/detail/786819917/overview/
+63123,1,NEW,2020,Nissan,Rogue SL,,31090,Gasoline,White,26,Beige,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/794208473/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,27269,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/807761769/overview/
+63123,1,NEW,2020,Nissan,Rogue SL,,31118,Gasoline,White,26,Beige,33,FWD,Automatic CVT,2.5,6,10,4.6,https://www.cars.com/vehicledetail/detail/797762588/overview/
+63123,1,NEW,2020,Chevrolet,Spark 1LT,,15006,Gasoline,Mosaic Black,29,Jet Black,38,FWD,Automatic CVT,1.4,6,10,4.9,https://www.cars.com/vehicledetail/detail/788840251/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,25373,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/805743299/overview/
+63123,1,NEW,2020,Chevrolet,Spark LS,,12253,Gasoline,Caribbean Blue,29,Black,38,FWD,Automatic CVT,1.4,6,3,4.9,https://www.cars.com/vehicledetail/detail/799924659/overview/
+63123,1,NEW,2020,Nissan,Versa S,,15971,Gasoline,Black,27,Charcoal,35,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/793429444/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,25820,Gasoline,White,26,Beige,33,FWD,Automatic CVT,2.5,6,10,4.6,https://www.cars.com/vehicledetail/detail/799118369/overview/
+63123,1,NEW,2019,Nissan,Kicks SV,,18299,Gasoline,Super Black,31,Charcoal,36,FWD,Automatic CVT,1.6,6,,4.4,https://www.cars.com/vehicledetail/detail/790594391/overview/
+63123,1,NEW,2020,Chevrolet,Spark LS,,15258,Gasoline,Orange Burst,29,Jet Black/Jet Black,38,FWD,Automatic,,,5,4.9,https://www.cars.com/vehicledetail/detail/789734184/overview/
+63123,1,NEW,2020,Nissan,Rogue SL,,31153,Gasoline,White,26,Charcoal,33,FWD,Automatic CVT,2.5,6,10,4.6,https://www.cars.com/vehicledetail/detail/803566977/overview/
+63123,1,NEW,2020,Nissan,Rogue SL,,31110,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/802660802/overview/
+63123,1,NEW,2020,Nissan,Kicks S,,19210,Gasoline,Brilliant Silver,31,Charcoal,36,FWD,Automatic CVT,1.6,6,,4,https://www.cars.com/vehicledetail/detail/797500013/overview/
+63123,1,NEW,2020,Nissan,Versa S,,15840,Gasoline,Electric Blue Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,10,4.5,https://www.cars.com/vehicledetail/detail/805693137/overview/
+63123,1,NEW,2020,Nissan,Versa S,,14192,Gasoline,Black,27,Charcoal,35,FWD,5-Speed Manual,1.6,6,10,4.5,https://www.cars.com/vehicledetail/detail/804244646/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,24431,Gasoline,White,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/807183320/overview/
+63123,1,NEW,2020,Nissan,Versa S,,15499,Gasoline,Black,27,Charcoal,35,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/785867827/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,29031,Gasoline,Gun Metallic,26,Charcoal,33,AWD,Automatic CVT,2.5,6,3,4.6,https://www.cars.com/vehicledetail/detail/804345041/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,28084,Gasoline,Scarlet Ember,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/797006243/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,26055,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/802182790/overview/
+63123,1,USED,2006,Bentley,Continental Flying Spur,,31840,Gasoline,Dark Sapphire,11,Saddle,18,AWD,6-Speed Automatic,6.0,0,52710,5,https://www.cars.com/vehicledetail/detail/801537469/overview/
+63123,1,USED,2004,Ford,Thunderbird Premium,,12950,Gasoline,Platinum Silver,17,Performance White,23,RWD,Automatic,3.9,8,50320,4.8,https://www.cars.com/vehicledetail/detail/792926542/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,25885,Gasoline,White,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/805743222/overview/
+63123,1,NEW,2020,Nissan,Rogue SL,,28850,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,11,4.6,https://www.cars.com/vehicledetail/detail/802015535/overview/
+63123,1,NEW,2019,Nissan,Kicks SV,,17699,Gasoline,Super Black,31,Charcoal,36,FWD,Automatic CVT,1.6,6,,4.4,https://www.cars.com/vehicledetail/detail/790594489/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,25373,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/805207117/overview/
+63123,1,NEW,2020,Nissan,Rogue SL,,32008,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/794208444/overview/
+63123,1,NEW,2020,Nissan,Rogue SL,,31118,Gasoline,Scarlet Ember,26,Beige,33,FWD,Automatic CVT,2.5,6,10,4.6,https://www.cars.com/vehicledetail/detail/799939865/overview/
+63123,1,NEW,2020,Nissan,Versa S,,16943,Gasoline,Cloud White,27,Charcoal,35,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/784266157/overview/
+63123,1,NEW,2020,Nissan,Versa S,,14353,Gasoline,Black,27,Charcoal,35,FWD,5-Speed Manual,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/797795984/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,26113,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/806421292/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,25338,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/799624002/overview/
+63123,1,NEW,2020,Nissan,Versa S,,15961,Gasoline,Black,27,Charcoal,35,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/787990588/overview/
+63123,1,NEW,2019,Kia,Niro Touring,,31492,Hybrid,Silky Silver,46,Charcoal,40,FWD,6-Speed Automatic with Auto-Shift,1.6,6,12,4.5,https://www.cars.com/vehicledetail/detail/791992905/overview/
+63123,1,NEW,2020,Chevrolet,Spark ACTIV,,16093,Gasoline,Silver Ice Gray,29,Jet Black,37,FWD,Automatic CVT,1.4,6,10,4.9,https://www.cars.com/vehicledetail/detail/788438040/overview/
+63123,1,NEW,2020,Nissan,Versa S,,15971,Gasoline,Gun Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/793429447/overview/
+63123,1,NEW,2020,Nissan,Versa S,,15971,Gasoline,Brilliant Silver Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/793429387/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,25373,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/805207256/overview/
+63123,1,USED,2017,Genesis,G90 5.0 Ultimate,,32091,Gasoline,Caspian Black,16,Black,24,AWD,8-Speed Automatic,5.0,8,50090,4.7,https://www.cars.com/vehicledetail/detail/803351898/overview/
+63123,1,NEW,2020,Chevrolet,Spark 1LT,,14238,Gasoline,Orange,29,Jet Black,38,FWD,Automatic CVT,1.4,6,3,4.9,https://www.cars.com/vehicledetail/detail/799924744/overview/
+63123,1,NEW,2020,Nissan,Rogue SL,,32294,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/792838646/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,25373,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/803394513/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,26469,Gasoline,Scarlet Ember,26,Beige,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/807433978/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,27625,Gasoline,White,26,Beige,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/807761827/overview/
+63123,1,USED,2007,Saturn,Sky Red Line,,14995,Gasoline,Blue,22,Black,31,RWD,5-Speed Manual,2.0,6,21221,4.7,https://www.cars.com/vehicledetail/detail/807218723/overview/
+63123,1,NEW,2020,Nissan,Rogue SV,,26113,Gasoline,Caspian Blue,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/803394517/overview/
+63123,1,USED,2008,Lexus,IS-F Base,,21900,Gasoline,Obsidian Black,16,Black,23,RWD,8-Speed Automatic,5.0,8,85000,5,https://www.cars.com/vehicledetail/detail/806932753/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Silver Ice Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/796697248/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Silver Ice Metallic,26,,31,FWD,6-Speed Automatic,1.4,6,4,4.6,https://www.cars.com/vehicledetail/detail/796553734/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Mosaic Black Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,8,4.6,https://www.cars.com/vehicledetail/detail/803133201/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,24075,Gasoline,Caspian Blue,26,Beige,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/803394508/overview/
+63123,2,NEW,2020,Nissan,Versa S,,14192,Gasoline,Gun Metallic,27,Charcoal,35,FWD,5-Speed Manual,1.6,6,10,4.5,https://www.cars.com/vehicledetail/detail/805693401/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,25373,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/805458747/overview/
+63123,2,NEW,2020,Nissan,Kicks SV,,20965,Gasoline,Brilliant Silver,31,Charcoal,36,FWD,Automatic CVT,1.6,6,4,4,https://www.cars.com/vehicledetail/detail/797341695/overview/
+63123,2,NEW,2020,Nissan,Versa S,,15971,Gasoline,Brilliant Silver Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/793429387/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,25373,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/805207159/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,6,4.6,https://www.cars.com/vehicledetail/detail/802601330/overview/
+63123,2,NEW,2020,Buick,Envision Essence,,30491,Gasoline,Dark Moon Blue Metallic,21,Dark Galvanized,27,AWD,6-Speed Automatic,2.5,6,6,4.8,https://www.cars.com/vehicledetail/detail/801717279/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Silver Ice Metallic,26,,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/796697162/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Mosaic Black Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,8,4.6,https://www.cars.com/vehicledetail/detail/801150504/overview/
+63123,2,NEW,2020,Nissan,Kicks SR,,22673,Gasoline,Deep Blue Pearl / Fresh Powder,31,Charcoal,36,FWD,Automatic CVT,1.6,6,3,4,https://www.cars.com/vehicledetail/detail/797266297/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,6,4.6,https://www.cars.com/vehicledetail/detail/799854908/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,24075,Gasoline,Caspian Blue,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/807888377/overview/
+63123,2,NEW,2020,Buick,Encore Preferred,,21715,Gasoline,Ebony Twilight Metallic,25,Ebony,30,FWD,6-Speed Automatic,1.4,6,8,5,https://www.cars.com/vehicledetail/detail/782753445/overview/
+63123,2,NEW,2020,Ford,Transit-250,,31629,Gasoline,White,,Gray,,RWD,10-Speed Automatic,3.5,6,5,,https://www.cars.com/vehicledetail/detail/804401359/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,6,4.6,https://www.cars.com/vehicledetail/detail/799380030/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Silver Ice Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/796697153/overview/
+63123,2,USED,2006,Jaguar,XJR,,8750,Gasoline,Platinum Silver,17,Ivory,24,RWD,6-Speed Automatic,4.2,8,85707,5,https://www.cars.com/vehicledetail/detail/798023734/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Nightfall Gray Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,5,4.6,https://www.cars.com/vehicledetail/detail/796553803/overview/
+63123,2,NEW,2020,Chevrolet,Spark LS,,12982,Gasoline,Passion,29,Jet Black,38,FWD,Automatic CVT,1.4,6,10,4.9,https://www.cars.com/vehicledetail/detail/788840160/overview/
+63123,2,NEW,2020,Nissan,Versa 1.6 SV,,17190,Gasoline,Brilliant Silver Metallic,32,Graphite,40,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/796204520/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Mosaic Black Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,4,4.6,https://www.cars.com/vehicledetail/detail/799855319/overview/
+63123,2,NEW,2020,Nissan,Pathfinder SL,,37941,Gasoline,Gun Metallic,20,Rock Creek,27,4WD,Automatic CVT,3.5,6,,5,https://www.cars.com/vehicledetail/detail/802660815/overview/
+63123,2,NEW,2019,Nissan,Rogue SL,,27005,Gasoline,Caspian Blue,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/785743413/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,27338,Gasoline,Gun Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,4983,4.6,https://www.cars.com/vehicledetail/detail/787892428/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,25546,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,10,4.6,https://www.cars.com/vehicledetail/detail/788608048/overview/
+63123,2,NEW,2020,Nissan,Kicks SV,,20965,Gasoline,Brilliant Silver,31,Charcoal,36,FWD,Automatic CVT,1.6,6,3,4,https://www.cars.com/vehicledetail/detail/798862701/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Mosaic Black Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,4,4.6,https://www.cars.com/vehicledetail/detail/802017041/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,27953,Gasoline,Gun Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,10,4.6,https://www.cars.com/vehicledetail/detail/788298852/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,7,4.6,https://www.cars.com/vehicledetail/detail/799607632/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,6,4.6,https://www.cars.com/vehicledetail/detail/799380029/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Silver Ice Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,5,4.6,https://www.cars.com/vehicledetail/detail/798017803/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Nightfall Gray Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,5,4.6,https://www.cars.com/vehicledetail/detail/791975244/overview/
+63123,2,NEW,2020,Nissan,Versa S,,14192,Gasoline,Black,27,Charcoal,35,FWD,5-Speed Manual,1.6,6,10,4.5,https://www.cars.com/vehicledetail/detail/806765698/overview/
+63123,2,NEW,2019,Hyundai,Ioniq Hybrid Limited,,,Hybrid,Intense Blue Metallic,55,Charcoal Black,54,FWD,Automatic,,,1,4.3,https://www.cars.com/vehicledetail/detail/772308154/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Black Cherry Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,5,4.6,https://www.cars.com/vehicledetail/detail/799855742/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Mosaic Black Metallic,26,,31,FWD,6-Speed Automatic,1.4,6,7,4.6,https://www.cars.com/vehicledetail/detail/799855359/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,5,4.6,https://www.cars.com/vehicledetail/detail/799450811/overview/
+63123,2,NEW,2019,Nissan,Kicks SV,,19729,Gasoline,Cayenne Red,31,Charcoal,36,FWD,Automatic CVT,1.6,6,,4.4,https://www.cars.com/vehicledetail/detail/791463563/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,24709,Gasoline,Scarlet Ember,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/807761849/overview/
+63123,2,NEW,2020,Nissan,Versa 1.6 SV,,17485,Gasoline,Scarlet Ember,32,Graphite,40,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/797795995/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Mosaic Black Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,5,4.6,https://www.cars.com/vehicledetail/detail/797231918/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,24040,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/801174400/overview/
+63123,2,NEW,2020,Nissan,Rogue SL,,30798,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,5,4.6,https://www.cars.com/vehicledetail/detail/806363285/overview/
+63123,2,NEW,2020,Nissan,Rogue Sport SV,,23600,Gasoline,Caspian Blue,25,Light Gray,32,AWD,Automatic CVT,2.0,6,,4.6,https://www.cars.com/vehicledetail/detail/802183028/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,28830,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,4,4.6,https://www.cars.com/vehicledetail/detail/803215496/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Nightfall Gray Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/792917384/overview/
+63123,2,NEW,2020,Nissan,Versa S,,15703,Gasoline,Brilliant Silver Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/788041530/overview/
+63123,2,NEW,2020,Nissan,Rogue SL,,28826,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/796943152/overview/
+63123,2,NEW,2020,Nissan,Versa 1.6 SV,,17060,Gasoline,Gun Metallic,32,Graphite,40,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/793429445/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Nightfall Gray Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,4,4.6,https://www.cars.com/vehicledetail/detail/799694192/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Nightfall Gray Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,4,4.6,https://www.cars.com/vehicledetail/detail/797231943/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Silver Ice Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,5,4.6,https://www.cars.com/vehicledetail/detail/796004794/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Silver Ice Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,4,4.6,https://www.cars.com/vehicledetail/detail/794402303/overview/
+63123,2,NEW,2020,Chevrolet,Spark LS,,12253,Gasoline,Orange,29,Black,38,FWD,Automatic CVT,1.4,6,3,4.9,https://www.cars.com/vehicledetail/detail/796667808/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,24269,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/798526122/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Silver Ice Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,5,4.6,https://www.cars.com/vehicledetail/detail/796697200/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Mosaic Black Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,6,4.6,https://www.cars.com/vehicledetail/detail/803133190/overview/
+63123,2,NEW,2020,Nissan,Versa 1.6 S,,,Gasoline,Monarch Orange Pearl Met,27,Sport Sr Fabric,35,FWD,,,,12,4.5,https://www.cars.com/vehicledetail/detail/797565446/overview/
+63123,2,NEW,2020,Nissan,Versa S,,15840,Gasoline,Gun Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,10,4.5,https://www.cars.com/vehicledetail/detail/805693128/overview/
+63123,2,NEW,2020,Volvo,V60 Cross Country T5 AWD,,53568,Gasoline,Onyx Black Metallic,22,Charcoal,31,AWD,Automatic,,,6,4.4,https://www.cars.com/vehicledetail/detail/794406965/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,26150,Gasoline,Scarlet Ember,26,Beige,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/785743516/overview/
+63123,2,NEW,2020,Nissan,Rogue SL,,28679,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/794208484/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Mosaic Black Metallic,26,,31,FWD,6-Speed Automatic,1.4,6,7,4.6,https://www.cars.com/vehicledetail/detail/797232026/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Mosaic Black Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,6,4.6,https://www.cars.com/vehicledetail/detail/799855427/overview/
+63123,2,NEW,2020,Nissan,Rogue SL,,32805,Gasoline,Scarlet Ember,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/802660907/overview/
+63123,2,NEW,2020,Nissan,Kicks SR,,22693,Gasoline,Monarch Orange / Super Black,31,Charcoal,36,FWD,Automatic CVT,1.6,6,5,4,https://www.cars.com/vehicledetail/detail/797266067/overview/
+63123,2,NEW,2020,Nissan,Rogue SL,,33005,Gasoline,Scarlet Ember,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/801797262/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,29147,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/795746678/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Nightfall Gray Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,8,4.6,https://www.cars.com/vehicledetail/detail/794515384/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,24075,Gasoline,Gun Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/806527183/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,25885,Gasoline,White,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/805207255/overview/
+63123,2,NEW,2020,Nissan,Versa 1.6 SV,,16760,Gasoline,Gun Metallic,32,Graphite,40,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/788252906/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Summit White / White,26,,31,FWD,6-Speed Automatic,1.4,6,18,4.6,https://www.cars.com/vehicledetail/detail/799451106/overview/
+63123,2,NEW,2020,Nissan,Rogue SL,,29489,Gasoline,White,26,Beige,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/788041518/overview/
+63123,2,NEW,2020,Nissan,Rogue SL,,28870,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/796296376/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Black Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/798720939/overview/
+63123,2,NEW,2019,Nissan,Kicks SV,,20094,Gasoline,Deep Blue Pearl,31,Charcoal,36,FWD,Automatic CVT,1.6,6,,4.4,https://www.cars.com/vehicledetail/detail/791463435/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,24075,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/803394639/overview/
+63123,2,NEW,2020,Nissan,Rogue SL,,31153,Gasoline,White,26,Beige,33,FWD,Automatic CVT,2.5,6,5,4.6,https://www.cars.com/vehicledetail/detail/807724941/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,6,4.6,https://www.cars.com/vehicledetail/detail/799855751/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,26008,Gasoline,Scarlet Ember,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/785743493/overview/
+63123,2,NEW,2020,Nissan,Rogue SL,,31260,Gasoline,Scarlet Ember,26,Beige,33,FWD,Automatic CVT,2.5,6,10,4.6,https://www.cars.com/vehicledetail/detail/795011142/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Summit White / White,26,,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/799168853/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,6,4.6,https://www.cars.com/vehicledetail/detail/801056155/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Summit White / White,26,,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/798017814/overview/
+63123,2,NEW,2020,Chevrolet,Spark LS,,12253,Gasoline,Caribbean Blue,29,Black,38,FWD,Automatic CVT,1.4,6,3,4.9,https://www.cars.com/vehicledetail/detail/797047464/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/799854723/overview/
+63123,2,NEW,2020,Nissan,Rogue SV,,24353,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/807761829/overview/
+63123,2,NEW,2019,Nissan,Kicks SR,,18000,Gasoline,Super Black,31,Charcoal,36,FWD,Automatic CVT,1.6,6,,4.4,https://www.cars.com/vehicledetail/detail/779426190/overview/
+63123,2,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Silver Ice Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,1038,4.6,https://www.cars.com/vehicledetail/detail/795728804/overview/
+63123,3,NEW,2020,Nissan,Versa 1.6 S,,,Gasoline,Gun Metallic,27,Sport Sr Fabric,35,FWD,,,,12,4.5,https://www.cars.com/vehicledetail/detail/791185573/overview/
+63123,3,NEW,2020,Nissan,Rogue SL,,31998,Gasoline,Caspian Blue,26,Beige,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/786857030/overview/
+63123,3,NEW,2020,Hyundai,Ioniq Hybrid SEL,,28955,Hybrid,Ceramic White,55,Dark Gray,54,FWD,6-Speed Automatic with Auto-Shift,1.6,6,9,5,https://www.cars.com/vehicledetail/detail/800134173/overview/
+63123,3,NEW,2019,Nissan,Rogue SL,,27005,Gasoline,Caspian Blue,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/786579244/overview/
+63123,3,NEW,2020,Dodge,Journey SE Value,,20104,Gasoline,Gray Clearcoat,,Black,,FWD,4-Speed Automatic,2.4,6,,5,https://www.cars.com/vehicledetail/detail/807292173/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,25183,Gasoline,Gun Metallic,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/790694798/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,24304,Gasoline,Scarlet Ember,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/792009380/overview/
+63123,3,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Black Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/799682851/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,26128,Gasoline,Monarch Orange,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/788309549/overview/
+63123,3,NEW,2020,Nissan,Versa S,,14192,Gasoline,Cloud White,27,Charcoal,35,FWD,5-Speed Manual,1.6,6,10,4.5,https://www.cars.com/vehicledetail/detail/804311348/overview/
+63123,3,NEW,2020,Nissan,Versa 1.6 SV,,16686,Gasoline,Black,32,Graphite,40,FWD,Automatic CVT,1.6,6,5,4.5,https://www.cars.com/vehicledetail/detail/789712071/overview/
+63123,3,NEW,2020,Chevrolet,Trax LS,,17967,Gasoline,Gray Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/807286266/overview/
+63123,3,NEW,2020,Ford,EcoSport SES,,25381,Gasoline,Diamond White,23,Ebony Black,29,4WD,6-Speed Automatic,2.0,6,1,4.2,https://www.cars.com/vehicledetail/detail/799184277/overview/
+63123,3,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Black Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/799843719/overview/
+63123,3,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Nightfall Gray Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,4,4.6,https://www.cars.com/vehicledetail/detail/807198989/overview/
+63123,3,NEW,2020,Chevrolet,Trax LS,,17967,Gasoline,Black Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/807224848/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,25842,Gasoline,Monarch Orange,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/795333883/overview/
+63123,3,NEW,2020,Nissan,Kicks S,,19389,Gasoline,Brilliant Silver,31,Charcoal,36,FWD,Automatic CVT,1.6,6,4,4,https://www.cars.com/vehicledetail/detail/797266298/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,28830,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,4,4.6,https://www.cars.com/vehicledetail/detail/803215496/overview/
+63123,3,NEW,2020,Nissan,Rogue Sport SV,,23735,Gasoline,Scarlet Ember,25,Charcoal,32,FWD,Automatic CVT,2.0,6,,4.6,https://www.cars.com/vehicledetail/detail/796537505/overview/
+63123,3,NEW,2020,Nissan,Rogue SL,,31153,Gasoline,White,26,Beige,33,FWD,Automatic CVT,2.5,6,10,4.6,https://www.cars.com/vehicledetail/detail/804355524/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,24304,Gasoline,Gun Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/789929962/overview/
+63123,3,NEW,2020,Buick,Envision Essence,,,Gasoline,Ebony Twilight Metallic,21,Ebony,27,AWD,6-Speed Automatic,2.5,6,7,4.8,https://www.cars.com/vehicledetail/detail/798960037/overview/
+63123,3,NEW,2020,Nissan,Versa 1.6 SV,,17534,Gasoline,Scarlet Ember,32,Graphite,40,FWD,Automatic CVT,1.6,6,4,4.5,https://www.cars.com/vehicledetail/detail/796623152/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,25471,Gasoline,Gun Metallic,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/795048532/overview/
+63123,3,NEW,2020,Nissan,Rogue SL,,32391,Gasoline,Caspian Blue,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/793429448/overview/
+63123,3,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Summit White,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/796494371/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,24659,Gasoline,Scarlet Ember,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/792009383/overview/
+63123,3,NEW,2020,Nissan,Versa 1.6 SR,,18081,Gasoline,Scarlet Ember,32,Gray,40,FWD,Automatic CVT,1.6,6,7,4.5,https://www.cars.com/vehicledetail/detail/786214978/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,26327,Gasoline,White,26,Beige,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/807433979/overview/
+63123,3,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Black Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/799579999/overview/
+63123,3,NEW,2019,Hyundai,Ioniq Hybrid Limited,,27245,Hybrid,Ceramic White,55,Beige,54,FWD,6-Speed Automatic with Auto-Shift,1.6,6,10,4.3,https://www.cars.com/vehicledetail/detail/794106340/overview/
+63123,3,NEW,2020,Nissan,Rogue Sport SV,,23735,Gasoline,Scarlet Ember,25,Charcoal,32,FWD,Automatic CVT,2.0,6,,4.6,https://www.cars.com/vehicledetail/detail/796537254/overview/
+63123,3,NEW,2019,Nissan,Kicks SR,,18960,Gasoline,Cayenne Red / Super Black,31,Charcoal,36,FWD,Automatic CVT,1.6,6,,4.4,https://www.cars.com/vehicledetail/detail/794500627/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,24119,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,10,4.6,https://www.cars.com/vehicledetail/detail/805693082/overview/
+63123,3,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Black Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/796494339/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,25338,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/796537262/overview/
+63123,3,NEW,2020,Nissan,Rogue SL,,32042,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/784142250/overview/
+63123,3,NEW,2020,Nissan,Versa 1.6 S,,,Gasoline,Brilliant Silver Metallic,27,Char Clth,35,FWD,,,,12,4.5,https://www.cars.com/vehicledetail/detail/793335907/overview/
+63123,3,NEW,2019,Nissan,Frontier SV,,25241,Gasoline,Gun Metallic,16,Wheat,23,4WD,5-Speed Automatic,4.0,6,10,4.6,https://www.cars.com/vehicledetail/detail/793589016/overview/
+63123,3,NEW,2020,Chevrolet,Trax LS,,17289,Gasoline,Satin Steel Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,3915,4.6,https://www.cars.com/vehicledetail/detail/791975669/overview/
+63123,3,NEW,2020,Nissan,Versa 1.6 SR,,17300,Gasoline,Black,32,Gray,40,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/784266147/overview/
+63123,3,NEW,2020,Nissan,Rogue SL,,32042,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/786777371/overview/
+63123,3,NEW,2020,Nissan,Versa 1.6 S,,,Gasoline,Gun Metallic,27,Char Clth,35,FWD,,,,12,4.5,https://www.cars.com/vehicledetail/detail/793335820/overview/
+63123,3,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Summit White,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/796494493/overview/
+63123,3,NEW,2020,Nissan,Versa 1.6 SR,,17633,Gasoline,Aspen White,32,Gray,40,FWD,Automatic CVT,1.6,6,5,4.5,https://www.cars.com/vehicledetail/detail/794137911/overview/
+63123,3,NEW,2020,Nissan,Versa S,,14192,Gasoline,Black,27,Charcoal,35,FWD,5-Speed Manual,1.6,6,10,4.5,https://www.cars.com/vehicledetail/detail/806765698/overview/
+63123,3,NEW,2020,Nissan,Versa 1.6 SV,,16525,Gasoline,Black,32,Graphite,40,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/787635405/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,25415,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/797896939/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,25849,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/803394633/overview/
+63123,3,NEW,2020,Nissan,Pathfinder SL,,35103,Gasoline,Scarlet Ember,20,Charcoal,27,4WD,Automatic CVT,3.5,6,,5,https://www.cars.com/vehicledetail/detail/807761856/overview/
+63123,3,NEW,2020,Volvo,V60 Cross Country T5 AWD,,49344,Gasoline,Crystal White Pearl Metallic,22,Amber,31,AWD,Automatic,,,6,4.4,https://www.cars.com/vehicledetail/detail/792940788/overview/
+63123,3,NEW,2020,Nissan,Rogue SL,,31998,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/784266154/overview/
+63123,3,NEW,2020,Chevrolet,Trax LS,,15925,Gasoline,Summit White,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/782114621/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,25415,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/797896941/overview/
+63123,3,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Silver Ice Metallic,26,,31,FWD,6-Speed Automatic,1.4,6,4,4.6,https://www.cars.com/vehicledetail/detail/798017805/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,26357,Gasoline,Monarch Orange,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/788309538/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,24119,Gasoline,Gun Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,10,4.6,https://www.cars.com/vehicledetail/detail/805693081/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,24709,Gasoline,White,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/808053598/overview/
+63123,3,NEW,2019,Nissan,Kicks SR,,18960,Gasoline,Deep Blue Pearl / Fresh Powder,31,Charcoal,36,FWD,Automatic CVT,1.6,6,,4.4,https://www.cars.com/vehicledetail/detail/793429371/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,26061,Gasoline,Monarch Orange,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/788309535/overview/
+63123,3,NEW,2020,Nissan,Versa S,,15971,Gasoline,Black,27,Charcoal,35,FWD,Automatic CVT,1.6,6,,4.5,https://www.cars.com/vehicledetail/detail/793429444/overview/
+63123,3,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Silver Ice Metallic,26,,31,FWD,6-Speed Automatic,1.4,6,4,4.6,https://www.cars.com/vehicledetail/detail/798017802/overview/
+63123,3,USED,2016,BMW,i8 Base,,59995,Hybrid,Protonic Blue Metallic,,Giga Ivory White,,AWD,6-Speed Automatic,1.5,2,30705,5,https://www.cars.com/vehicledetail/detail/807829179/overview/
+63123,3,NEW,2020,Chevrolet,Spark LS,,13340,Gasoline,Caribbean Blue,29,Black,38,FWD,Automatic CVT,1.4,6,2,4.9,https://www.cars.com/vehicledetail/detail/807908950/overview/
+63123,3,NEW,2019,Kia,Niro EX,,27863,Hybrid,Snow White Pearl,51,Charcoal,46,FWD,6-Speed Automatic with Auto-Shift,1.6,6,53,4.5,https://www.cars.com/vehicledetail/detail/792711926/overview/
+63123,3,NEW,2020,Nissan,Versa 1.6 S,,,Gasoline,Gun Metallic,27,Sport Sr Fabric,35,FWD,,,,12,4.5,https://www.cars.com/vehicledetail/detail/786824609/overview/
+63123,3,NEW,2020,Nissan,Rogue SL,,30363,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/788512734/overview/
+63123,3,NEW,2020,Nissan,Rogue SL,,29143,Gasoline,Gun Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/794208199/overview/
+63123,3,USED,2001,Pontiac,Grand Prix GTP,,4995,Gasoline,Arctic White,18,,28,FWD,4-Speed Automatic,3.8,6,112698,4.3,https://www.cars.com/vehicledetail/detail/801617667/overview/
+63123,3,NEW,2020,Nissan,Versa 1.6 SV,,16696,Gasoline,Gun Metallic,32,Graphite,40,FWD,Automatic CVT,1.6,6,3,4.5,https://www.cars.com/vehicledetail/detail/797550378/overview/
+63123,3,NEW,2020,Buick,Envision Essence,,,Gasoline,Ebony Twilight Metallic,21,Ebony,27,FWD,6-Speed Automatic,2.5,6,7,4.8,https://www.cars.com/vehicledetail/detail/786600320/overview/
+63123,3,NEW,2020,Nissan,Versa 1.6 SR,,17474,Gasoline,Gun Metallic,32,Gray,40,FWD,Automatic CVT,1.6,6,5,4.5,https://www.cars.com/vehicledetail/detail/786787242/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,25719,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/796537324/overview/
+63123,3,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Black Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/796494428/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,25910,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/795333886/overview/
+63123,3,NEW,2020,Nissan,Rogue Sport SV,,26392,Gasoline,White,25,Light Gray,32,AWD,Automatic CVT,2.0,6,3,4.6,https://www.cars.com/vehicledetail/detail/802353815/overview/
+63123,3,NEW,2020,Ford,EcoSport S,,18395,Gasoline,Lightning Blue,23,Medium Stone,29,FWD,6-Speed Automatic,1.0,2,5,4.2,https://www.cars.com/vehicledetail/detail/797015901/overview/
+63123,3,NEW,2020,Chevrolet,Bolt EV Premier,,30652,Electric,Orange Metallic,127,Dark Galvanized Gray,108,FWD,1-Speed Automatic,,,3,4.6,https://www.cars.com/vehicledetail/detail/803192872/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,24084,Gasoline,Caspian Blue,26,Charcoal,33,FWD,Automatic CVT,2.5,6,365,4.6,https://www.cars.com/vehicledetail/detail/798473674/overview/
+63123,3,NEW,2019,Kia,Cadenza SX Limited,,35872,Gasoline,Aurora Black,,Black,,FWD,8-Speed Automatic,3.3,6,10,4.2,https://www.cars.com/vehicledetail/detail/773110507/overview/
+63123,3,NEW,2020,Nissan,Rogue SL,,31998,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/790089408/overview/
+63123,3,NEW,2020,Volvo,V60 Cross Country T5 AWD,,48279,Gasoline,Osmium Grey Metallic,22,Amber,31,AWD,Automatic,,,11,4.4,https://www.cars.com/vehicledetail/detail/789527970/overview/
+63123,3,NEW,2020,Chevrolet,Bolt EV LT,,26624,Electric,Blue Metallic,127,Dark Galvanized,108,FWD,1-Speed Automatic,,,3,4.6,https://www.cars.com/vehicledetail/detail/803321072/overview/
+63123,3,NEW,2020,Nissan,Versa 1.6 SR,,17879,Gasoline,Aspen White,32,Gray,40,FWD,Automatic CVT,1.6,6,3,4.5,https://www.cars.com/vehicledetail/detail/788226564/overview/
+63123,3,NEW,2020,Buick,Envision Essence,,,Gasoline,Espresso,21,Light Neutral,27,FWD,6-Speed Automatic,2.5,6,7,4.8,https://www.cars.com/vehicledetail/detail/790272271/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,25415,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/797896938/overview/
+63123,3,NEW,2020,Nissan,Rogue SL,,31998,Gasoline,Gun Metallic,26,Charcoal,33,AWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/786033296/overview/
+63123,3,USED,2012,Nissan,Cube 1.8 SL,,7599,Gasoline,Brilliant Silver Metallic,27,Black,31,FWD,Variable,,,63529,4.9,https://www.cars.com/vehicledetail/detail/792629460/overview/
+63123,3,NEW,2020,Nissan,Rogue SV,,23884,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/789146616/overview/
+63123,3,NEW,2019,Nissan,Kicks SV,,17699,Gasoline,Super Black,31,Charcoal,36,FWD,Automatic CVT,1.6,6,,4.4,https://www.cars.com/vehicledetail/detail/790594392/overview/
+63123,3,NEW,2020,Nissan,Versa S,,14192,Gasoline,Gun Metallic,27,Charcoal,35,FWD,5-Speed Manual,1.6,6,10,4.5,https://www.cars.com/vehicledetail/detail/803970300/overview/
+63123,3,NEW,2020,Nissan,Versa 1.6 SV,,17429,Gasoline,Aspen White,32,Graphite,40,FWD,Automatic CVT,1.6,6,10,4.5,https://www.cars.com/vehicledetail/detail/798923444/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Mosaic Black Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,7,4.6,https://www.cars.com/vehicledetail/detail/804122427/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Silver Ice Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/795296300/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Silver Ice Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/796494374/overview/
+63123,4,NEW,2020,Nissan,Versa 1.6 SV,,17074,Gasoline,Black,32,Graphite,40,FWD,Automatic CVT,1.6,6,10,4.5,https://www.cars.com/vehicledetail/detail/795437899/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Summit White,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/799579877/overview/
+63123,4,NEW,2019,Nissan,Rogue Sport SV,,22105,Gasoline,Brilliant Silver Metallic,25,Gray,32,FWD,Automatic CVT,2.0,6,,4.6,https://www.cars.com/vehicledetail/detail/783857496/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15513,Gasoline,Black Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/803059284/overview/
+63123,4,NEW,2020,Chevrolet,Sonic LT,,17884,Gasoline,Red,26,Jet Black / Dark Titanium,34,FWD,6-Speed Automatic,1.4,6,3,4.5,https://www.cars.com/vehicledetail/detail/796494316/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Summit White,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/799579964/overview/
+63123,4,NEW,2020,Buick,Envision Essence,,29592,Gasoline,Chili Red Metallic,21,Light Neutral,27,FWD,Automatic,,,3,4.8,https://www.cars.com/vehicledetail/detail/802551272/overview/
+63123,4,NEW,2020,Nissan,Rogue SV,,26208,Gasoline,Scarlet Ember,26,Beige,33,FWD,Automatic CVT,2.5,6,,4.6,https://www.cars.com/vehicledetail/detail/785743503/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,4,4.6,https://www.cars.com/vehicledetail/detail/805407148/overview/
+63123,4,NEW,2020,Nissan,Versa 1.6 SR,,17729,Gasoline,Brilliant Silver Metallic,32,Gray,40,FWD,Automatic CVT,1.6,6,3,4.5,https://www.cars.com/vehicledetail/detail/788087500/overview/
+63123,4,NEW,2020,Nissan,Rogue SV,,28003,Gasoline,White,26,Charcoal,33,AWD,Automatic CVT,2.5,6,3,4.6,https://www.cars.com/vehicledetail/detail/788403266/overview/
+63123,4,NEW,2020,Nissan,Versa 1.6 SR,,17474,Gasoline,Brilliant Silver Metallic,32,Gray,40,FWD,Automatic CVT,1.6,6,4,4.5,https://www.cars.com/vehicledetail/detail/788087466/overview/
+63123,4,NEW,2020,Nissan,Rogue SV,,25619,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,5,4.6,https://www.cars.com/vehicledetail/detail/800289340/overview/
+63123,4,NEW,2020,Nissan,Rogue SV,,25413,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,5,4.6,https://www.cars.com/vehicledetail/detail/807028486/overview/
+63123,4,NEW,2020,Nissan,Rogue SV,,25619,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,3,4.6,https://www.cars.com/vehicledetail/detail/800289022/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Steel Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,5037,4.6,https://www.cars.com/vehicledetail/detail/802820074/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,6,4.6,https://www.cars.com/vehicledetail/detail/804617805/overview/
+63123,4,NEW,2020,Nissan,Rogue SL,,28885,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,10,4.6,https://www.cars.com/vehicledetail/detail/803342181/overview/
+63123,4,NEW,2019,Nissan,Rogue Sport SL,,23440,Gasoline,Scarlet Ember,25,Charcoal,32,FWD,Automatic CVT,2.0,6,,4.6,https://www.cars.com/vehicledetail/detail/787250424/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15515,Gasoline,Black Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/802854721/overview/
+63123,4,NEW,2020,Nissan,Versa 1.6 SV,,17429,Gasoline,Aspen White,32,Graphite,40,FWD,Automatic CVT,1.6,6,10,4.5,https://www.cars.com/vehicledetail/detail/796173150/overview/
+63123,4,NEW,2020,Nissan,Rogue SL,,28850,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,10,4.6,https://www.cars.com/vehicledetail/detail/800479857/overview/
+63123,4,NEW,2020,Nissan,Versa 1.6 SR,,17474,Gasoline,Brilliant Silver Metallic,32,Gray,40,FWD,Automatic CVT,1.6,6,5,4.5,https://www.cars.com/vehicledetail/detail/786787245/overview/
+63123,4,NEW,2020,Nissan,Versa 1.6 SV,,17143,Gasoline,Black,32,Graphite,40,FWD,Automatic CVT,1.6,6,3,4.5,https://www.cars.com/vehicledetail/detail/788087467/overview/
+63123,4,NEW,2020,Nissan,Rogue SV,,26075,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,7,4.6,https://www.cars.com/vehicledetail/detail/785686749/overview/
+63123,4,NEW,2020,Buick,Envision Essence,,29592,Gasoline,Ebony Twilight Metallic,21,Ebony,27,FWD,Automatic,,,3,4.8,https://www.cars.com/vehicledetail/detail/802413965/overview/
+63123,4,USED,2008,Dodge,Avenger SE,,5985,Gasoline,Inferno Red Crystal Pearl,21,Dark / Light Slate Gray,30,FWD,4-Speed Automatic,2.4,6,61500,4.2,https://www.cars.com/vehicledetail/detail/805266847/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Steel Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/801363346/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Silver Ice Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/793690804/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Steel Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/800403581/overview/
+63123,4,NEW,2020,Nissan,Versa 1.6 SR,,17623,Gasoline,Aspen White,32,Gray,40,FWD,Automatic CVT,1.6,6,7,4.5,https://www.cars.com/vehicledetail/detail/786615814/overview/
+63123,4,NEW,2020,Nissan,Rogue SV,,24119,Gasoline,Gun Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,10,4.6,https://www.cars.com/vehicledetail/detail/805693132/overview/
+63123,4,NEW,2020,Nissan,Rogue SV,,25619,Gasoline,Gun Metallic,26,Charcoal,33,AWD,Automatic CVT,2.5,6,3,4.6,https://www.cars.com/vehicledetail/detail/800288999/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,7,4.6,https://www.cars.com/vehicledetail/detail/805407014/overview/
+63123,4,NEW,2020,Nissan,Versa 1.6 SV,,17143,Gasoline,Gun Metallic,32,Graphite,40,FWD,Automatic CVT,1.6,6,3,4.5,https://www.cars.com/vehicledetail/detail/788226549/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,6,4.6,https://www.cars.com/vehicledetail/detail/804122371/overview/
+63123,4,NEW,2020,Buick,Envision Essence,,,Gasoline,Dark Moon Blue Metallic,21,Light Neutral,27,FWD,6-Speed Automatic,2.5,6,7,4.8,https://www.cars.com/vehicledetail/detail/790862622/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Gray Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/800862027/overview/
+63123,4,NEW,2019,Hyundai,Ioniq Hybrid Limited,,,Hybrid,Ceramic White,55,Charcoal Black,54,FWD,Automatic,,,1,4.3,https://www.cars.com/vehicledetail/detail/772308085/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Summit White,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/799843966/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,17289,Gasoline,Nightfall Gray Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,2367,4.6,https://www.cars.com/vehicledetail/detail/791817819/overview/
+63123,4,NEW,2020,Nissan,Rogue SV,,26201,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,3,4.6,https://www.cars.com/vehicledetail/detail/790392622/overview/
+63123,4,NEW,2020,Chevrolet,Malibu 1LS,,18645,Gasoline,Summit White,29,Dark Atmosphere,36,FWD,Automatic CVT,1.5,6,3,4.8,https://www.cars.com/vehicledetail/detail/807908952/overview/
+63123,4,NEW,2020,Chevrolet,Sonic LT,,17884,Gasoline,Silver Ice Metallic,26,Jet Black / Dark Titanium,34,FWD,6-Speed Automatic,1.4,6,3,4.5,https://www.cars.com/vehicledetail/detail/796494784/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Summit White,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/799843716/overview/
+63123,4,NEW,2020,Buick,Envision Essence,,,Gasoline,Summit White,21,Light Neutral,27,FWD,6-Speed Automatic,2.5,6,7,4.8,https://www.cars.com/vehicledetail/detail/805026593/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Mosaic Black Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,7,4.6,https://www.cars.com/vehicledetail/detail/804122424/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Steel Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/799579985/overview/
+63123,4,NEW,2020,Nissan,Rogue SV,,25619,Gasoline,Gun Metallic,26,Charcoal,33,AWD,Automatic CVT,2.5,6,3,4.6,https://www.cars.com/vehicledetail/detail/800289619/overview/
+63123,4,NEW,2019,Nissan,Rogue SV,,22369,Gasoline,Magnetic Black Pearl,26,Char Clth,33,AWD,,,,0,4.6,https://www.cars.com/vehicledetail/detail/775009443/overview/
+63123,4,NEW,2020,Nissan,Rogue SV,,25619,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,3,4.6,https://www.cars.com/vehicledetail/detail/800289014/overview/
+63123,4,USED,2001,BMW,Z3 3.0i,,7996,Gasoline,Atlanta Blue Metallic,21,Black,28,RWD,Automatic,,,98705,4.9,https://www.cars.com/vehicledetail/detail/807519593/overview/
+63123,4,NEW,2020,Nissan,Rogue SL,,28850,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,10,4.6,https://www.cars.com/vehicledetail/detail/796680545/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Summit White,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/799580139/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Silver Ice Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/792342798/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,16794,Gasoline,Nightfall Gray Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,2087,4.6,https://www.cars.com/vehicledetail/detail/791817818/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,8,4.6,https://www.cars.com/vehicledetail/detail/805407403/overview/
+63123,4,NEW,2020,Nissan,Versa 1.6 SV,,17429,Gasoline,Monarch Orange,32,Graphite,40,FWD,Automatic CVT,1.6,6,10,4.5,https://www.cars.com/vehicledetail/detail/796680021/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,7,4.6,https://www.cars.com/vehicledetail/detail/804122374/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Summit White,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/799843623/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Silver Ice Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/792342879/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,6,4.6,https://www.cars.com/vehicledetail/detail/804617806/overview/
+63123,4,NEW,2019,Nissan,Kicks SV,,19302,Gasoline,Super Black,31,Char Clth,36,FWD,,,,12,4.4,https://www.cars.com/vehicledetail/detail/793335934/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Silver Ice Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/800403817/overview/
+63123,4,NEW,2020,Nissan,Rogue Sport SL,,,Gasoline,Pearl White,25,Gry Premium Clth,32,FWD,,,,12,4.6,https://www.cars.com/vehicledetail/detail/796141390/overview/
+63123,4,NEW,2020,Kia,Forte LXS,,17433,Gasoline,Deep Sea Blue,29,Black,40,FWD,Variable,,,10,4.5,https://www.cars.com/vehicledetail/detail/806996762/overview/
+63123,4,NEW,2020,Toyota,Corolla Hybrid LE,,22430,Hybrid,Gray,53,,52,FWD,Automatic CVT,1.8,6,10,4.6,https://www.cars.com/vehicledetail/detail/791277553/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Silver Ice Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/797579046/overview/
+63123,4,NEW,2020,Nissan,Rogue SV,,26201,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,3,4.6,https://www.cars.com/vehicledetail/detail/784078815/overview/
+63123,4,NEW,2018,Ford,Transit-150 Base,,30800,Gasoline,Oxford White,,Charcoal,,RWD,6-Speed Automatic,3.7,6,2,4,https://www.cars.com/vehicledetail/detail/746757711/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Summit White,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/801256788/overview/
+63123,4,NEW,2020,Nissan,Rogue SV,,25413,Gasoline,Glacier White,26,Charcoal,33,AWD,Automatic CVT,2.5,6,5,4.6,https://www.cars.com/vehicledetail/detail/807848076/overview/
+63123,4,NEW,2020,GMC,Acadia SLT,,38235,Gasoline,White Frost Tri-Coat,21,Jet Black,27,FWD,9-Speed Automatic,3.6,6,5,4.8,https://www.cars.com/vehicledetail/detail/807240350/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,7,4.6,https://www.cars.com/vehicledetail/detail/804122372/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Steel Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/799579876/overview/
+63123,4,NEW,2020,Nissan,Versa 1.6 SV,,15438,Gasoline,Black,32,Graphite,40,FWD,Automatic CVT,1.6,6,5,4.5,https://www.cars.com/vehicledetail/detail/789617813/overview/
+63123,4,NEW,2020,Nissan,Rogue SV,,25910,Gasoline,Gun Metallic,26,Charcoal,33,AWD,Automatic CVT,2.5,6,3,4.6,https://www.cars.com/vehicledetail/detail/800289452/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,17294,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,7,4.6,https://www.cars.com/vehicledetail/detail/804617594/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Silver Ice Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/793690950/overview/
+63123,4,NEW,2020,Nissan,Versa 1.6 SV,,17153,Gasoline,Gun Metallic,32,Graphite,40,FWD,Automatic CVT,1.6,6,4,4.5,https://www.cars.com/vehicledetail/detail/793775106/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,7,4.6,https://www.cars.com/vehicledetail/detail/804122373/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,15967,Gasoline,Black Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,3,4.6,https://www.cars.com/vehicledetail/detail/801256784/overview/
+63123,4,NEW,2020,Dodge,Journey SE Value,,20104,Gasoline,Billet Clearcoat,,Black,,FWD,4-Speed Automatic,2.4,6,,5,https://www.cars.com/vehicledetail/detail/807292154/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Summit White / White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,6,4.6,https://www.cars.com/vehicledetail/detail/805407150/overview/
+63123,4,NEW,2020,Chevrolet,Trax LS,,17789,Gasoline,Mosaic Black Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,4,4.6,https://www.cars.com/vehicledetail/detail/804122426/overview/
+63123,4,NEW,2019,Ford,EcoSport SE,,17673,Gasoline,Moondust Silver,27,Ebony,29,FWD,6-Speed Automatic,1.0,2,5,3.9,https://www.cars.com/vehicledetail/detail/778625739/overview/
+63123,4,NEW,2020,Nissan,Versa 1.6 SV,,17143,Gasoline,Black,32,Graphite,40,FWD,Automatic CVT,1.6,6,3,4.5,https://www.cars.com/vehicledetail/detail/788087362/overview/

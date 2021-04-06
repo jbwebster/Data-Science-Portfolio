@@ -3,6 +3,7 @@ title: "The Disproportionate Amount of Fast Food Restaurants in Obese States"
 output:
   html_document:
     df_print: paged
+    code_folding: hide
 ---
 ```{r echo=FALSE, include=FALSE}
 library(dplyr)

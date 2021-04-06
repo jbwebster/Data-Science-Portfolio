@@ -1,0 +1,94 @@
+NewUsed,Year,Make,Model,MSRP,Dealer_Price,Fuel_Type,Exterior_Color,City_MPG,Interior_Color,Highway_MPG,Drivetrain,Transmission,Liters,V,Mileage,Customer_Review
+USED,2004,Ford,Thunderbird Premium,,12950,Gasoline,Platinum Silver,17,Performance White,23,RWD,Automatic,3.9,8,50320,4.8
+USED,2006,Bentley,Continental Flying Spur,,31840,Gasoline,Dark Sapphire,11,Saddle,18,AWD,6-Speed Automatic,6.0,0,52710,5
+USED,2017,Mercedes-Benz,AMG GLS 63 Base 4MATIC,,67950,Gasoline,Black,13,Black,17,AWD,Automatic,,,26525,5
+,,,,,,,,,,,,,,,,
+NEW,2019,Nissan,Rogue Sport SV,25645,19205,Gasoline,Gun Metallic,25,Charcoal,32,FWD,,,,12,4.6
+NEW,2020,Nissan,Rogue SL,33075,28850,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,10,4.6
+NEW,2020,Nissan,Rogue SL,36955,32447,Gasoline,Scarlet Ember,26,Beige,33,AWD,Automatic CVT,2.5,6,10,4.6
+NEW,2020,Nissan,Rogue SL,35605,31153,Gasoline,Scarlet Ember,26,Charcoal,33,FWD,Automatic CVT,2.5,6,10,4.6
+NEW,2020,Nissan,Rogue SL,35605,31153,Gasoline,White,26,Beige,33,FWD,Automatic CVT,2.5,6,5,4.6
+NEW,2020,Nissan,Versa S,18015,15840,Gasoline,Electric Blue Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,10,4.5
+NEW,2020,Nissan,Rogue SL,35605,31118,Gasoline,Scarlet Ember,26,Beige,33,FWD,Automatic CVT,2.5,6,10,4.6
+NEW,2020,Chevrolet,Spark ACTIV,18345,16093,Gasoline,Silver Ice Gray,29,Jet Black,37,FWD,Automatic CVT,1.4,6,10,4.9
+NEW,2020,Chevrolet,Spark 1LT,17245,15006,Gasoline,Mosaic Black,29,Jet Black,38,FWD,Automatic CVT,1.4,6,10,4.9
+NEW,2020,Chevrolet,Spark LS,15345,12982,Gasoline,Silver Ice Gray,29,Jet Black,38,FWD,Automatic CVT,1.4,6,10,4.9
+,Certified,2017,Toyota Highlander LIMITED - V6 AWD,,17995,Gasoline,Predawn Gray Mica,,Chateau,,AWD,8 Speed Elect Controlled Auto Transmission w/Inte,,,36831,4.8
+NEW,2019,Nissan,Kicks SV,22280,17899,Gasoline,Deep Blue Pearl / Fresh Powder,31,Charcoal,36,FWD,Automatic CVT,1.6,6,Not provided,4.4
+NEW,2019,Nissan,Kicks SV,22475,18094,Gasoline,Aspen White,31,Charcoal,36,FWD,Automatic CVT,1.6,6,Not provided,4.4
+NEW,2020,Nissan,Versa S,17985,15271,Gasoline,Black,27,Charcoal,35,FWD,Automatic CVT,1.6,6,Not provided,4.5
+NEW,2020,Nissan,Versa S,17985,15271,Gasoline,Gun Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,Not provided,4.5
+NEW,2019,Nissan,Kicks SV,22680,18299,Gasoline,Super Black,31,Charcoal,36,FWD,Automatic CVT,1.6,6,Not provided,4.4
+NEW,2020,Nissan,Rogue SL,35375,30225,Gasoline,Caspian Blue,26,Beige,33,FWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Versa S,17985,15271,Gasoline,Brilliant Silver Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,Not provided,4.5
+NEW,2019,Nissan,Kicks SV,21395,17014,Gasoline,Super Black,31,Charcoal,36,FWD,Automatic CVT,1.6,6,Not provided,4.4
+NEW,2020,Nissan,Rogue SV,31735,26712,Gasoline,Caspian Blue,26,Charcoal,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SV,30615,25627,Gasoline,White,26,Beige,33,FWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SV,30300,25313,Gasoline,White,26,Charcoal,33,FWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SV,30220,25271,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Versa S,17450,14799,Gasoline,Black,27,Charcoal,35,FWD,Automatic CVT,1.6,6,Not provided,4.5
+NEW,2020,Nissan,Versa S,17685,15003,Gasoline,Brilliant Silver Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,Not provided,4.5
+NEW,2020,Nissan,Rogue SV,32130,27067,Gasoline,Scarlet Ember,26,Beige,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,35770,30580,Gasoline,White,26,Beige,33,FWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SV,31255,26256,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,36725,31453,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,36725,31497,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,35375,30410,Gasoline,Magnetic Black,26,Charcoal,33,FWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SV,34000,28447,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SV,29190,24330,Gasoline,White,26,Beige,33,FWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,36975,31955,Gasoline,White,26,Charcoal,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,37485,32105,Gasoline,White,26,Charcoal,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SV,28105,23375,Gasoline,Gun Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Versa S,17985,15261,Gasoline,Black,27,Charcoal,35,FWD,Automatic CVT,1.6,6,Not provided,4.5
+NEW,2020,Nissan,Rogue SL,36725,31453,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,37120,31808,Gasoline,White,26,Beige,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,36775,31483,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,33555,28546,Gasoline,Gun Metallic,26,Charcoal,33,FWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,33555,28590,Gasoline,Caspian Blue,26,Charcoal,33,FWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Versa S,17685,16943,Gasoline,Cloud White,27,Charcoal,35,FWD,Automatic CVT,1.6,6,Not provided,4.5
+NEW,2020,Nissan,Rogue SV,29455,24673,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Chevrolet,Spark LS,15195,11896,Gasoline,Raspberry,29,Black,38,FWD,Automatic CVT,1.4,6,3,4.9
+NEW,2020,Nissan,Rogue SL,35620,30390,Gasoline,White,26,Beige,33,FWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,35620,30390,Gasoline,White,26,Beige,33,FWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,36575,31308,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,36940,31594,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,36575,31298,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,36575,31342,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,36575,31298,Gasoline,Caspian Blue,26,Beige,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,36775,31691,Gasoline,Caspian Blue,26,Charcoal,33,AWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Rogue SL,35225,30025,Gasoline,Caspian Blue,26,Charcoal,33,FWD,Automatic CVT,2.5,6,Not provided,4.6
+NEW,2020,Nissan,Versa 1.6 SR,19880,16900,Gasoline,Gun Metallic,32,Gray,40,FWD,Automatic CVT,1.6,6,Not provided,4.5
+NEW,2020,Chevrolet,Sonic LT,20670,17884,Gasoline,Red,26,Jet Black / Dark Titanium,34,FWD,6-Speed Automatic,1.4,6,3,4.5
+NEW,2020,Chevrolet,Spark LS,15195,13194,Gasoline,Raspberry Red,29,Jet Black,38,FWD,Automatic CVT,1.4,6,7,4.9
+NEW,2020,Chevrolet,Spark LS,15590,13589,Gasoline,Caribbean Blue,29,Jet Black,38,FWD,Automatic CVT,1.4,6,3,4.9
+NEW,2020,Chevrolet,Spark LS,15195,13194,Gasoline,Silver Ice Gray,29,Jet Black,38,FWD,Automatic CVT,1.4,6,7,4.9
+NEW,2020,Chevrolet,Spark LS,15590,12008,Gasoline,Orange Burst,29,Jet Black/Jet Black,38,FWD,Automatic,,,5,4.9
+NEW,2020,Kia,Forte LXS,20255,16858,Gasoline,Gray,29,Black,40,FWD,Automatic CVT,2.0,6,10,4.5
+NEW,2020,Nissan,Versa S,16315,14209,Gasoline,Cloud White,27,Charcoal,35,FWD,5-Speed Manual,1.6,6,7,4.5
+NEW,2020,Nissan,Versa S,17685,15581,Gasoline,Gun Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,7,4.5
+NEW,2020,Nissan,Versa 1.6 SR,20635,17577,Gasoline,Aspen White,32,Gray,40,FWD,Automatic CVT,1.6,6,7,4.5
+NEW,2020,Nissan,Versa S,18520,16286,Gasoline,Black,27,Charcoal,35,FWD,Automatic CVT,1.6,6,7,4.5
+NEW,2020,Nissan,Versa S,18520,16286,Gasoline,Brilliant Silver Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,7,4.5
+NEW,2020,Nissan,Versa S,17295,15256,Gasoline,Black,27,Charcoal,35,FWD,Automatic CVT,1.6,6,7,4.5
+NEW,2020,Nissan,Versa 1.6 SV,18980,16834,Gasoline,Gun Metallic,32,Graphite,40,FWD,Automatic CVT,1.6,6,7,4.5
+NEW,2020,Nissan,Versa S,17685,15581,Gasoline,Black,27,Charcoal,35,FWD,Automatic CVT,1.6,6,7,4.5
+NEW,2020,Kia,Forte GT-Line,23995,20116,Gasoline,Gray,29,Black,40,FWD,Automatic CVT,2.0,6,10,4.5
+NEW,2020,Nissan,Versa S,16345,14118,Gasoline,Cloud White,27,Charcoal,35,FWD,5-Speed Manual,1.6,6,2,4.5
+NEW,2020,Nissan,Versa S,18015,15742,Gasoline,Brilliant Silver Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,2,4.5
+NEW,2020,Nissan,Versa S,18015,15742,Gasoline,Gun Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,4,4.5
+NEW,2020,Nissan,Versa S,18015,15742,Gasoline,Black,27,Charcoal,35,FWD,Automatic CVT,1.6,6,4,4.5
+NEW,2020,Nissan,Versa S,18015,15742,Gasoline,Gun Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,10,4.5
+NEW,2020,Nissan,Versa S,16345,14118,Gasoline,Brilliant Silver Metallic,27,Charcoal,35,FWD,5-Speed Manual,1.6,6,2,4.5
+NEW,2020,Nissan,Versa S,18520,16161,Gasoline,Brilliant Silver Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,4,4.5
+NEW,2020,Nissan,Versa S,17985,15712,Gasoline,Brilliant Silver Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,5,4.5
+NEW,2020,Nissan,Versa S,17805,15558,Gasoline,Electric Blue Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,5,4.5
+NEW,2020,Nissan,Versa S,16345,14118,Gasoline,Black,27,Charcoal,35,FWD,5-Speed Manual,1.6,6,4,4.5
+NEW,2020,Nissan,Versa S,17985,15712,Gasoline,Electric Blue Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,7,4.5
+NEW,2020,Nissan,Versa S,18220,15907,Gasoline,Electric Blue Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,8,4.5
+NEW,2020,Nissan,Versa S,17985,15712,Gasoline,Black,27,Charcoal,35,FWD,Automatic CVT,1.6,6,6,4.5
+NEW,2020,Nissan,Versa S,18520,16161,Gasoline,Gun Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,4,4.5
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+NEW,2020,Nissan,Versa S,15900,13733,Gasoline,Gun Metallic,27,Charcoal,35,FWD,5-Speed Manual,1.6,6,7,4.5
+NEW,2020,Chevrolet,Spark LS,15590,12990,Gasoline,Sunburst Orange,29,Jet Black,38,FWD,Automatic CVT,1.4,6,0,4.9
+NEW,2020,Chevrolet,Trax LS,22790,17440,Gasoline,Summit White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,0,4.6

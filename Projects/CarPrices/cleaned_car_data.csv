@@ -1,0 +1,540 @@
+Zipcode,NewUsed,Year,Make,Model,Dealer_Price,City_MPG,Highway_MPG,Drivetrain,Liters,V,Mileage,Standard_Ext_Color,Standard_Int_Color,Transmission_Type
+7097,NEW,2020,Chevrolet,Trax LS,20056.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_black,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LS,20056.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_gray,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_white,Int_black,automatic
+7097,NEW,2020,Nissan,Rogue SV,28676.0,26.0,33.0,AWD,2.5,2.5,6.0,Ext_silver,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_gray,Int_black,automatic
+7097,NEW,2020,Nissan,Rogue SV,30480.0,26.0,33.0,AWD,2.5,2.5,6.0,Ext_white,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_white,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,20273.0,26.0,31.0,FWD,1.4,1.4,0.0,Ext_gray,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,22116.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_red,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_gray,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_white,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_white,Int_black,automatic
+7097,NEW,2020,Nissan,Rogue SV,30395.0,26.0,33.0,AWD,2.5,2.5,6.0,Ext_blue,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_white,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_white,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21341.0,26.0,31.0,FWD,1.4,1.4,0.0,Ext_silver,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_white,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_white,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,20273.0,26.0,31.0,FWD,1.4,1.4,0.0,Ext_white,Int_black,automatic
+7097,NEW,2020,Nissan,Rogue SV,29026.0,26.0,33.0,AWD,2.5,2.5,7.0,Ext_white,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LS,20990.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_white,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,20273.0,26.0,31.0,FWD,1.4,1.4,0.0,Ext_black,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LS,19295.0,26.0,31.0,FWD,1.4,1.4,2.0,Ext_silver,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21341.0,26.0,31.0,FWD,1.4,1.4,0.0,Ext_silver,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LS,20056.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_white,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_black,Int_black,automatic
+7097,USED,2019,Nissan,Versa 1.6 SV,8900.0,31.0,39.0,FWD,1.6,1.6,25291.0,Ext_silver,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,22116.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_red,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_black,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LS,20056.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_black,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,20273.0,26.0,31.0,FWD,1.4,1.4,0.0,Ext_black,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LS,19790.0,26.0,31.0,FWD,1.4,1.4,10.0,Ext_silver,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_gray,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_black,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LS,19790.0,26.0,31.0,FWD,1.4,1.4,2.0,Ext_black,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_black,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_black,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LS,19595.0,26.0,31.0,FWD,1.4,1.4,2.0,Ext_white,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,22766.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_red,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_silver,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LS,20056.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_black,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LT,21749.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_black,Int_black,automatic
+7097,NEW,2020,Nissan,Rogue SV,30270.0,26.0,33.0,AWD,2.5,2.5,8.0,Ext_black,Int_black,automatic
+7097,NEW,2020,Nissan,Rogue SV,28676.0,26.0,33.0,AWD,2.5,2.5,6.0,Ext_metallic,Int_black,automatic
+7097,USED,2019,Chevrolet,Trax LT,12900.0,26.0,31.0,FWD,1.4,1.4,36.0,Ext_red,Int_black,automatic
+7097,NEW,2020,Nissan,Versa 1.6 SV,18820.0,32.0,40.0,FWD,1.6,1.6,9.0,Ext_metallic,Int_silver,automatic
+7097,NEW,2019,Nissan,Kicks SV,17930.0,31.0,36.0,FWD,1.6,1.6,12.0,Ext_black,Int_black,automatic
+7097,NEW,2020,Nissan,Rogue SV,28676.0,26.0,33.0,AWD,2.5,2.5,6.0,Ext_blue,Int_black,automatic
+7097,NEW,2020,Nissan,Versa 1.6 SV,19401.0,32.0,40.0,FWD,1.6,1.6,6.0,Ext_silver,Int_silver,automatic
+7097,NEW,2020,Nissan,Versa 1.6 SV,17940.0,32.0,40.0,FWD,1.6,1.6,12.0,Ext_black,Int_silver,automatic
+7097,NEW,2020,Nissan,Versa 1.6 SV,19401.0,32.0,40.0,FWD,1.6,1.6,5.0,Ext_metallic,Int_silver,automatic
+7097,NEW,2020,Nissan,Rogue SV,28676.0,26.0,33.0,AWD,2.5,2.5,7.0,Ext_blue,Int_black,automatic
+7097,NEW,2020,Chevrolet,Trax LS,20056.0,26.0,31.0,AWD,1.4,1.4,0.0,Ext_white,Int_black,automatic
+7097,NEW,2019,Chevrolet,Trax LT,20018.0,26.0,31.0,AWD,2.0,2.0,5.0,Ext_silver,Int_black,automatic
+7097,NEW,2019,Chevrolet,Trax LT,20018.0,26.0,31.0,AWD,2.0,2.0,94.0,Ext_silver,Int_black,automatic
+7097,NEW,2020,Nissan,Versa 1.6 SV,18820.0,32.0,40.0,FWD,1.6,1.6,5.0,Ext_silver,Int_silver,automatic
+7097,NEW,2020,Nissan,Rogue SV,29986.0,26.0,33.0,AWD,2.5,2.5,8.0,Ext_metallic,Int_black,automatic
+70032,NEW,2020,Nissan,Kicks SV,20649.0,31.0,36.0,FWD,1.6,1.6,10.0,Ext_metallic,Int_black,automatic
+70032,NEW,2020,Nissan,Rogue SV,24981.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_metallic,Int_black,automatic
+70032,NEW,2020,Chevrolet,Spark LS,12908.0,29.0,38.0,FWD,1.4,1.4,10.0,Ext_metallic,Int_black,automatic
+70032,NEW,2020,Nissan,Versa S,16340.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_blue,Int_black,automatic
+70032,NEW,2020,Nissan,Versa 1.6 SV,17540.0,32.0,40.0,FWD,1.6,1.6,8.0,Ext_black,Int_silver,automatic
+70032,NEW,2020,Nissan,Versa 1.6 SV,17434.0,32.0,40.0,FWD,1.6,1.6,11.0,Ext_white,Int_silver,automatic
+70032,NEW,2020,Nissan,Rogue SV,24561.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_silver,Int_black,automatic
+70032,NEW,2020,Chevrolet,Trax LS,14365.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_black,Int_black,automatic
+70032,NEW,2020,Nissan,Versa 1.6 SV,17540.0,32.0,40.0,FWD,1.6,1.6,8.0,Ext_metallic,Int_silver,automatic
+70032,NEW,2020,Nissan,Versa 1.6 SV,17540.0,32.0,40.0,FWD,1.6,1.6,11.0,Ext_silver,Int_silver,automatic
+70032,NEW,2020,Nissan,Versa S,16082.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_black,Int_black,automatic
+70032,NEW,2020,Nissan,Rogue SV,24561.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_metallic,Int_black,automatic
+70032,NEW,2020,Nissan,Versa 1.6 SV,17540.0,32.0,40.0,FWD,1.6,1.6,8.0,Ext_metallic,Int_silver,automatic
+70032,NEW,2020,Nissan,Versa 1.6 SV,17636.0,32.0,40.0,FWD,1.6,1.6,395.0,Ext_blue,Int_silver,automatic
+70032,NEW,2020,Nissan,Rogue SV,26185.0,26.0,33.0,FWD,2.5,2.5,5.0,Ext_black,Int_black,automatic
+70032,NEW,2020,Nissan,Rogue SV,24561.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_metallic,Int_black,automatic
+70032,NEW,2020,Nissan,Rogue SV,24561.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_black,Int_black,automatic
+70032,NEW,2020,Nissan,Kicks SV,22590.0,31.0,36.0,FWD,1.6,1.6,10.0,Ext_red,Int_black,automatic
+70032,NEW,2020,Nissan,Versa S,16082.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_black,Int_black,automatic
+70032,NEW,2020,Nissan,Versa 1.6 SV,17991.0,32.0,40.0,FWD,1.6,1.6,8.0,Ext_red,Int_silver,automatic
+70032,NEW,2020,Chevrolet,Trax LS,17999.0,26.0,31.0,FWD,1.4,1.4,10.0,Ext_black,,automatic
+70032,NEW,2020,Nissan,Rogue SV,24717.0,26.0,33.0,FWD,2.5,2.5,11.0,Ext_black,Int_black,automatic
+70032,NEW,2020,Nissan,Rogue SV,24981.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_silver,Int_black,automatic
+70032,NEW,2020,Nissan,Versa 1.6 SV,17991.0,32.0,40.0,FWD,1.6,1.6,8.0,Ext_red,Int_silver,automatic
+70032,NEW,2019,Nissan,Versa 1.6 SV,16264.0,31.0,39.0,FWD,1.6,1.6,107.0,Ext_red,Int_black,automatic
+70032,NEW,2020,Nissan,Rogue SV,24561.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_silver,Int_black,automatic
+70032,NEW,2020,Nissan,Rogue SV,24561.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_black,Int_black,automatic
+70032,NEW,2020,Nissan,Versa S,16537.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_blue,Int_black,automatic
+70032,NEW,2020,Nissan,Rogue SV,24571.0,26.0,33.0,FWD,2.5,2.5,11.0,Ext_silver,Int_black,automatic
+70032,NEW,2020,Nissan,Rogue SV,24712.0,26.0,33.0,FWD,2.5,2.5,9.0,Ext_metallic,Int_black,automatic
+70032,NEW,2019,Chevrolet,Trax LT,14435.0,26.0,31.0,FWD,1.4,1.4,4970.0,Ext_white,Int_black,automatic
+70032,NEW,2020,Chevrolet,Trax LS,18989.0,26.0,31.0,FWD,1.4,1.4,10.0,Ext_black,,automatic
+70032,NEW,2019,Chevrolet,Trax LT,14435.0,26.0,31.0,FWD,1.4,1.4,2375.0,Ext_white,Int_black,automatic
+70032,NEW,2020,Nissan,Kicks SV,20822.0,31.0,36.0,FWD,1.6,1.6,11.0,Ext_metallic,Int_black,automatic
+70032,NEW,2020,Nissan,Kicks SV,20649.0,31.0,36.0,FWD,1.6,1.6,4.0,Ext_metallic,Int_black,automatic
+70032,NEW,2020,Nissan,Rogue SV,24712.0,26.0,33.0,FWD,2.5,2.5,12.0,Ext_blue,Int_black,automatic
+70032,NEW,2020,Nissan,Versa S,16340.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_white,Int_black,automatic
+70032,NEW,2020,Nissan,Rogue SV,24561.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_black,Int_black,automatic
+70032,NEW,2020,Nissan,Versa S,16340.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_metallic,Int_black,automatic
+70032,NEW,2020,Nissan,Rogue SV,24916.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_white,Int_black,automatic
+70032,NEW,2020,Chevrolet,Trax LS,14775.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_gray,Int_black,automatic
+70032,NEW,2020,Nissan,Rogue SV,24561.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_black,Int_black,automatic
+70032,NEW,2019,Chevrolet,Trax LT,14435.0,26.0,31.0,FWD,1.4,1.4,3246.0,Ext_silver,Int_black,automatic
+70032,NEW,2020,Nissan,Kicks SV,22590.0,31.0,36.0,FWD,1.6,1.6,10.0,Ext_silver,Int_black,automatic
+70032,NEW,2020,Chevrolet,Trax LS,18490.0,26.0,31.0,FWD,1.4,1.4,12.0,Ext_silver,Int_black,automatic
+70032,NEW,2020,Nissan,Kicks SV,20659.0,31.0,36.0,FWD,1.6,1.6,10.0,Ext_black,Int_black,automatic
+70032,NEW,2019,Chevrolet,Trax LT,14435.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_silver,Int_black,automatic
+70032,NEW,2019,Chevrolet,Trax LT,14435.0,26.0,31.0,FWD,1.4,1.4,23.0,Ext_black,Int_black,automatic
+70032,NEW,2020,Chevrolet,Trax LS,18490.0,26.0,31.0,FWD,1.4,1.4,12.0,Ext_silver,Int_black,automatic
+70032,NEW,2020,Chevrolet,Trax LS,18921.0,26.0,31.0,FWD,1.4,1.4,10.0,Ext_black,Int_black,automatic
+70032,NEW,2020,Chevrolet,Trax LT,20766.0,26.0,31.0,FWD,1.4,1.4,10.0,Ext_black,,automatic
+87101,NEW,2020,Chevrolet,Trax LS,16997.0,26.0,31.0,AWD,2.0,2.0,7.0,Ext_white,Int_black,automatic
+87101,NEW,2020,Nissan,Versa S,17485.0,27.0,35.0,FWD,1.6,1.6,7.0,Ext_white,Int_black,automatic
+87101,NEW,2020,Nissan,Kicks SV,20295.0,31.0,36.0,FWD,1.6,1.6,9.0,Ext_black,Int_black,automatic
+87101,NEW,2020,Nissan,Kicks SV,20790.0,31.0,36.0,FWD,1.6,1.6,7.0,Ext_blue,Int_black,automatic
+87101,NEW,2019,Nissan,Kicks SV,21425.0,31.0,36.0,FWD,1.6,1.6,7.0,Ext_white,Int_black,automatic
+87101,NEW,2020,Chevrolet,Trax LS,16985.0,26.0,31.0,FWD,2.0,2.0,7.0,Ext_white,Int_black,automatic
+87101,NEW,2020,Chevrolet,Trax LS,17480.0,26.0,31.0,FWD,2.0,2.0,6.0,Ext_black,Int_black,automatic
+87101,NEW,2020,Nissan,Versa S,17515.0,27.0,35.0,FWD,1.6,1.6,7.0,Ext_white,Int_black,automatic
+87101,NEW,2020,Nissan,Versa S,17515.0,27.0,35.0,FWD,1.6,1.6,7.0,Ext_white,Int_black,automatic
+87101,NEW,2020,Nissan,Kicks SV,20295.0,31.0,36.0,FWD,1.6,1.6,9.0,Ext_metallic,Int_black,automatic
+87101,NEW,2020,Nissan,Versa 1.6 SV,19476.0,32.0,40.0,FWD,1.6,1.6,9.0,Ext_orange,Int_silver,automatic
+87101,NEW,2020,Nissan,Versa 1.6 SV,18780.0,32.0,40.0,FWD,1.6,1.6,7.0,Ext_black,Int_silver,automatic
+87101,NEW,2020,Nissan,Versa 1.6 SV,19175.0,32.0,40.0,FWD,1.6,1.6,7.0,Ext_orange,Int_silver,automatic
+87101,NEW,2020,Nissan,Versa S,17485.0,27.0,35.0,FWD,1.6,1.6,26.0,Ext_black,Int_black,automatic
+87101,NEW,2020,Chevrolet,Spark LS,14265.0,29.0,38.0,FWD,2.0,2.0,6.0,Ext_OTHER,Int_black,automatic
+87101,NEW,2019,Nissan,Kicks SV,21030.0,31.0,36.0,FWD,1.6,1.6,9.0,Ext_metallic,Int_black,automatic
+87101,NEW,2020,Nissan,Versa S,17515.0,27.0,35.0,FWD,1.6,1.6,9.0,Ext_white,Int_black,automatic
+87101,NEW,2019,Nissan,Kicks SV,21305.0,31.0,36.0,FWD,1.6,1.6,7.0,Ext_blue,Int_black,automatic
+87101,NEW,2019,Nissan,Kicks SV,21425.0,31.0,36.0,FWD,1.6,1.6,27.0,Ext_white,Int_black,automatic
+87101,NEW,2020,Nissan,Versa S,17515.0,27.0,35.0,FWD,1.6,1.6,7.0,Ext_white,Int_black,automatic
+87101,NEW,2020,Nissan,Versa 1.6 SV,18810.0,32.0,40.0,FWD,1.6,1.6,7.0,Ext_black,Int_silver,automatic
+87101,NEW,2020,Nissan,Versa S,17515.0,27.0,35.0,FWD,1.6,1.6,71.0,Ext_black,Int_black,automatic
+87101,NEW,2020,Nissan,Versa 1.6 SV,18780.0,32.0,40.0,FWD,1.6,1.6,7.0,Ext_blue,Int_silver,automatic
+87101,NEW,2020,Chevrolet,Spark LS,14590.0,29.0,38.0,FWD,2.0,2.0,11.0,Ext_orange,Int_black,automatic
+87101,NEW,2020,Nissan,Versa 1.6 SV,18810.0,32.0,40.0,FWD,1.6,1.6,7.0,Ext_metallic,Int_silver,automatic
+87101,NEW,2020,Nissan,Versa 1.6 SV,18810.0,32.0,40.0,FWD,1.6,1.6,9.0,Ext_blue,Int_silver,automatic
+87101,NEW,2019,Nissan,Kicks SV,21195.0,31.0,36.0,FWD,1.6,1.6,9.0,Ext_silver,Int_black,automatic
+87101,NEW,2020,Chevrolet,Trax LS,22342.0,26.0,31.0,FWD,1.4,1.4,2964.0,Ext_silver,Int_black,automatic
+87101,NEW,2019,Nissan,Kicks SV,21135.0,31.0,36.0,FWD,1.6,1.6,7.0,Ext_black,Int_black,automatic
+87101,NEW,2020,Chevrolet,Trax LS,22342.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_black,Int_black,automatic
+87101,NEW,2019,Nissan,Kicks SV,20830.0,31.0,36.0,FWD,1.6,1.6,9.0,Ext_black,Int_black,automatic
+87101,NEW,2020,Nissan,Versa 1.6 SV,18810.0,32.0,40.0,FWD,1.6,1.6,7.0,Ext_metallic,Int_silver,automatic
+87101,NEW,2020,Chevrolet,Trax LS,22342.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_white,Int_black,automatic
+87101,NEW,2020,Chevrolet,Trax LS,22342.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_white,Int_black,automatic
+87101,NEW,2020,Nissan,Kicks SV,21710.0,31.0,36.0,FWD,1.6,1.6,8.0,Ext_red,Int_black,automatic
+87101,NEW,2020,Chevrolet,Trax LS,22342.0,26.0,31.0,FWD,1.4,1.4,3051.0,Ext_white,Int_black,automatic
+87101,NEW,2020,Chevrolet,Trax LS,22342.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_black,Int_black,automatic
+87101,NEW,2020,Chevrolet,Trax LS,22342.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_black,Int_black,automatic
+87101,NEW,2020,Chevrolet,Spark LS,14963.0,29.0,38.0,FWD,1.4,1.4,269.0,Ext_white,Int_black,automatic
+87101,NEW,2020,Chevrolet,Trax LS,23811.0,26.0,31.0,AWD,1.4,1.4,3074.0,Ext_silver,Int_black,automatic
+87101,NEW,2020,Chevrolet,Trax LS,22342.0,26.0,31.0,FWD,1.4,1.4,3060.0,Ext_white,Int_black,automatic
+87101,NEW,2020,Chevrolet,Trax LS,22342.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_silver,Int_black,automatic
+87101,NEW,2020,Chevrolet,Trax LS,22342.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_black,Int_black,automatic
+87101,NEW,2020,Chevrolet,Trax LS,22342.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Nissan,Versa S,16090.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_blue,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25885.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Nissan,Versa S,15971.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_metallic,Int_black,automatic
+63123,NEW,2020,Nissan,Versa 1.6 SV,17585.0,32.0,40.0,FWD,1.6,1.6,10.0,Ext_white,Int_silver,automatic
+63123,NEW,2019,Nissan,Kicks SV,18879.0,31.0,36.0,FWD,1.6,1.6,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25373.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,26113.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_blue,Int_black,automatic
+63123,NEW,2020,Chevrolet,Spark LS,12953.0,29.0,38.0,FWD,1.4,1.4,3.0,Ext_blue,Int_black,automatic
+63123,NEW,2020,Nissan,Kicks SV,20465.0,31.0,36.0,FWD,1.6,1.6,3.0,Ext_silver,Int_black,automatic
+63123,NEW,2020,Chevrolet,Spark LS,13340.0,29.0,38.0,FWD,1.4,1.4,2.0,Ext_blue,Int_black,automatic
+63123,NEW,2020,Chevrolet,Spark LS,11853.0,29.0,38.0,FWD,2.0,2.0,5.0,Ext_silver,Int_black,automatic
+63123,NEW,2020,Chevrolet,Spark LS,13589.0,29.0,38.0,FWD,1.4,1.4,3.0,Ext_blue,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17294.0,26.0,31.0,FWD,1.4,1.4,18.0,Ext_white,,automatic
+63123,NEW,2020,Nissan,Versa S,15499.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Versa S,14442.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_black,Int_black,manual
+63123,NEW,2020,Chevrolet,Trax LS,17294.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Chevrolet,Spark LS,12982.0,29.0,38.0,FWD,1.4,1.4,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Versa S,14353.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_blue,Int_black,manual
+63123,NEW,2020,Chevrolet,Spark LS,12982.0,29.0,38.0,FWD,1.4,1.4,10.0,Ext_gray,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17294.0,26.0,31.0,FWD,1.4,1.4,6.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Nissan,Versa S,15971.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Chevrolet,Spark LS,12945.0,29.0,38.0,FWD,1.4,1.4,2.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25373.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Versa S,15703.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_silver,Int_black,automatic
+63123,NEW,2019,Nissan,Kicks SV,20329.0,31.0,36.0,FWD,1.6,1.6,10.0,Ext_red,Int_black,automatic
+63123,NEW,2019,Nissan,Kicks SV,20694.0,31.0,36.0,FWD,1.6,1.6,10.0,Ext_blue,Int_black,automatic
+63123,NEW,2020,Chevrolet,Spark LS,13194.0,29.0,38.0,FWD,1.4,1.4,8.0,Ext_OTHER,Int_black,automatic
+63123,NEW,2020,Nissan,Versa S,15961.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Chevrolet,Spark LS,12008.0,29.0,38.0,FWD,2.0,2.0,5.0,Ext_orange,Int_black,automatic
+63123,NEW,2020,Chevrolet,Spark LS,13194.0,29.0,38.0,FWD,1.4,1.4,7.0,Ext_silver,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,27767.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_white,Int_brown,automatic
+63123,NEW,2020,Nissan,Rogue SV,27625.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_white,Int_brown,automatic
+63123,NEW,2020,Nissan,Versa S,15971.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_silver,Int_black,automatic
+63123,NEW,2020,Chevrolet,Spark LS,12953.0,29.0,38.0,FWD,1.4,1.4,3.0,Ext_blue,Int_black,automatic
+63123,NEW,2020,Nissan,Versa S,14353.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_black,Int_black,manual
+63123,NEW,2020,Chevrolet,Spark LS,12596.0,29.0,38.0,FWD,1.4,1.4,3.0,Ext_OTHER,Int_black,automatic
+63123,NEW,2019,Nissan,Kicks SV,18299.0,31.0,36.0,FWD,1.6,1.6,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25373.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_blue,Int_black,automatic
+63123,NEW,2020,Chevrolet,Spark LS,12982.0,29.0,38.0,FWD,1.4,1.4,10.0,Ext_OTHER,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25373.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Versa 1.6 SV,17679.0,32.0,40.0,FWD,1.6,1.6,10.0,Ext_white,Int_silver,automatic
+63123,NEW,2020,Chevrolet,Trax LS,16967.0,26.0,31.0,FWD,1.4,1.4,3.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,16967.0,26.0,31.0,FWD,1.4,1.4,3.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,24119.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_metallic,Int_black,automatic
+63123,NEW,2020,Nissan,Versa 1.6 SV,17679.0,32.0,40.0,FWD,1.6,1.6,10.0,Ext_white,Int_silver,automatic
+63123,NEW,2020,Nissan,Rogue SV,24119.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_silver,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,29147.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_silver,Int_black,automatic
+63123,NEW,2020,Nissan,Versa S,14442.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_metallic,Int_black,manual
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,3.0,Ext_metallic,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25373.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_silver,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25338.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,26055.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25567.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_silver,Int_black,automatic
+63123,NEW,2020,Nissan,Versa 1.6 SV,17679.0,32.0,40.0,FWD,1.6,1.6,10.0,Ext_white,Int_silver,automatic
+63123,NEW,2020,Nissan,Rogue SV,24075.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_silver,Int_black,automatic
+63123,NEW,2020,Nissan,Versa S,14442.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_black,Int_black,manual
+63123,NEW,2020,Nissan,Versa S,14580.0,27.0,35.0,FWD,1.6,1.6,3.0,Ext_black,Int_black,manual
+63123,NEW,2020,Nissan,Rogue SV,25373.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_silver,Int_black,automatic
+63123,NEW,2019,Nissan,Kicks SV,19302.0,31.0,36.0,FWD,2.0,2.0,12.0,Ext_black,Int_OTHER,
+63123,NEW,2020,Nissan,Rogue SV,25338.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_silver,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,6.0,Ext_white,Int_black,automatic
+63123,NEW,2019,Nissan,Kicks SV,18694.0,31.0,36.0,FWD,1.6,1.6,10.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,4.0,Ext_silver,,automatic
+63123,NEW,2020,Chevrolet,Trax LS,16967.0,26.0,31.0,FWD,1.4,1.4,3.0,Ext_metallic,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,24084.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_metallic,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17294.0,26.0,31.0,FWD,1.4,1.4,4.0,Ext_silver,,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17294.0,26.0,31.0,FWD,1.4,1.4,4.0,Ext_silver,,automatic
+63123,NEW,2020,Nissan,Rogue SV,25338.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25971.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_silver,Int_black,automatic
+63123,NEW,2019,Nissan,Kicks SV,17614.0,31.0,36.0,FWD,1.6,1.6,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Versa S,14442.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_white,Int_black,manual
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,6.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,16967.0,26.0,31.0,FWD,1.4,1.4,3.0,Ext_metallic,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17294.0,26.0,31.0,FWD,1.4,1.4,8.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Versa 1.6 SV,17324.0,32.0,40.0,FWD,1.6,1.6,10.0,Ext_black,Int_silver,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,24084.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_metallic,Int_black,automatic
+63123,NEW,2020,Nissan,Versa 1.6 SV,15688.0,32.0,40.0,FWD,1.6,1.6,5.0,Ext_black,Int_silver,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,6.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,26013.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,24119.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_metallic,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,6.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,6.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17294.0,26.0,31.0,FWD,1.4,1.4,8.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,6.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,4.0,Ext_gray,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17294.0,26.0,31.0,FWD,1.4,1.4,6.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,24084.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_metallic,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,4.0,Ext_gray,Int_black,automatic
+63123,NEW,2020,Nissan,Versa 1.6 SV,17784.0,32.0,40.0,FWD,1.6,1.6,4.0,Ext_red,Int_silver,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,6.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17294.0,26.0,31.0,FWD,1.4,1.4,6.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,24084.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_silver,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17294.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_black,,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,4.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Versa 1.6 SV,17485.0,32.0,40.0,FWD,1.6,1.6,10.0,Ext_red,Int_silver,automatic
+63123,NEW,2020,Nissan,Rogue SV,27412.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_blue,Int_black,automatic
+63123,NEW,2020,Nissan,Kicks SV,20058.0,31.0,36.0,FWD,1.6,1.6,15.0,Ext_red,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25557.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,16967.0,26.0,31.0,FWD,1.4,1.4,3.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Nissan,Kicks SV,20344.0,31.0,36.0,FWD,1.6,1.6,10.0,Ext_blue,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25619.0,26.0,33.0,AWD,2.5,2.5,5.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25719.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_silver,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,6.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25338.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Kicks SV,20465.0,31.0,36.0,FWD,1.6,1.6,4.0,Ext_silver,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,26208.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_red,Int_brown,automatic
+63123,NEW,2020,Nissan,Rogue SV,25619.0,26.0,33.0,AWD,2.5,2.5,3.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25415.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25619.0,26.0,33.0,AWD,2.5,2.5,3.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,8.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,14295.0,26.0,31.0,FWD,1.4,1.4,3.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25413.0,26.0,33.0,AWD,2.5,2.5,5.0,Ext_white,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17294.0,26.0,31.0,FWD,1.4,1.4,7.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,4.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,26956.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,17789.0,26.0,31.0,FWD,1.4,1.4,3.0,Ext_gray,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,26008.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_red,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25338.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,25910.0,26.0,33.0,AWD,2.5,2.5,10.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Versa S,15971.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_metallic,Int_black,automatic
+63123,NEW,2020,Nissan,Rogue SV,26150.0,26.0,33.0,FWD,2.5,2.5,10.0,Ext_red,Int_brown,automatic
+63123,NEW,2020,Nissan,Kicks SV,20344.0,31.0,36.0,FWD,1.6,1.6,10.0,Ext_metallic,Int_black,automatic
+63123,NEW,2019,Chevrolet,Trax LT,17962.0,26.0,31.0,FWD,1.4,1.4,5622.0,Ext_black,Int_black,automatic
+63123,NEW,2020,Nissan,Versa 1.6 SV,16936.0,32.0,40.0,FWD,1.6,1.6,5.0,Ext_black,Int_silver,automatic
+63123,NEW,2019,Chevrolet,Trax LT,18966.0,26.0,31.0,AWD,2.0,2.0,2648.0,Ext_blue,Int_black,automatic
+63123,NEW,2020,Chevrolet,Trax LS,16967.0,26.0,31.0,FWD,1.4,1.4,5037.0,Ext_metallic,Int_black,automatic
+63123,NEW,2019,Chevrolet,Trax LT,17962.0,26.0,31.0,FWD,1.4,1.4,4645.0,Ext_silver,Int_black,automatic
+92602,NEW,2020,Nissan,Versa 1.6 SV,16558.0,32.0,40.0,FWD,1.6,1.6,10.0,Ext_black,,automatic
+92602,NEW,2020,Nissan,Kicks SV,20885.0,31.0,36.0,FWD,1.6,1.6,0.0,Ext_silver,Int_black,automatic
+92602,NEW,2020,Nissan,Versa S,15480.0,27.0,35.0,FWD,2.0,2.0,2.0,Ext_OTHER,Int_black,manual
+92602,NEW,2020,Nissan,Versa 1.6 SV,16558.0,32.0,40.0,FWD,1.6,1.6,4.0,Ext_black,,automatic
+92602,NEW,2020,Nissan,Versa S,14515.0,27.0,35.0,FWD,2.0,2.0,10.0,Ext_silver,Int_black,manual
+92602,NEW,2020,Nissan,Versa S,16185.0,27.0,35.0,FWD,2.0,2.0,0.0,Ext_black,Int_black,variable
+92602,NEW,2020,Nissan,Versa 1.6 SV,16707.0,32.0,40.0,FWD,1.6,1.6,11.0,Ext_white,,automatic
+92602,NEW,2020,Nissan,Versa S,17020.0,27.0,35.0,FWD,2.0,2.0,2.0,Ext_black,Int_black,variable
+92602,NEW,2020,Nissan,Versa 1.6 SV,16908.0,32.0,40.0,FWD,1.6,1.6,15.0,Ext_red,,automatic
+92602,NEW,2020,Nissan,Versa 1.6 SV,18637.0,32.0,40.0,FWD,1.6,1.6,14.0,Ext_red,Int_silver,automatic
+92602,NEW,2020,Nissan,Versa S,15985.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_silver,Int_black,automatic
+92602,NEW,2020,Nissan,Kicks SV,20740.0,31.0,36.0,FWD,1.6,1.6,0.0,Ext_white,Int_black,automatic
+92602,NEW,2020,Nissan,Kicks SV,20345.0,31.0,36.0,FWD,1.6,1.6,0.0,Ext_blue,Int_black,automatic
+92602,NEW,2020,Nissan,Kicks SV,21345.0,31.0,36.0,FWD,1.6,1.6,0.0,Ext_blue,Int_black,automatic
+92602,NEW,2020,Nissan,Kicks SV,20479.0,31.0,36.0,FWD,1.6,1.6,25.0,Ext_silver,Int_black,automatic
+92602,NEW,2020,Nissan,Kicks SV,20479.0,31.0,36.0,FWD,1.6,1.6,25.0,Ext_silver,Int_black,automatic
+92602,NEW,2020,Nissan,Versa S,15985.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_silver,Int_black,automatic
+92602,NEW,2020,Nissan,Versa S,15985.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_white,Int_black,automatic
+92602,NEW,2020,Nissan,Versa S,15985.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_silver,Int_black,automatic
+92602,NEW,2020,Nissan,Versa S,14545.0,27.0,35.0,FWD,1.6,1.6,0.0,Ext_white,Int_black,manual
+92602,NEW,2020,Nissan,Kicks SV,21345.0,31.0,36.0,FWD,1.6,1.6,0.0,Ext_red,Int_black,automatic
+92602,NEW,2020,Nissan,Kicks SV,20345.0,31.0,36.0,FWD,1.6,1.6,0.0,Ext_red,Int_black,automatic
+92602,NEW,2020,Nissan,Kicks SV,21095.0,31.0,36.0,FWD,1.6,1.6,0.0,Ext_metallic,Int_black,automatic
+92602,USED,2017,Chevrolet,Trax LS,9799.0,25.0,33.0,FWD,1.4,1.4,23097.0,Ext_silver,Int_black,automatic
+92602,NEW,2020,Nissan,Versa 1.6 SV,16558.0,32.0,40.0,FWD,1.6,1.6,5.0,Ext_black,,automatic
+92602,NEW,2020,Nissan,Kicks SV,20345.0,31.0,36.0,FWD,1.6,1.6,0.0,Ext_metallic,Int_black,automatic
+92602,NEW,2020,Nissan,Kicks SV,21690.0,31.0,36.0,FWD,1.6,1.6,0.0,Ext_white,Int_black,automatic
+92602,NEW,2020,Nissan,Kicks SV,23190.0,31.0,36.0,FWD,1.6,1.6,0.0,Ext_metallic,Int_black,automatic
+92602,NEW,2020,Nissan,Kicks SV,21480.0,31.0,36.0,FWD,1.6,1.6,0.0,Ext_white,Int_black,automatic
+92602,NEW,2020,Nissan,Kicks SV,23755.0,31.0,36.0,FWD,2.0,2.0,2.0,Ext_red,Int_black,variable
+92602,NEW,2020,Nissan,Versa S,15985.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_silver,Int_black,automatic
+92602,NEW,2020,Nissan,Versa S,16243.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_metallic,Int_black,automatic
+92602,NEW,2020,Nissan,Versa 1.6 SV,16558.0,32.0,40.0,FWD,1.6,1.6,4.0,Ext_black,,automatic
+92602,NEW,2020,Nissan,Versa S,16243.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_metallic,Int_black,automatic
+92602,NEW,2020,Nissan,Versa S,15985.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_metallic,Int_black,automatic
+92602,NEW,2020,Nissan,Versa 1.6 SV,18637.0,32.0,40.0,FWD,1.6,1.6,14.0,Ext_red,Int_silver,automatic
+92602,NEW,2020,Nissan,Kicks SV,20885.0,31.0,36.0,FWD,1.6,1.6,0.0,Ext_black,Int_black,automatic
+92602,NEW,2020,Nissan,Versa 1.6 SV,16707.0,32.0,40.0,FWD,1.6,1.6,11.0,Ext_white,,automatic
+92602,NEW,2020,Nissan,Kicks SV,21485.0,31.0,36.0,FWD,1.6,1.6,0.0,Ext_red,Int_black,automatic
+92602,NEW,2020,Nissan,Kicks SV,20535.0,31.0,36.0,FWD,2.0,2.0,2.0,Ext_red,Int_black,variable
+92602,NEW,2020,Nissan,Versa S,15985.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_silver,Int_black,automatic
+92602,NEW,2020,Nissan,Versa S,15985.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_black,Int_black,automatic
+92602,NEW,2020,Nissan,Versa 1.6 SV,16558.0,32.0,40.0,FWD,1.6,1.6,10.0,Ext_black,,automatic
+92602,NEW,2020,Nissan,Versa 1.6 SV,16908.0,32.0,40.0,FWD,1.6,1.6,6.0,Ext_red,,automatic
+92602,USED,2017,Chevrolet,Trax LS,9799.0,25.0,33.0,FWD,1.4,1.4,23097.0,Ext_silver,Int_black,automatic
+92602,NEW,2020,Nissan,Versa 1.6 SV,16908.0,32.0,40.0,FWD,1.6,1.6,15.0,Ext_red,,automatic
+92602,NEW,2020,Nissan,Kicks SV,20885.0,31.0,36.0,FWD,1.6,1.6,0.0,Ext_silver,Int_black,automatic
+92602,NEW,2020,Nissan,Versa S,15985.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_silver,Int_black,automatic
+92602,NEW,2020,Nissan,Versa S,15985.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_black,Int_black,automatic
+92602,USED,2017,Chevrolet,Trax LS,10699.0,25.0,33.0,FWD,1.4,1.4,8023.0,Ext_white,Int_black,automatic
+92602,NEW,2020,Nissan,Kicks SV,20994.0,31.0,36.0,FWD,1.6,1.6,25.0,Ext_blue,Int_black,automatic
+92602,NEW,2020,Nissan,Versa 1.6 SV,17905.0,32.0,40.0,FWD,1.6,1.6,0.0,Ext_red,Int_silver,automatic
+92602,NEW,2020,Nissan,Kicks SV,21690.0,31.0,36.0,FWD,1.6,1.6,0.0,Ext_white,Int_black,automatic
+92602,NEW,2020,Nissan,Versa S,16243.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_silver,Int_black,automatic
+92602,NEW,2020,Nissan,Versa S,16243.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_black,Int_black,automatic
+92602,NEW,2020,Nissan,Versa S,15985.0,27.0,35.0,FWD,1.6,1.6,213.0,Ext_black,Int_black,automatic
+92602,NEW,2020,Nissan,Versa 1.6 SV,17928.0,32.0,40.0,FWD,1.6,1.6,10.0,Ext_orange,Int_silver,automatic
+92602,NEW,2020,Nissan,Versa S,16243.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_silver,Int_black,automatic
+92602,NEW,2020,Nissan,Versa S,15985.0,27.0,35.0,FWD,1.6,1.6,10.0,Ext_metallic,Int_black,automatic
+92602,NEW,2020,Nissan,Kicks SV,20479.0,31.0,36.0,FWD,1.6,1.6,25.0,Ext_black,Int_black,automatic
+92602,NEW,2020,Nissan,Rogue SV,28300.0,26.0,33.0,FWD,2.5,2.5,0.0,Ext_white,Int_brown,automatic
+92602,NEW,2020,Nissan,Versa 1.6 SV,17480.0,32.0,40.0,FWD,1.6,1.6,0.0,Ext_silver,Int_silver,automatic
+84044,NEW,2019,Nissan,Kicks SV,19118.0,31.0,36.0,FWD,1.6,1.6,6.0,Ext_white,Int_black,automatic
+84044,NEW,2019,Nissan,Kicks SV,19131.0,31.0,36.0,FWD,1.6,1.6,7.0,Ext_orange,Int_black,automatic
+84044,USED,2017,Chevrolet,Trax LT,9950.0,24.0,30.0,AWD,2.0,2.0,9837.0,Ext_blue,Int_gray,automatic
+84044,NEW,2020,Nissan,Versa 1.6 SV,17523.0,32.0,40.0,FWD,1.6,1.6,6.0,Ext_black,Int_silver,automatic
+84044,NEW,2020,Nissan,Versa 1.6 SV,17523.0,32.0,40.0,FWD,1.6,1.6,7.0,Ext_metallic,Int_silver,automatic
+84044,USED,2018,Nissan,Rogue SV,15976.0,26.0,33.0,AWD,2.5,2.5,34115.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18407.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18398.0,26.0,31.0,FWD,1.4,1.4,11.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12065.0,29.0,38.0,FWD,1.4,1.4,10.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_OTHER,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12417.0,29.0,38.0,FWD,1.4,1.4,10.0,Ext_orange,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18854.0,26.0,31.0,FWD,1.4,1.4,9.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18403.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_metallic,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18403.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,6.0,Ext_red,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12065.0,29.0,38.0,FWD,1.4,1.4,10.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,12.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18407.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12417.0,29.0,38.0,FWD,1.4,1.4,10.0,Ext_blue,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12708.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_blue,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18407.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18407.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18993.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18407.0,26.0,31.0,FWD,1.4,1.4,10.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18854.0,26.0,31.0,FWD,1.4,1.4,10.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18854.0,26.0,31.0,FWD,1.4,1.4,30.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18993.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18407.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18890.0,26.0,31.0,FWD,1.4,1.4,10.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,7.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12065.0,29.0,38.0,FWD,1.4,1.4,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_OTHER,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_OTHER,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Nissan,Versa S,15740.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18407.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18407.0,26.0,31.0,FWD,1.4,1.4,10.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18407.0,26.0,31.0,FWD,1.4,1.4,3959.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,19908.0,26.0,31.0,FWD,1.4,1.4,5551.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18407.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18403.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12708.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_blue,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18407.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_OTHER,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18407.0,26.0,31.0,FWD,1.4,1.4,10.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12309.0,29.0,38.0,FWD,1.4,1.4,16.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12708.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_blue,Int_black,automatic
+33101,NEW,2020,Nissan,Rogue SV,25774.0,26.0,33.0,FWD,2.5,2.5,12.0,Ext_blue,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18997.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Nissan,Rogue SV,27244.0,26.0,33.0,FWD,2.5,2.5,12.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18407.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Nissan,Versa S,15740.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_metallic,Int_black,automatic
+33101,NEW,2019,Nissan,Kicks SV,16974.0,31.0,36.0,FWD,1.6,1.6,12.0,Ext_red,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18407.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Nissan,Versa S,15740.0,27.0,35.0,FWD,1.6,1.6,13.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Nissan,Versa S,15740.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,15737.0,26.0,31.0,FWD,1.4,1.4,8.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_OTHER,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_metallic,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12708.0,29.0,38.0,FWD,2.0,2.0,5.0,Ext_blue,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_OTHER,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,14907.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_metallic,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,15390.0,26.0,31.0,FWD,1.4,1.4,10.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Nissan,Versa S,15740.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,15354.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,14898.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Nissan,Versa S,15740.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,15731.0,26.0,31.0,FWD,1.4,1.4,4331.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,14907.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,15390.0,26.0,31.0,FWD,1.4,1.4,3011.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,14907.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,9999.0,29.0,38.0,FWD,1.4,1.4,10.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Nissan,Versa S,15740.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,11462.0,29.0,38.0,FWD,1.4,1.4,2.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,14907.0,26.0,31.0,FWD,1.4,1.4,10.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,14907.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Nissan,Versa S,15992.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Nissan,Versa S,15740.0,27.0,35.0,FWD,1.6,1.6,0.0,Ext_metallic,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,14903.0,26.0,31.0,FWD,1.4,1.4,3.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Nissan,Versa S,15740.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_metallic,Int_black,automatic
+33101,NEW,2019,Nissan,Kicks SV,17094.0,31.0,36.0,FWD,1.6,1.6,12.0,Ext_metallic,Int_black,automatic
+33101,NEW,2019,Chevrolet,Trax LS,12499.0,24.0,29.0,FWD,1.4,1.4,10.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LT,17796.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Nissan,Versa 1.6 SV,17009.0,32.0,40.0,FWD,1.6,1.6,12.0,Ext_silver,Int_silver,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_metallic,Int_black,automatic
+33101,NEW,2020,Nissan,Versa S,15740.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Nissan,Kicks SV,20293.0,31.0,36.0,FWD,1.6,1.6,12.0,Ext_metallic,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,19290.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LT,16586.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Nissan,Kicks SV,20069.0,31.0,36.0,FWD,1.6,1.6,15.0,Ext_metallic,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_metallic,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_metallic,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,19290.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_metallic,Int_black,automatic
+33101,NEW,2020,Nissan,Versa S,15992.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Nissan,Versa 1.6 SV,17009.0,32.0,40.0,FWD,1.6,1.6,12.0,Ext_silver,Int_silver,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,4416.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Nissan,Versa S,15740.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Nissan,Kicks SV,20289.0,31.0,36.0,FWD,1.6,1.6,12.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_metallic,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,6.0,Ext_metallic,Int_black,automatic
+33101,NEW,2020,Nissan,Versa 1.6 SV,17593.0,32.0,40.0,FWD,1.6,1.6,12.0,Ext_red,Int_silver,automatic
+33101,NEW,2020,Nissan,Versa 1.6 SV,17593.0,32.0,40.0,FWD,1.6,1.6,12.0,Ext_red,Int_silver,automatic
+33101,NEW,2020,Nissan,Versa S,15740.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Nissan,Versa S,15740.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,17484.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Nissan,Rogue SV,25452.0,26.0,33.0,FWD,2.5,2.5,12.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_metallic,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,6.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Nissan,Versa S,15740.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_white,Int_black,automatic
+33101,NEW,2019,Nissan,Kicks SV,18179.0,31.0,36.0,FWD,1.6,1.6,12.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LT,17801.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LT,17801.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,19290.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,16707.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Nissan,Versa 1.6 SV,17364.0,32.0,40.0,FWD,1.6,1.6,12.0,Ext_white,Int_silver,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Nissan,Kicks SV,20289.0,31.0,36.0,FWD,1.6,1.6,12.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Nissan,Versa 1.6 SV,17160.0,32.0,40.0,FWD,1.6,1.6,12.0,Ext_white,Int_silver,automatic
+33101,NEW,2020,Nissan,Versa S,15740.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_metallic,Int_black,automatic
+33101,USED,2018,Chevrolet,Trax LT,12999.0,24.0,30.0,FWD,1.4,1.4,23147.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Chevrolet,Spark LS,12344.0,29.0,38.0,FWD,2.0,2.0,10.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Nissan,Versa S,15992.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Nissan,Rogue SV,23694.0,26.0,33.0,FWD,2.5,2.5,12.0,Ext_silver,Int_black,automatic
+33101,NEW,2019,Nissan,Kicks SV,17772.0,31.0,36.0,FWD,1.6,1.6,12.0,Ext_blue,Int_black,automatic
+33101,NEW,2020,Nissan,Kicks SV,20289.0,31.0,36.0,FWD,1.6,1.6,12.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LT,16586.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,2983.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LT,19695.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_silver,Int_black,automatic
+33101,NEW,2019,Nissan,Rogue SV,19977.0,26.0,33.0,FWD,2.5,2.5,13.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,16707.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,19290.0,26.0,31.0,FWD,2.0,2.0,6.0,Ext_silver,Int_black,automatic
+33101,NEW,2020,Nissan,Rogue SV,23694.0,26.0,33.0,FWD,2.5,2.5,12.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,14900.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Nissan,Versa 1.6 SV,17009.0,32.0,40.0,FWD,1.6,1.6,12.0,Ext_blue,Int_silver,automatic
+33101,NEW,2020,Nissan,Rogue SV,23694.0,26.0,33.0,FWD,2.5,2.5,12.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Nissan,Versa 1.6 SV,17009.0,32.0,40.0,FWD,1.6,1.6,12.0,Ext_blue,Int_silver,automatic
+33101,NEW,2020,Nissan,Versa S,15992.0,27.0,35.0,FWD,1.6,1.6,12.0,Ext_blue,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,19290.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LT,16590.0,26.0,31.0,FWD,1.4,1.4,10.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LT,16590.0,26.0,31.0,FWD,1.4,1.4,10.0,Ext_white,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,6.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LT,16586.0,26.0,31.0,FWD,1.4,1.4,5.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,14900.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_gray,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_black,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_metallic,Int_black,automatic
+33101,NEW,2020,Chevrolet,Trax LS,18795.0,26.0,31.0,FWD,2.0,2.0,10.0,Ext_black,Int_black,automatic
+33101,NEW,2019,Nissan,Kicks SV,17607.0,31.0,36.0,FWD,1.6,1.6,12.0,Ext_white,Int_black,automatic
+83701,NEW,2020,Nissan,Rogue SV,26922.0,26.0,33.0,AWD,2.5,2.5,0.0,Ext_blue,Int_black,automatic
+83701,NEW,2020,Chevrolet,Spark LS,12999.0,29.0,38.0,FWD,2.0,2.0,1.0,Ext_white,Int_black,automatic
+83701,NEW,2020,Nissan,Kicks SV,21860.0,31.0,36.0,FWD,1.6,1.6,25.0,Ext_metallic,Int_black,automatic
+83701,NEW,2020,Nissan,Kicks SV,21856.0,31.0,36.0,FWD,1.6,1.6,0.0,Ext_blue,Int_black,automatic
+83701,NEW,2020,Nissan,Versa 1.6 SV,17757.0,32.0,40.0,FWD,1.6,1.6,0.0,Ext_black,Int_silver,automatic
+83701,USED,2015,Chevrolet,Trax LT,11869.0,24.0,31.0,AWD,1.4,1.4,42683.0,Ext_metallic,Int_black,automatic
+83701,NEW,2020,Nissan,Rogue SV,27443.0,26.0,33.0,AWD,2.5,2.5,0.0,Ext_silver,Int_black,automatic
+83701,NEW,2020,Nissan,Rogue SV,27403.0,26.0,33.0,AWD,2.5,2.5,23.0,Ext_metallic,Int_black,automatic
+83701,NEW,2020,Nissan,Rogue SV,28775.0,26.0,33.0,AWD,2.5,2.5,0.0,Ext_silver,Int_black,automatic
+83701,NEW,2020,Nissan,Rogue SV,29937.0,26.0,33.0,AWD,2.5,2.5,0.0,Ext_white,Int_black,automatic
+83701,NEW,2020,Nissan,Rogue SV,27557.0,26.0,33.0,AWD,2.5,2.5,0.0,Ext_silver,Int_black,automatic
+83701,NEW,2020,Nissan,Rogue SV,29875.0,26.0,33.0,AWD,2.5,2.5,0.0,Ext_orange,Int_black,automatic
+83701,NEW,2020,Chevrolet,Spark LS,12999.0,29.0,38.0,FWD,2.0,2.0,1.0,Ext_OTHER,Int_black,automatic
+83701,NEW,2020,Nissan,Rogue SV,27922.0,26.0,33.0,AWD,2.5,2.5,0.0,Ext_silver,Int_black,automatic
+83701,NEW,2020,Nissan,Rogue SV,26986.0,26.0,33.0,AWD,2.5,2.5,22.0,Ext_metallic,Int_black,automatic
+83701,NEW,2020,Nissan,Rogue SV,27272.0,26.0,33.0,AWD,2.5,2.5,0.0,Ext_red,Int_black,automatic
+83701,NEW,2020,Chevrolet,Trax LS,16575.0,26.0,31.0,FWD,2.0,2.0,1.0,Ext_white,Int_black,automatic
+83701,NEW,2020,Nissan,Rogue SV,27772.0,26.0,33.0,AWD,2.5,2.5,0.0,Ext_red,Int_brown,automatic
+58001,NEW,2020,Chevrolet,Trax LT,23459.0,26.0,31.0,AWD,1.4,1.4,7.0,Ext_red,,automatic

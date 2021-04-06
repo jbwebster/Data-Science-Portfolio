@@ -1,0 +1,318 @@
+Zipcode,Page,NewUsed,Year,Make,Model,MSRP,Dealer_Price,Fuel_Type,Exterior_Color,City_MPG,Interior_Color,Highway_MPG,Drivetrain,Transmission,Liters,V,Mileage,Customer_Review,URL
+10001,1,USED,2011,Nissan,Maxima SV,,4999,Gasoline,Super Black,19,Black,26,FWD,Automatic CVT,3.5,6,91037,4.5,https://www.cars.com/vehicledetail/detail/734596305/overview/
+10001,1,USED,2013,Nissan,Sentra SR,,3999,Gasoline,Super Black,30,Black,39,FWD,Automatic CVT,1.8,6,64547,3.8,https://www.cars.com/vehicledetail/detail/802562482/overview/
+10001,1,USED,2016,BMW,X1 xDrive 28i,,14905,Gasoline,Alpine White,22,Mocha,32,AWD,8-Speed Automatic,2.0,6,36343,4.6,https://www.cars.com/vehicledetail/detail/805817479/overview/
+10001,1,USED,2004,INFINITI,FX45,,4995,Gasoline,Copper,15,Black,19,AWD,5-Speed Automatic,4.5,8,165000,4.8,https://www.cars.com/vehicledetail/detail/797251207/overview/
+10001,1,USED,2019,BMW,M5 Competition,,86800,Gasoline,Alpine White,15,Black,21,AWD,8-Speed Automatic,4.4,8,1226,4.9,https://www.cars.com/vehicledetail/detail/807345547/overview/
+10001,1,USED,2018,Chevrolet,Impala 2LZ,,14500,Gasoline,Silver,19,Jet Black / Light Wheat,28,FWD,6-Speed Automatic,3.6,6,35274,4.8,https://www.cars.com/vehicledetail/detail/786805292/overview/
+10001,1,USED,1994,Mazda,RX-7,,31999,Gasoline,Black,17,Tan,25,,5-Speed Manual,1.3,,70650,5,https://www.cars.com/vehicledetail/detail/806195119/overview/
+10001,1,USED,2009,Nissan,Maxima 3.5 SV,,4995,Gasoline,Super Black,19,Charcoal,26,FWD,Automatic CVT,3.5,6,87491,4.6,https://www.cars.com/vehicledetail/detail/793412019/overview/
+10001,1,USED,2018,smart,ForTwo Electric Drive Passion,,13800,Electric,Black,124,Orange / Black,94,RWD,1-Speed Automatic,,,8667,4.2,https://www.cars.com/vehicledetail/detail/806243692/overview/
+10001,1,USED,2017,Genesis,G90 3.3T Premium,,34495,Gasoline,Casablanca White,17,Black,24,RWD,8-Speed Automatic,3.3,6,27818,4.7,https://www.cars.com/vehicledetail/detail/802628173/overview/
+10001,1,USED,2005,Honda,S2000,,12895,Gasoline,Blue,20,Blue,25,RWD,6-Speed Manual,2.2,6,45832,4.9,https://www.cars.com/vehicledetail/detail/802570687/overview/
+10001,1,NEW,2020,Chevrolet,Trax LS,,20056,Gasoline,Mosaic Black Metallic,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/799941693/overview/
+10001,1,USED,2020,Lamborghini,Urus,,238500,Gasoline,Bianco Monocerus,12,Nero Ade,17,AWD,8-Speed Automatic,4.0,8,2142,,https://www.cars.com/vehicledetail/detail/805364995/overview/
+10001,1,NEW,2020,Chevrolet,Trax LS,,20990,Gasoline,Summit White,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/790108217/overview/
+10001,1,USED,2016,Nissan,Maxima 3.5 SV,,14900,Gasoline,Black,22,Charcoal,30,FWD,Automatic CVT,3.5,6,25147,4.7,https://www.cars.com/vehicledetail/detail/807362137/overview/
+10001,1,USED,2012,Nissan,Murano CrossCabriolet Base,,14895,Gasoline,Platinum Graphite,17,Black,22,AWD,Automatic CVT,3.5,6,47763,3.4,https://www.cars.com/vehicledetail/detail/805851506/overview/
+10001,1,USED,2014,Toyota,Camry SE,,5900,Gasoline,Attitude Black Metallic,25,Black,35,FWD,6-Speed Automatic,2.5,6,122413,4.6,https://www.cars.com/vehicledetail/detail/807247021/overview/
+10001,1,NEW,2020,Chevrolet,Trax LS,,20056,Gasoline,Nightfall Gray Metallic,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/796636761/overview/
+10001,1,USED,2018,Buick,Enclave Essence,,21500,Gasoline,Dark Slate Metallic,18,Shale,26,AWD,9-Speed Automatic,3.6,6,29281,4.7,https://www.cars.com/vehicledetail/detail/790040272/overview/
+10001,1,USED,1998,Pontiac,Firebird Trans Am,,9500,Gasoline,Blue,,Gray,,RWD,Automatic,,,65000,4.3,https://www.cars.com/vehicledetail/detail/805200521/overview/
+10001,1,USED,2019,INFINITI,QX80 Luxe,,27900,Gasoline,Graphite Shadow,14,Graphite,20,AWD,7-Speed Automatic,5.6,8,18,4.8,https://www.cars.com/vehicledetail/detail/802141553/overview/
+10001,1,USED,2005,Subaru,Baja Sport,,9590,Gasoline,Brilliant Silver Metallic,21,Gray,27,AWD,5-Speed Manual,2.5,6,81914,4.6,https://www.cars.com/vehicledetail/detail/804779783/overview/
+10001,1,USED,2019,Cadillac,CT6 Luxury,,36500,Gasoline,Crystal White Tri-Coat,,,,AWD,10-Speed Automatic,3.6,6,3369,4.8,https://www.cars.com/vehicledetail/detail/795839885/overview/
+10001,1,USED,2015,Nissan,Titan SV,,18500,Gasoline,Magnetic Black,12,Almond,17,4WD,5-Speed Automatic,5.6,8,27182,4.9,https://www.cars.com/vehicledetail/detail/783816397/overview/
+10001,1,USED,2007,Jaguar,XKR,,17990,Gasoline,Silver,17,Beige,25,RWD,6-Speed Automatic,4.2,8,51797,4.8,https://www.cars.com/vehicledetail/detail/805878113/overview/
+10001,1,USED,2011,Chrysler,Town & Country Touring,,4415,E85 Flex Fuel,White,17,,25,FWD,Automatic,3.6,6,117007,4.8,https://www.cars.com/vehicledetail/detail/782877626/overview/
+10001,1,USED,2011,Jaguar,XJ Base,,14995,Gasoline,Ebony,16,Dove,23,RWD,6-Speed Automatic,5.0,8,69684,4.8,https://www.cars.com/vehicledetail/detail/803039593/overview/
+10001,1,USED,2006,INFINITI,M35x Base,,2999,Gasoline,Diamond Graphite Metallic,17,Bourbon,24,AWD,5-Speed Automatic,3.5,6,136152,4.8,https://www.cars.com/vehicledetail/detail/801022626/overview/
+10001,1,USED,2018,Buick,Encore Preferred II,,13500,Gasoline,Black Cherry Metallic,25,Black,33,FWD,6-Speed Automatic,1.4,6,68,4.8,https://www.cars.com/vehicledetail/detail/799660758/overview/
+10001,1,USED,2002,Mercury,Grand Marquis LS Premium,,3997,Gasoline,Red,,Beige,,RWD,4-Speed Automatic,4.6,8,57492,4.7,https://www.cars.com/vehicledetail/detail/797260727/overview/
+10001,1,USED,2004,Buick,Rainier CXL Plus,,1500,Gasoline,Black,16,Light Cashmere,21,AWD,4-Speed Automatic,5.3,8,207055,4.1,https://www.cars.com/vehicledetail/detail/790106405/overview/
+10001,1,USED,2019,Mercedes-Benz,AMG GLE 43 4MATIC Coupe,,25900,Gasoline,Not Specified,17,,22,AWD,9-Speed Automatic,3.0,6,3847,5,https://www.cars.com/vehicledetail/detail/807925087/overview/
+10001,1,USED,2009,INFINITI,FX35,,10995,Gasoline,Black Obsidian,16,Black,23,AWD,7-Speed Automatic,3.5,6,89789,4.6,https://www.cars.com/vehicledetail/detail/777202147/overview/
+10001,1,USED,2011,Aston,Martin Rapide Luxe,,59900,Gasoline,White,13,RED,19,RWD,AUTO,,,22300,5,https://www.cars.com/vehicledetail/detail/778818219/overview/
+10001,1,USED,2018,Lincoln,Continental Black Label,,47470,Gasoline,Blue,18,Black,27,AWD,Automatic,,,3773,4.8,https://www.cars.com/vehicledetail/detail/808194895/overview/?isShippableInsideSearchRadius
+10001,1,NEW,2020,Chevrolet,Trax LS,,18403,Gasoline,Summit White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/800185447/overview/
+10001,1,USED,2016,Mercedes-Benz,Maybach S S 600,,69900,Gasoline,Black,13,Black,20,RWD,7-Speed Automatic,6.0,12,47029,,https://www.cars.com/vehicledetail/detail/796884697/overview/
+10001,1,USED,2014,Nissan,Murano CrossCabriolet Base,,15995,Gasoline,Midnight Garnet Metallic,17,Black,22,AWD,Automatic CVT,3.5,6,39535,4.5,https://www.cars.com/vehicledetail/detail/803478997/overview/
+10001,1,USED,2015,Maserati,Quattroporte S Q4,,25995,Gasoline,Nero,15,Sabbia,24,AWD,8-Speed Automatic,3.0,6,36987,5,https://www.cars.com/vehicledetail/detail/807898352/overview/
+10001,1,USED,2009,INFINITI,FX35,,9995,Gasoline,Mojave Copper Metallic,16,,23,AWD,7-Speed Automatic,3.5,6,54058,4.6,https://www.cars.com/vehicledetail/detail/793411903/overview/
+10001,1,USED,2016,Lexus,GS F Base,,44895,Gasoline,Ultra White,16,Red,24,RWD,8-Speed Automatic,5.0,8,33535,4.6,https://www.cars.com/vehicledetail/detail/804302528/overview/
+10001,1,USED,2016,Mercedes-Benz,Maybach S S 600,,99000,Gasoline,Palladium Grey,13,BLACK,20,RWD,AUTO,,,27900,,https://www.cars.com/vehicledetail/detail/791614831/overview/
+10001,1,USED,2004,Lexus,430,,10990,Gasoline,Black,,,,RWD,Automatic,4.3,8,100074,,https://www.cars.com/vehicledetail/detail/803080362/overview/
+10001,1,USED,2006,Dodge,Magnum SXT,,5495,Gasoline,Black,18,Gray,24,AWD,5-Speed Automatic,3.5,6,96180,4.6,https://www.cars.com/vehicledetail/detail/797277449/overview/
+10001,1,USED,2016,INFINITI,Q70 3.7X,,21495,Gasoline,Black,18,Graphite,24,AWD,7-Speed Automatic,3.7,6,27344,5,https://www.cars.com/vehicledetail/detail/804855388/overview/
+10001,1,USED,2014,Toyota,Prius Plug-in,,11995,Hybrid,Blizzard Pearl,,Gray,,FWD,Automatic CVT,1.8,6,73642,4.7,https://www.cars.com/vehicledetail/detail/799934856/overview/
+10001,1,USED,2005,Lexus,LS 430,,4999,Gasoline,Black,18,Cream,25,RWD,6-Speed Automatic,4.3,8,107261,4.8,https://www.cars.com/vehicledetail/detail/793884957/overview/
+10001,1,USED,2013,Volkswagen,CC 2.0T R-Line,,9895,Gasoline,Brown,21,Desert Beige,32,FWD,6-Speed Automatic with Auto-Shift,2.0,6,42788,4.6,https://www.cars.com/vehicledetail/detail/802862359/overview/
+10001,1,USED,2018,GMC,Acadia SLE-2,,17900,Gasoline,Quicksilver Metallic,21,Jet Black,26,AWD,6-Speed Automatic,2.5,6,16154,4.7,https://www.cars.com/vehicledetail/detail/788423361/overview/
+10001,1,USED,2016,Mercedes-Benz,C 300 Sport,,12980,Gasoline,Black,25,Black,34,AWD,7-Speed Automatic,2.0,6,59191,4.6,https://www.cars.com/vehicledetail/detail/805929929/overview/
+10001,1,NEW,2019,Mitsubishi,Outlander PHEV GT,,38420,Hybrid,Pearl White,,Black,,4WD,1-Speed Automatic,2.0,6,16,4.6,https://www.cars.com/vehicledetail/detail/781777342/overview/
+10001,1,USED,2019,Mitsubishi,Outlander Sport ES,,13295,Gasoline,Gray,23,Black,29,4WD,Automatic CVT,2.0,6,27107,4.8,https://www.cars.com/vehicledetail/detail/801572911/overview/
+10001,1,USED,2013,Volkswagen,CC 2.0T Sport Plus,,6895,Gasoline,Brown,22,Desert Beige,31,FWD,6-Speed Automatic with Auto-Shift,2.0,6,76290,4.6,https://www.cars.com/vehicledetail/detail/798063692/overview/
+10001,1,NEW,2020,Nissan,Rogue Sport SL,,32679,Gasoline,White,25,Light Gray,32,AWD,Automatic CVT,2.0,6,8,4.7,https://www.cars.com/vehicledetail/detail/795301531/overview/
+10001,1,USED,2018,Buick,Encore Preferred II,,13500,Gasoline,Winterberry Red Metallic,25,,33,FWD,6-Speed Automatic,1.4,6,406,4.8,https://www.cars.com/vehicledetail/detail/793325576/overview/
+10001,1,USED,2015,Rolls-Royce,Wraith Base,,139995,Gasoline,Wildberry,13,Seashell,21,RWD,8-Speed Automatic,6.6,12,17747,5,https://www.cars.com/vehicledetail/detail/807524279/overview/
+10001,1,USED,2010,smart,ForTwo,,4900,Gasoline,Yellow,,Design Black,,RWD,5-Speed Automatic with Auto-Shift,1.0,2,29759,3.6,https://www.cars.com/vehicledetail/detail/806965161/overview/
+10001,1,USED,2017,INFINITI,QX50 Base,,8500,Gasoline,Black,17,,24,AWD,7-Speed Automatic,3.7,6,8444,4.6,https://www.cars.com/vehicledetail/detail/808090635/overview/
+10001,1,USED,2005,Lexus,ES 330,,3999,Gasoline,Silver,21,Black,29,FWD,5-Speed Automatic,3.3,6,126056,4.8,https://www.cars.com/vehicledetail/detail/804544565/overview/
+10001,1,USED,2006,Lexus,SC 430,,13224,Gasoline,Blue,19,Camel,25,RWD,6-Speed Automatic,4.3,8,106105,4.8,https://www.cars.com/vehicledetail/detail/805060411/overview/
+10001,1,NEW,2020,Nissan,Rogue Sport SV,,29450,Gasoline,Scarlet Ember,25,Charcoal,32,AWD,Automatic CVT,2.0,6,6,4.7,https://www.cars.com/vehicledetail/detail/805160714/overview/
+10001,1,USED,2016,Lexus,RC F Base,,39995,Gasoline,Ultra White,16,Red,25,RWD,8-Speed Automatic,5.0,8,36243,5,https://www.cars.com/vehicledetail/detail/806811844/overview/
+10001,1,USED,2019,Hyundai,Santa Fe XL Limited Ultimate,,28790,Gasoline,Iron Frost,18,Gray,23,FWD,Automatic,,,24858,4.8,https://www.cars.com/vehicledetail/detail/801313309/overview/?isShippableInsideSearchRadius
+10001,1,USED,2018,Buick,Encore Preferred II,,13500,Gasoline,Ebony Twilight Metallic,25,Ebony,33,FWD,6-Speed Automatic,1.4,6,59,4.8,https://www.cars.com/vehicledetail/detail/793467190/overview/
+10001,1,USED,2019,Dodge,Grand Caravan SE,,18900,E85 Flex Fuel,Blue,17,Gray,25,FWD,Automatic,3.6,6,64,4.7,https://www.cars.com/vehicledetail/detail/807127723/overview/
+10001,1,USED,2008,Jaguar,XJ8,,9995,Gasoline,White,16,,25,RWD,6-Speed Automatic,4.2,8,50120,5,https://www.cars.com/vehicledetail/detail/805410691/overview/
+10001,1,USED,2016,Nissan,Maxima 3.5 SL,,13499,Gasoline,Forged Bronze,22,Charcoal,30,FWD,Automatic CVT,3.5,6,44342,4.7,https://www.cars.com/vehicledetail/detail/797349415/overview/
+10001,1,USED,2011,Honda,Accord Crosstour EX-L,,11500,Gasoline,White,18,Ivory,27,FWD,5-Speed Automatic,3.5,6,75668,4.7,https://www.cars.com/vehicledetail/detail/799730422/overview/
+10001,1,USED,2018,Mercedes-Benz,AMG GLC 63 4MATIC Coupe,,59950,Gasoline,Black,15,Red Pepper,22,AWD,9-Speed Automatic,4.0,8,11001,5,https://www.cars.com/vehicledetail/detail/802330330/overview/
+10001,1,USED,2019,Lamborghini,Urus,,225500,Gasoline,Grigio Lynx Metallic,12,Nero Ade,17,AWD,8-Speed Automatic,4.0,8,3195,5,https://www.cars.com/vehicledetail/detail/805067601/overview/
+10001,1,USED,2015,BMW,i8 Base,,59950,Hybrid,Gray,,,,AWD,6-Speed Automatic,1.5,2,21609,4.2,https://www.cars.com/vehicledetail/detail/786903933/overview/
+10001,1,USED,2006,Land Rover,LR3,,5499,Gasoline,Burgundy,14,Beige,19,4WD,6-Speed Automatic,4.0,6,118610,4.3,https://www.cars.com/vehicledetail/detail/804066164/overview/
+10001,1,USED,2019,Mercedes-Benz,A 220,,27900,Gasoline,Midnight Black,24,Black,35,FWD,7-Speed Automatic with Auto-Shift,2.0,6,7009,4.4,https://www.cars.com/vehicledetail/detail/804486130/overview/
+10001,1,USED,2016,Nissan,NV Cargo NV2500 HD SV V6/SV V8,,14900,Gasoline,Glacier White,,Gray,,RWD,5-Speed Automatic,4.0,6,58936,5,https://www.cars.com/vehicledetail/detail/806482327/overview/
+10001,1,USED,2015,RAM,ProMaster 2500 High Roof,,18990,Diesel,Black,,Black,,FWD,6-Speed Automatic,3.0,6,91675,,https://www.cars.com/vehicledetail/detail/799089237/overview/
+10001,1,USED,2005,Mercury,Grand Marquis LSE,,2995,Gasoline,Black,18,Beige,25,RWD,4-Speed Automatic,4.6,8,105383,4.7,https://www.cars.com/vehicledetail/detail/805421460/overview/
+10001,1,USED,2019,Mercedes-Benz,AMG GLC 63 Base 4MATIC,,58800,Gasoline,Obsidian Black Metallic,16,Red Pepper,22,AWD,9-Speed Automatic,4.0,8,6454,3,https://www.cars.com/vehicledetail/detail/802916851/overview/
+10001,1,USED,2001,Ferrari,360 Spider F1,,57000,Gasoline,Yellow,,Beige,,AWD,Automatic,,,9100,4.2,https://www.cars.com/vehicledetail/detail/801456309/overview/
+10001,1,USED,2011,BMW,128 i,,6499,Gasoline,Gray,18,Black,28,RWD,6-Speed Automatic,3.0,4,70493,4.8,https://www.cars.com/vehicledetail/detail/802918611/overview/
+10001,1,USED,2018,Honda,Civic Type R Touring,,28995,Gasoline,Championship White,22,Red / Black,28,FWD,6-Speed Manual,2.0,6,5787,4.6,https://www.cars.com/vehicledetail/detail/804251904/overview/
+10001,1,USED,2018,Toyota,C-HR XLE,,16888,Gasoline,Black Sand Pearl,27,Black,31,FWD,Automatic CVT,2.0,6,36624,4.7,https://www.cars.com/vehicledetail/detail/805051540/overview/
+10001,1,USED,2009,Volvo,S80 3.2,,3995,Gasoline,Blue,,Tan,,FWD,6-Speed Automatic,3.2,4,116964,4.6,https://www.cars.com/vehicledetail/detail/797562424/overview/
+10001,1,USED,2014,Toyota,Avalon XLE,,9495,Gasoline,Black,21,,31,FWD,6-Speed Automatic,3.5,6,60088,4.7,https://www.cars.com/vehicledetail/detail/803672067/overview/
+10001,1,USED,2011,Acura,TL Technology,,5995,Gasoline,Black,,,,AWD,5-Speed Automatic,3.7,6,110000,4.9,https://www.cars.com/vehicledetail/detail/793411961/overview/
+10001,1,USED,2017,BMW,M240 i,,25989,Gasoline,Mineral Gray Metallic,21,Black,32,RWD,6-Speed Manual,3.0,4,40369,4.8,https://www.cars.com/vehicledetail/detail/798357590/overview/
+10001,1,USED,2016,Audi,A8 L 3.0T,,30995,Gasoline,Glacier White Metallic,19,Black,29,AWD,8-Speed Automatic,3.0,6,22754,4.9,https://www.cars.com/vehicledetail/detail/808114038/overview/
+10001,1,USED,2020,Nissan,NV Passenger NV3500 HD SV V6/SV V8,,27900,Gasoline,Glacier White,,Gray,,RWD,5-Speed Automatic,4.0,6,33,,https://www.cars.com/vehicledetail/detail/806482329/overview/
+10001,2,USED,2015,Dodge,Dart SXT,,5999,Gasoline,Gray,22,Black,35,FWD,6-Speed Automatic,2.4,6,54412,4.3,https://www.cars.com/vehicledetail/detail/782731814/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,22116,Gasoline,Cajun Red Tintcoat,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/794606423/overview/
+10001,2,USED,2019,Mercedes-Benz,Metris Base,,13500,Gasoline,Arctic White,21,Gray,24,RWD,7-Speed Automatic,2.0,6,3466,3.7,https://www.cars.com/vehicledetail/detail/803819718/overview/
+10001,2,NEW,2020,Ford,EcoSport SE,,23790,Gasoline,Shadow Black,27,Ebony,29,4WD,Automatic,,,0,4.2,https://www.cars.com/vehicledetail/detail/788028292/overview/
+10001,2,USED,2017,Audi,RS 3 2.5T,,46500,Gasoline,Nardo Gray,19,Black / Gray,28,AWD,7-Speed Automatic with Auto-Shift,2.5,0,19933,4.7,https://www.cars.com/vehicledetail/detail/806740966/overview/
+10001,2,USED,2012,INFINITI,QX56 Base,,13995,Gasoline,Liquid Platinum,14,Graphite,20,4WD,7-Speed Automatic,5.6,8,137301,4.5,https://www.cars.com/vehicledetail/detail/802507108/overview/
+10001,2,NEW,2020,Mercedes-Benz,AMG G 63 Base,,,Gasoline,White,13,,15,AWD,9-Speed Automatic,4.0,8,4,3,https://www.cars.com/vehicledetail/detail/807285421/overview/
+10001,2,USED,2012,Dodge,Avenger SE,,4995,Gasoline,Bright White Clearcoat,21,Black,30,FWD,4-Speed Automatic,2.4,6,87142,4.3,https://www.cars.com/vehicledetail/detail/802213345/overview/
+10001,2,USED,2017,Dodge,Grand Caravan SXT,,11900,E85 Flex Fuel,Granite,17,Black / Light Graystone,25,FWD,Automatic,3.6,6,48745,4.8,https://www.cars.com/vehicledetail/detail/802514400/overview/
+10001,2,USED,2003,Volkswagen,Eurovan MV,,8942,Gasoline,Colorado Red Pearl,17,Gray,20,FWD,4-Speed Automatic,2.8,6,147143,4.6,https://www.cars.com/vehicledetail/detail/738280655/overview/
+10001,2,USED,2018,Hyundai,Sonata SEL,,13500,Gasoline,Quartz White Pearl,25,Beige,35,FWD,6-Speed Automatic,2.4,6,11,4.8,https://www.cars.com/vehicledetail/detail/783816401/overview/
+10001,2,USED,2018,Chevrolet,Malibu LT,,12995,Gasoline,Black,27,Gray,36,FWD,6-Speed Automatic,1.5,6,35410,4.8,https://www.cars.com/vehicledetail/detail/804266258/overview/
+10001,2,NEW,2020,Nissan,Versa SV,,,Gasoline,Electric Blue Metallic,32,Graphite,40,FWD,Variable,,,4,4.5,https://www.cars.com/vehicledetail/detail/786601132/overview/
+10001,2,USED,2009,INFINITI,FX50,,12404,Gasoline,Platinum Graphite Metallic,14,Graphite,20,AWD,7-Speed Automatic,5.0,8,112675,4.9,https://www.cars.com/vehicledetail/detail/806784547/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Silver Ice Metallic,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/794312768/overview/
+10001,2,USED,2017,Mitsubishi,Lancer ES,,7690,Gasoline,Silver,24,Black,33,FWD,Automatic CVT,2.0,6,41102,4.5,https://www.cars.com/vehicledetail/detail/804712425/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Mosaic Black Metallic,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/794814533/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Summit White,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/799553556/overview/
+10001,2,USED,2018,Toyota,Camry Hybrid LE,,16137,Hybrid,White,51,,53,FWD,Automatic CVT,2.5,6,78270,4.9,https://www.cars.com/vehicledetail/detail/803130950/overview/
+10001,2,USED,2007,Hyundai,Azera Limited,,6499,Gasoline,Beige,19,Beige,28,FWD,5-Speed Automatic,3.8,6,44081,4.7,https://www.cars.com/vehicledetail/detail/808112582/overview/
+10001,2,USED,2016,Audi,S6 4.0T quattro Premium Plus,,34800,Gasoline,Mythos Black Metallic,18,Black,27,AWD,7-Speed Automatic with Auto-Shift,4.0,8,44464,5,https://www.cars.com/vehicledetail/detail/804062724/overview/
+10001,2,USED,2016,Honda,Pilot EX-L,,15500,Gasoline,White,18,Beige,26,AWD,6-Speed Automatic,3.5,6,42555,4.6,https://www.cars.com/vehicledetail/detail/805172613/overview/
+10001,2,USED,2004,Saab,9-3 Aero,,4895,Gasoline,Steel Gray Metallic,22,Charcoal Gray,30,FWD,6-Speed Manual,2.0,6,77326,4.5,https://www.cars.com/vehicledetail/detail/805108252/overview/
+10001,2,USED,2018,Chevrolet,Malibu LT,,12000,Gasoline,Pepperdust Metallic,27,Jet Black,36,FWD,6-Speed Automatic,1.5,6,2845,4.8,https://www.cars.com/vehicledetail/detail/783816341/overview/
+10001,2,NEW,2019,Mitsubishi,Outlander PHEV GT,,38420,Hybrid,Pearl White,,Black,,4WD,1-Speed Automatic,2.0,6,13,4.6,https://www.cars.com/vehicledetail/detail/781777320/overview/
+10001,2,USED,2010,Land Rover,LR2 HSE,,6250,Gasoline,Gray,15,Black,22,4x4/4-wheel drive,Automatic,,,99225,4.8,https://www.cars.com/vehicledetail/detail/804441905/overview/
+10001,2,NEW,2020,Nissan,Versa S,,,Gasoline,Gun Metallic,27,Charcoal,35,FWD,Variable,,,5,4.5,https://www.cars.com/vehicledetail/detail/791868511/overview/
+10001,2,USED,2009,Cadillac,CTS-V Base,,22995,Gasoline,Black Raven,,Ebony / Ebony,,RWD,6-Speed Automatic,6.2,8,64501,5,https://www.cars.com/vehicledetail/detail/802516368/overview/
+10001,2,USED,2003,Audi,RS6 Quattro,,12995,Gasoline,Gray,,Black,,AWD,5-Speed Automatic,4.2,8,81714,4.7,https://www.cars.com/vehicledetail/detail/802323890/overview/
+10001,2,USED,2008,Jeep,Liberty Sport,,4500,Gasoline,Burgundy,16,Tan,22,4WD,6-Speed Manual,3.7,6,87462,4.3,https://www.cars.com/vehicledetail/detail/807492669/overview/
+10001,2,USED,2012,Honda,Crosstour EX-L,,11072,Gasoline,Crystal Black Pearl,21,Black,29,4WD,5-Speed Automatic,3.5,6,39911,4.9,https://www.cars.com/vehicledetail/detail/805138621/overview/
+10001,2,USED,2004,Mercury,Monterey,,3997,Gasoline,Black,16,Gray,23,FWD,4-Speed Automatic,4.2,6,88732,3.8,https://www.cars.com/vehicledetail/detail/793879642/overview/
+10001,2,USED,2016,Mercedes-Benz,Maybach S S 600,,78500,Gasoline,Black,13,Black,20,RWD,7-Speed Automatic,6.0,12,29121,,https://www.cars.com/vehicledetail/detail/797286239/overview/
+10001,2,USED,2014,RAM,ProMaster 3500 Tradesman,,17595,Gasoline,Granite Crystal Clearcoat Metallic,,Gray,,FWD,6-Speed Automatic,3.6,6,76050,3,https://www.cars.com/vehicledetail/detail/806454287/overview/
+10001,2,USED,2018,Chevrolet,Malibu LT,,12000,Gasoline,Not Specified,27,Jet Black,36,FWD,6-Speed Automatic,1.5,6,406,4.8,https://www.cars.com/vehicledetail/detail/785205442/overview/
+10001,2,NEW,2020,Nissan,Versa S,,14118,Gasoline,Cloud White,27,Charcoal,35,FWD,5-Speed Manual,1.6,6,5,4.5,https://www.cars.com/vehicledetail/detail/785235650/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Summit White,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/796123802/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Nightfall Gray Metallic,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/794606420/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Mosaic Black Metallic,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/799941612/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Mosaic Black Metallic,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/796317761/overview/
+10001,2,USED,2019,Chevrolet,Malibu Premier,,17500,Gasoline,Summit White,22,Jet Black,32,FWD,9-Speed Automatic,2.0,6,926,4.4,https://www.cars.com/vehicledetail/detail/801282322/overview/
+10001,2,USED,2010,Mercedes-Benz,SLK350,,13900,Gasoline,Palladium Silver Metallic,,Almond / Mocha,,RWD,7-Speed Automatic,3.5,6,38984,4.7,https://www.cars.com/vehicledetail/detail/807543515/overview/
+10001,2,USED,2013,Chevrolet,Avalanche LTZ,,28998,Gasoline,Black,15,Ebony,21,4WD,6-Speed Automatic,5.3,8,29542,4.8,https://www.cars.com/vehicledetail/detail/803962305/overview/
+10001,2,USED,2009,Nissan,Murano SL,,3999,Gasoline,Platinum Graphite Metallic,18,Black,23,AWD,Automatic CVT,3.5,6,118241,4.6,https://www.cars.com/vehicledetail/detail/803227139/overview/
+10001,2,USED,2018,GMC,Yukon XL Denali,,38900,Gasoline,Black,14,TAN,23,4X4,AUTO,,,17100,4.8,https://www.cars.com/vehicledetail/detail/786974917/overview/
+10001,2,USED,2016,McLaren,650S Spider,,129895,Gasoline,Orange,,Black,,RWD,7-Speed DSG Automatic,3.8,8,17936,5,https://www.cars.com/vehicledetail/detail/805018158/overview/
+10001,2,NEW,2020,Nissan,Rogue SV,,30620,Gasoline,White,26,Charcoal,33,AWD,Automatic CVT,2.5,6,7,4.6,https://www.cars.com/vehicledetail/detail/803837697/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,20273,Gasoline,Nightfall Gray Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/795954494/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Summit White,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/796123795/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Summit White,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/796636909/overview/
+10001,2,NEW,2020,Ford,EcoSport SE,,23790,Gasoline,Shadow Black,27,Ebony,29,4WD,Automatic,,,0,4.2,https://www.cars.com/vehicledetail/detail/795225088/overview/
+10001,2,USED,2017,Bentley,Bentayga W12,,153500,Gasoline,Dark Gray Satin,12,Tan,19,AWD,8-Speed Automatic,6.0,8,10122,4.8,https://www.cars.com/vehicledetail/detail/804273218/overview/
+10001,2,USED,2017,Toyota,86,,13890,Gasoline,Black,,Black,,RWD,Manual,,,52669,4.4,https://www.cars.com/vehicledetail/detail/806715488/overview/
+10001,2,USED,2005,Toyota,Camry Solara SE V6,,4995,Gasoline,Silver,,Gray,,FWD,5-Speed Automatic,3.3,6,76995,4.5,https://www.cars.com/vehicledetail/detail/792437500/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,20273,Gasoline,Summit White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/796264607/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Summit White,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/796637033/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Mosaic Black Metallic,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/796637356/overview/
+10001,2,NEW,2020,Nissan,Versa S,,,Gasoline,Gun Metallic,27,Charcoal,35,FWD,Automatic CVT,1.6,6,3,4.5,https://www.cars.com/vehicledetail/detail/791619448/overview/
+10001,2,USED,2016,Mercedes-Benz,S 550 4MATIC,,42999,Gasoline,White,16,White,26,AWD,7-Speed Automatic,4.7,8,48120,4.9,https://www.cars.com/vehicledetail/detail/806249537/overview/
+10001,2,USED,2006,Chrysler,PT Cruiser Touring,,2595,Gasoline,Beige,22,Beige,29,FWD,4-Speed Automatic,2.4,6,150400,4.1,https://www.cars.com/vehicledetail/detail/803671802/overview/
+10001,2,USED,2005,Toyota,Matrix XR AWD,,3995,Gasoline,Blue,,Gray,,AWD,4-Speed Automatic,1.8,6,123967,4.5,https://www.cars.com/vehicledetail/detail/786723528/overview/
+10001,2,USED,2018,Lincoln,Continental Black Label,,47470,Gasoline,Blue,18,Black,27,AWD,Automatic,,,3773,4.8,https://www.cars.com/vehicledetail/detail/808194895/overview/?isShippableInsideSearchRadius
+10001,2,NEW,2020,Nissan,Versa S,,13825,Gasoline,Gun Metallic,27,Charcoal,35,FWD,5-Speed Manual,1.6,6,5,4.5,https://www.cars.com/vehicledetail/detail/785235668/overview/
+10001,2,USED,2018,Bentley,Bentayga Onyx Edition,,136800,Gasoline,White,12,Saddle Brown,19,AWD,8-Speed Automatic,6.0,8,26604,5,https://www.cars.com/vehicledetail/detail/800875218/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Nightfall Gray Metallic,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/794606427/overview/
+10001,2,USED,2001,INFINITI,I30 Luxury,,900,Gasoline,White,19,Beige,26,FWD,4-Speed Automatic,3.0,6,186612,4.7,https://www.cars.com/vehicledetail/detail/795057100/overview/
+10001,2,USED,2019,Ford,Flex Limited,,21250,Gasoline,Silver,16,Tan,23,AWD,Automatic,,,37836,4.9,https://www.cars.com/vehicledetail/detail/800711307/overview/?isShippableInsideSearchRadius
+10001,2,USED,2006,Mitsubishi,Lancer Evolution IX,,25999,Gasoline,Blue,19,Black,25,AWD,5-Speed Manual,2.0,6,95225,4.7,https://www.cars.com/vehicledetail/detail/794746810/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,20640,Gasoline,Cajun Red Tintcoat,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/793667938/overview/
+10001,2,USED,2007,Audi,A8 L 4.2 quattro,,8938,Gasoline,Blue,18,Black,25,AWD,6-Speed Automatic,4.2,8,78207,4.9,https://www.cars.com/vehicledetail/detail/806262060/overview/
+10001,2,NEW,2020,Nissan,Versa S,,,Gasoline,Cloud White,27,Charcoal,35,FWD,Automatic CVT,1.6,6,0,4.5,https://www.cars.com/vehicledetail/detail/794183753/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Summit White,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/796123794/overview/
+10001,2,USED,2019,Chevrolet,Traverse LT Leather,,27900,Gasoline,Black,18,Black,27,AWD,9-Speed Automatic,3.6,6,41,4.5,https://www.cars.com/vehicledetail/detail/799552886/overview/
+10001,2,USED,2013,INFINITI,JX35 Base,,9995,Gasoline,Liquid Platinum,18,,24,AWD,Automatic CVT,3.5,6,111126,4,https://www.cars.com/vehicledetail/detail/789824070/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,21341,Gasoline,Silver Ice Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/788832646/overview/
+10001,2,USED,2011,Nissan,Murano CrossCabriolet Base,,13995,Gasoline,Glacier Pearl,17,Black,22,AWD,Automatic CVT,3.5,6,91141,4.8,https://www.cars.com/vehicledetail/detail/806387739/overview/
+10001,2,USED,2018,Dodge,Challenger SRT Hellcat,,41900,Gasoline,Black,13,Black,21,RWD,6-Speed Manual,6.2,8,9305,4.9,https://www.cars.com/vehicledetail/detail/805414248/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,20273,Gasoline,Mosaic Black Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/796636762/overview/
+10001,2,NEW,2020,Rolls-Royce,Phantom,,,Gasoline,Black Diamond,,Seashell,,RWD,8-Speed Automatic,6.8,12,5,,https://www.cars.com/vehicledetail/detail/803854762/overview/
+10001,2,USED,1999,Jaguar,XK8,,7800,Gasoline,Blue,17,Beige,24,RWD,5-Speed Automatic,4.0,8,52695,4.4,https://www.cars.com/vehicledetail/detail/798131817/overview/
+10001,2,USED,2008,INFINITI,M35x Base,,9895,Gasoline,Moonlight White,16,Wheat,22,AWD,5-Speed Automatic,3.5,6,69760,5,https://www.cars.com/vehicledetail/detail/801644902/overview/
+10001,2,USED,2016,Nissan,Maxima 3.5 SR,,14500,Gasoline,Coulis Red,22,Camel,30,FWD,Automatic CVT,3.5,6,53448,4.7,https://www.cars.com/vehicledetail/detail/783816440/overview/
+10001,2,USED,2015,Jeep,Wrangler Unlimited Sahara,,28495,Gasoline,Anvil Clearcoat,16,Black,21,4WD,5-Speed Automatic,3.6,6,47000,4.8,https://www.cars.com/vehicledetail/detail/805686717/overview/
+10001,2,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Mosaic Black Metallic,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/793667935/overview/
+10001,2,USED,2019,Chevrolet,Trax LT,,12900,Gasoline,Red,26,Black,31,FWD,6-Speed Automatic,1.4,6,36,4.3,https://www.cars.com/vehicledetail/detail/785055189/overview/
+10001,2,USED,2013,Ford,Escape SE,,6995,Gasoline,Red,23,Gray,33,4WD,6-Speed Automatic,1.6,6,56444,4,https://www.cars.com/vehicledetail/detail/807360704/overview/
+10001,3,NEW,2020,Nissan,Rogue SL,,33082,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,AWD,Automatic CVT,2.5,6,8,4.6,https://www.cars.com/vehicledetail/detail/802415377/overview/
+10001,3,NEW,2020,Nissan,Rogue Sport SL,,30651,Gasoline,Scarlet Ember Tintcoat,25,Charcoal,32,AWD,Variable,,,7,4.7,https://www.cars.com/vehicledetail/detail/806519113/overview/
+10001,3,USED,2020,Lamborghini,Urus,,238500,Gasoline,Bianco Monocerus,12,Nero Ade,17,AWD,8-Speed Automatic,4.0,8,2142,,https://www.cars.com/vehicledetail/detail/805364995/overview/
+10001,3,USED,2017,BMW,X5 eDrive xDrive40e,,29895,Hybrid,Alpine White,,Brown,,AWD,8-Speed Automatic,2.0,6,29935,5,https://www.cars.com/vehicledetail/detail/804863277/overview/
+10001,3,USED,2010,Jeep,Commander Limited,,5295,Gasoline,Black,14,Dark Slate Gray,20,4WD,Automatic,5.7,8,174890,4.6,https://www.cars.com/vehicledetail/detail/803587618/overview/
+10001,3,NEW,2020,Bentley,Flying Spur W12,,,Gasoline,Onyx Metallic,12,Beluga,19,AWD,8-Speed Automatic with Auto-Shift,6.0,8,30,,https://www.cars.com/vehicledetail/detail/807010941/overview/
+10001,3,USED,2015,Nissan,Juke NISMO,,10995,Gasoline,Super Black,28,Black,34,AWD,Automatic CVT,1.6,6,72579,4.6,https://www.cars.com/vehicledetail/detail/804147614/overview/
+10001,3,USED,2012,Bentley,Mulsanne Base,,98760,E85 Flex Fuel,Black,11,Black,18,RWD,8-Speed Automatic,6.8,8,33548,5,https://www.cars.com/vehicledetail/detail/802621321/overview/
+10001,3,USED,2006,Acura,RL,,6495,Gasoline,Champagne,18,Beige,26,AWD,5-Speed Automatic,3.5,6,100585,4.5,https://www.cars.com/vehicledetail/detail/798056592/overview/
+10001,3,NEW,2020,Nissan,Versa 1.6 SR,,20210,Gasoline,Aspen White,32,Gray,40,FWD,Automatic CVT,1.6,6,9,4.5,https://www.cars.com/vehicledetail/detail/794742435/overview/
+10001,3,USED,2018,Nissan,Sentra SV,,10990,Gasoline,Gray,29,Charcoal,37,FWD,Automatic CVT,1.8,6,12364,4.8,https://www.cars.com/vehicledetail/detail/808134465/overview/
+10001,3,NEW,2020,Chevrolet,Trax LT,,20273,Gasoline,Mosaic Black Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/794814450/overview/
+10001,3,NEW,2020,Nissan,Rogue Sport SV,,29100,Gasoline,Gun Metallic,25,Charcoal,32,AWD,Automatic CVT,2.0,6,6,4.7,https://www.cars.com/vehicledetail/detail/803837682/overview/
+10001,3,USED,2010,Chrysler,Town & Country Limited,,6999,Gasoline,Black,17,Medium Pebble Beige,25,FWD,Automatic,4.0,6,77842,4.4,https://www.cars.com/vehicledetail/detail/805146109/overview/
+10001,3,USED,2019,Volkswagen,Jetta GLI 2.0T S,,17500,Gasoline,Pure White,25,Titan Black,32,FWD,6-Speed Manual,2.0,6,16,4.9,https://www.cars.com/vehicledetail/detail/791171707/overview/
+10001,3,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Summit White,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/796636763/overview/
+10001,3,NEW,2020,Chevrolet,Trax LS,,20056,Gasoline,Summit White,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/801029792/overview/
+10001,3,NEW,2020,Nissan,Rogue Sport SV,,27102,Gasoline,Gun Metallic,25,Charcoal,32,AWD,Automatic CVT,2.0,6,8,4.7,https://www.cars.com/vehicledetail/detail/802613246/overview/
+10001,3,USED,2012,Audi,A5 2.0T Premium Plus quattro,,6499,Gasoline,Black,,Cinnamon Brown,,AWD,8-Speed Automatic,2.0,6,119487,4.6,https://www.cars.com/vehicledetail/detail/806174770/overview/
+10001,3,USED,2011,Nissan,Maxima SV,,8989,Gasoline,Super Black,19,Black,26,FWD,Automatic CVT,3.5,6,51700,4.5,https://www.cars.com/vehicledetail/detail/807476667/overview/
+10001,3,USED,2001,Acura,CL 3.2 Type S,,3900,Gasoline,White,19,"White, Brown",29,FWD,Automatic,3.2,6,161756,4.7,https://www.cars.com/vehicledetail/detail/804125735/overview/
+10001,3,USED,1990,Ferrari,Testarossa,,114900,Gasoline,White,,White,,,Manual,,,21960,5,https://www.cars.com/vehicledetail/detail/796261770/overview/
+10001,3,USED,2017,BMW,ALPINA B7 xDrive,,64995,Gasoline,Alpine White,16,Cashmere Beige,24,AWD,8-Speed Automatic,4.4,8,42347,5,https://www.cars.com/vehicledetail/detail/802185553/overview/
+10001,3,NEW,2020,Chevrolet,Trax LS,,19295,Gasoline,Silver Ice Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,2,4.6,https://www.cars.com/vehicledetail/detail/802536928/overview/
+10001,3,USED,2014,Subaru,BRZ Limited,,7999,Gasoline,Wr Blue Pearl,22,Black,30,RWD,6-Speed Manual,2.0,6,63300,4.6,https://www.cars.com/vehicledetail/detail/801709654/overview/
+10001,3,USED,2019,Kia,Rio S,,8990,Gasoline,Red,28,Black,37,FWD,6-Speed Automatic,1.6,6,4044,4.4,https://www.cars.com/vehicledetail/detail/804712349/overview/
+10001,3,USED,2015,Maserati,Ghibli S Q4,,29682,Gasoline,White,15,Black,25,AWD,8-Speed Automatic,3.0,6,10052,4.4,https://www.cars.com/vehicledetail/detail/808054040/overview/
+10001,3,NEW,2020,Chevrolet,Trax LS,,19595,Gasoline,Summit White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,2,4.6,https://www.cars.com/vehicledetail/detail/806028107/overview/
+10001,3,USED,2015,Dodge,Grand Caravan AVP/SE,,6495,E85 Flex Fuel,Gray,17,Black,25,FWD,Automatic,3.6,6,138324,4.5,https://www.cars.com/vehicledetail/detail/804872333/overview/
+10001,3,USED,2019,Cadillac,XT4 Sport,,26500,Gasoline,Radiant Silver Metallic,24,Light Wheat,30,FWD,9-Speed Automatic,2.0,6,345,3.2,https://www.cars.com/vehicledetail/detail/802017407/overview/
+10001,3,USED,2018,Lexus,LC 500h Base,,68995,Hybrid,Nightfall Mica,26,Tan,35,RWD,Variable,,,266,,https://www.cars.com/vehicledetail/detail/795318671/overview/
+10001,3,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Summit White,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/794606426/overview/
+10001,3,USED,2014,FIAT,500C Abarth,,7602,Gasoline,Black,28,Black,34,FWD,5-Speed Manual,1.4,6,84949,5,https://www.cars.com/vehicledetail/detail/805419736/overview/
+10001,3,USED,2018,Dodge,Journey SE,,16795,Gasoline,Pitch Black Clearcoat,19,Black,25,FWD,4-Speed Automatic,2.4,6,6325,4.7,https://www.cars.com/vehicledetail/detail/801283671/overview/
+10001,3,NEW,2020,Chevrolet,Trax LS,,20056,Gasoline,Mosaic Black Metallic,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/799941604/overview/
+10001,3,USED,2019,Ford,Ranger XL,,26900,Gasoline,Blue Lightning,21,Ebony,26,4WD,10-Speed Automatic,2.3,6,431,4,https://www.cars.com/vehicledetail/detail/796004537/overview/
+10001,3,NEW,2019,Mitsubishi,Outlander PHEV GT,,38420,Hybrid,Pearl White,,Black,,4WD,1-Speed Automatic,2.0,6,12,4.6,https://www.cars.com/vehicledetail/detail/781778312/overview/
+10001,3,NEW,2020,Nissan,Versa 1.6 SR,,17691,Gasoline,Gun Metallic,32,Gray,40,FWD,Automatic CVT,1.6,6,5,4.5,https://www.cars.com/vehicledetail/detail/785235642/overview/
+10001,3,NEW,2020,Chevrolet,Trax LS,,20056,Gasoline,Mosaic Black Metallic,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/798551087/overview/
+10001,3,NEW,2020,Nissan,Versa 1.6 SV,,,Gasoline,Brilliant Silver Metallic,32,Graphite,40,FWD,Automatic CVT,1.6,6,8,4.5,https://www.cars.com/vehicledetail/detail/793769829/overview/
+10001,3,USED,2012,Chrysler,Town & Country Touring-L,,8800,E85 Flex Fuel,Brilliant Black Crystal Pearl,17,Black / Light Graystone,25,FWD,Automatic,3.6,6,51408,4.5,https://www.cars.com/vehicledetail/detail/801382119/overview/
+10001,3,USED,2017,Acura,MDX Sport Hybrid 3.0L w/Technology Package,,26000,Hybrid,Crystal Black Pearl,26,Ebony,27,AWD,7-Speed Automatic with Auto-Shift,3.0,6,61058,4.7,https://www.cars.com/vehicledetail/detail/799921551/overview/
+10001,3,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Mosaic Black Metallic,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/794606463/overview/
+10001,3,NEW,2019,Mitsubishi,Outlander PHEV GT,,37995,Hybrid,Black Pearl,,Black,,4WD,1-Speed Automatic,2.0,6,15,4.6,https://www.cars.com/vehicledetail/detail/781777390/overview/
+10001,3,NEW,2020,Chevrolet,Trax LS,,19790,Gasoline,Mosaic Black Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,2,4.6,https://www.cars.com/vehicledetail/detail/802536670/overview/
+10001,3,USED,2005,Mercury,Grand Marquis GS,,4697,Gasoline,Silver,18,Gray,25,RWD,4-Speed Automatic,4.6,8,73280,4.7,https://www.cars.com/vehicledetail/detail/797035668/overview/
+10001,3,NEW,2020,Volvo,V60 Cross Country T5,,,Gasoline,Denim Blue,22,Charcoal,31,AWD,8-Speed Automatic,2.0,6,0,4.4,https://www.cars.com/vehicledetail/detail/798334654/overview/
+10001,3,NEW,2020,Chevrolet,Trax LS,,19790,Gasoline,Silver Ice Metallic,26,Black,31,FWD,6-Speed Automatic,1.4,6,10,4.6,https://www.cars.com/vehicledetail/detail/788280604/overview/
+10001,3,USED,2009,Volvo,C30 T5,,8195,Gasoline,White,,Quartz,,FWD,5-Speed Automatic,2.5,0,46563,4.7,https://www.cars.com/vehicledetail/detail/804029714/overview/
+10001,3,USED,2019,Tesla,Model 3 Performance,,56942,Electric,Midnight Silver Metallic,120,Red,112,AWD,1-Speed Automatic,,,3621,5,https://www.cars.com/vehicledetail/detail/807850522/overview/
+10001,3,USED,2015,BMW,M6 Gran Coupe Base,,46950,Gasoline,White,14,Sakhir Orange,20,RWD,7-Speed Automatic with Auto-Shift,4.4,8,54326,4.5,https://www.cars.com/vehicledetail/detail/805876322/overview/
+10001,3,USED,2006,Nissan,Quest 3.5 SE,,2495,Gasoline,Smoke Metallic,18,Gray,25,FWD,5-Speed Automatic,3.5,6,118923,4.8,https://www.cars.com/vehicledetail/detail/805982113/overview/
+10001,3,USED,2020,Toyota,Corolla Hybrid LE,,18995,Hybrid,Black Sand,53,Light Gray,52,FWD,Automatic CVT,1.8,6,10329,4.6,https://www.cars.com/vehicledetail/detail/800659389/overview/
+10001,3,USED,2016,Mercedes-Benz,Metris Base,,20700,Gasoline,Flint Gray Metallic,21,Black,24,RWD,7-Speed Automatic,2.0,6,14246,5,https://www.cars.com/vehicledetail/detail/795655090/overview/
+10001,3,NEW,2020,Volvo,V60 Cross Country T5,,,Gasoline,Birch,22,Charcoal,31,AWD,8-Speed Automatic,2.0,6,0,4.4,https://www.cars.com/vehicledetail/detail/797470968/overview/
+10001,3,USED,2019,Lamborghini,Urus Base,,249000,Gasoline,White,12,Nero Ade,17,AWD,8-Speed Automatic,4.0,8,711,5,https://www.cars.com/vehicledetail/detail/757871026/overview/
+10001,3,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Summit White,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/796264603/overview/
+10001,3,USED,2013,Cadillac,Escalade EXT Luxury,,33999,E85 Flex Fuel,Black Raven,13,Ebony,18,AWD,6-Speed Automatic,6.2,8,52903,4.6,https://www.cars.com/vehicledetail/detail/796026548/overview/
+10001,3,USED,2004,GMC,Envoy XL SLE,,3995,Gasoline,Carbon Metallic,15,Medium Pewter,19,4WD,4-Speed Automatic,4.2,4,115326,4.5,https://www.cars.com/vehicledetail/detail/771872397/overview/
+10001,3,USED,2017,Honda,HR-V EX-L w/Navigation,,14499,Gasoline,Black,28,Black,34,AWD,Automatic CVT,1.8,6,23664,4.7,https://www.cars.com/vehicledetail/detail/805152439/overview/
+10001,3,USED,2019,Nissan,Versa 1.6 SV,,7900,Gasoline,Dark Blue,31,Black,39,FWD,Automatic CVT,1.6,6,11541,4.5,https://www.cars.com/vehicledetail/detail/804831135/overview/
+10001,3,NEW,2020,Nissan,Rogue Sport SL,,29671,Gasoline,Gun Metallic,25,Charcoal,32,AWD,Variable,,,36,4.7,https://www.cars.com/vehicledetail/detail/798761172/overview/
+10001,3,USED,2019,Volvo,S60 T5 Momentum,,25500,Gasoline,Crystal White Pearl Metallic,24,Tan,36,FWD,8-Speed Automatic,2.0,6,11,5,https://www.cars.com/vehicledetail/detail/788830847/overview/
+10001,3,USED,2017,Ford,Transit-350 Base,,9999,Gasoline,White,,Black,,4x2/2-wheel drive,Automatic,,,58277,4.3,https://www.cars.com/vehicledetail/detail/808213729/overview/
+10001,3,USED,2008,Chrysler,PT Cruiser LX,,2795,Gasoline,Blue,,Gray,,FWD,4-Speed Automatic,2.4,6,84109,3.8,https://www.cars.com/vehicledetail/detail/793458594/overview/
+10001,3,NEW,2020,Nissan,Rogue Sport SL,,,Gasoline,Magnetic Black,25,Charcoal,32,AWD,Automatic CVT,2.0,6,8,4.7,https://www.cars.com/vehicledetail/detail/804821065/overview/
+10001,3,NEW,2020,Aston,Martin DBS Superleggera,,,Gasoline,Red,14,Obsidian Black,22,RWD,8-Speed Automatic,5.2,12,18,,https://www.cars.com/vehicledetail/detail/805443219/overview/
+10001,3,NEW,2019,Mitsubishi,Outlander PHEV GT,,38420,Hybrid,Pearl White,,Black,,4WD,1-Speed Automatic,2.0,6,11,4.6,https://www.cars.com/vehicledetail/detail/776039534/overview/
+10001,3,NEW,2020,Nissan,Rogue SV,,28676,Gasoline,Caspian Blue,26,Charcoal,33,AWD,Automatic CVT,2.5,6,6,4.6,https://www.cars.com/vehicledetail/detail/804789969/overview/
+10001,3,USED,2019,Nissan,Altima 2.5 S,,12895,Gasoline,Gray,26,Charcoal,36,FWD,Automatic CVT,2.5,6,13465,4.4,https://www.cars.com/vehicledetail/detail/803169194/overview/
+10001,3,NEW,2020,Nissan,Versa 1.6 SV,,17512,Gasoline,Black,32,Graphite,40,FWD,Automatic CVT,1.6,6,5,4.5,https://www.cars.com/vehicledetail/detail/785235639/overview/
+10001,3,NEW,2020,Nissan,Rogue Sport SL,,29650,Gasoline,Gun Metallic,25,Charcoal,32,AWD,Automatic CVT,2.0,6,12,4.7,https://www.cars.com/vehicledetail/detail/806375368/overview/
+10001,3,NEW,2020,Volvo,V60 Cross Country T5,,,Gasoline,Onyx Black,22,Charcoal,31,AWD,8-Speed Automatic,2.0,6,0,4.4,https://www.cars.com/vehicledetail/detail/797470909/overview/
+10001,3,USED,2009,Mercedes-Benz,SLR McLaren,,859000,Gasoline,,12,,16,RWD,5-Speed Automatic,5.4,8,1379,4,https://www.cars.com/vehicledetail/detail/803854916/overview/
+10001,3,NEW,2020,Mitsubishi,Outlander PHEV GT,,42315,Hybrid,Pearl White,,Black,,4WD,1-Speed Automatic,2.0,6,11,,https://www.cars.com/vehicledetail/detail/791246054/overview/
+10001,3,NEW,2020,Nissan,Rogue Sport S,,25101,Gasoline,Caspian Blue,24,Charcoal,30,AWD,Automatic CVT,2.0,6,6,4.7,https://www.cars.com/vehicledetail/detail/797845209/overview/
+10001,3,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Mosaic Black Metallic,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/794312775/overview/
+10001,3,NEW,2019,Nissan,Kicks SV,,17930,Gasoline,Super Black,31,Charcoal,36,FWD,Automatic CVT,1.6,6,12,4.4,https://www.cars.com/vehicledetail/detail/770270466/overview/
+10001,3,USED,2015,Nissan,Rogue Select S,,7388,Gasoline,Super Black,22,Black,27,AWD,Automatic CVT,2.5,6,53185,4.7,https://www.cars.com/vehicledetail/detail/805395240/overview/
+10001,3,USED,2016,Hyundai,Equus Signature,,19950,Gasoline,Caspian Black,15,Ivory,23,RWD,8-Speed Automatic,5.0,8,50724,4.8,https://www.cars.com/vehicledetail/detail/789125244/overview/
+10001,3,USED,2011,Chevrolet,Aveo 5 LT,,3795,Gasoline,Gray,27,Black,35,FWD,4-Speed Automatic,1.6,6,65900,3.2,https://www.cars.com/vehicledetail/detail/803671817/overview/
+10001,3,NEW,2019,Mitsubishi,Outlander PHEV GT,,38420,Hybrid,Pearl White,,Black,,4WD,1-Speed Automatic,2.0,6,15,4.6,https://www.cars.com/vehicledetail/detail/781777347/overview/
+10001,3,NEW,2020,Nissan,Versa 1.6 SV,,,Gasoline,Black,32,Graphite,40,FWD,Automatic CVT,1.6,6,5,4.5,https://www.cars.com/vehicledetail/detail/794778746/overview/
+10001,3,NEW,2020,Chevrolet,Trax LT,,21749,Gasoline,Summit White,26,Jet Black,31,AWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/794313168/overview/
+10001,3,NEW,2020,Chevrolet,Trax LS,,18403,Gasoline,Summit White,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/800185447/overview/
+10001,3,USED,2015,Mitsubishi,Outlander Sport ES,,9500,Gasoline,Silver,24,Black,30,FWD,Automatic CVT,2.0,6,20323,4.5,https://www.cars.com/vehicledetail/detail/785695891/overview/
+10001,3,USED,1999,INFINITI,Q45,,3900,Gasoline,White,,Black,,RWD,Automatic,,,81940,5,https://www.cars.com/vehicledetail/detail/781697523/overview/
+10001,3,NEW,2020,Chevrolet,Trax LT,,21341,Gasoline,Silver Ice Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,0,4.6,https://www.cars.com/vehicledetail/detail/788832255/overview/
+10001,3,USED,2015,Maserati,Ghibli Base,,18900,Gasoline,Black,15,Black,25,RWD,8-Speed Automatic,3.0,6,50616,4.4,https://www.cars.com/vehicledetail/detail/807226555/overview/
+10001,3,NEW,2020,Nissan,Rogue SV,,30130,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,6,4.6,https://www.cars.com/vehicledetail/detail/805848552/overview/
+10001,3,NEW,2020,Nissan,Rogue SV,,29026,Gasoline,Scarlet Ember,26,Charcoal,33,AWD,Automatic CVT,2.5,6,6,4.6,https://www.cars.com/vehicledetail/detail/805848358/overview/
+10001,4,USED,2018,Kia,Optima LX,,9999,Gasoline,White,25,Black,36,FWD,6-Speed Automatic,2.4,6,30788,4.9,https://www.cars.com/vehicledetail/detail/790781636/overview/
+10001,4,NEW,2020,Nissan,Rogue SV,,28536,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,7,4.6,https://www.cars.com/vehicledetail/detail/799931942/overview/
+10001,4,NEW,2020,Nissan,Rogue Sport SL,,30298,Gasoline,Gun Metallic,25,Charcoal,32,AWD,Variable,,,10,4.7,https://www.cars.com/vehicledetail/detail/806519194/overview/
+10001,4,NEW,2020,Nissan,Versa 1.6 SR,,,Gasoline,Aspen White,32,Gray,40,FWD,Automatic CVT,1.6,6,0,4.5,https://www.cars.com/vehicledetail/detail/791435339/overview/
+10001,4,USED,2014,RAM,ProMaster 2500 Tradesman,,17500,Gasoline,Bright White Clearcoat,,Gray,,FWD,6-Speed Automatic,3.6,6,30549,2.2,https://www.cars.com/vehicledetail/detail/807128051/overview/
+10001,4,USED,2018,Lexus,LC 500 Base,,62495,Gasoline,Infrared,16,Tan,26,RWD,10-Speed Automatic,5.0,8,36079,4.8,https://www.cars.com/vehicledetail/detail/802920406/overview/
+10001,4,USED,2018,Dodge,Grand Caravan SXT,,13500,E85 Flex Fuel,Billet Clearcoat,17,Black / Light Graystone,25,FWD,Automatic,3.6,6,27452,4.6,https://www.cars.com/vehicledetail/detail/790206155/overview/
+10001,4,USED,2017,Acura,ILX w/AcuraWatch Plus,,13885,Gasoline,Black,25,black,35,FWD,Automatic,,,23798,4.6,https://www.cars.com/vehicledetail/detail/805192652/overview/
+10001,4,USED,2012,Nissan,GT-R Black Edition,,59999,Gasoline,Jet Black,16,Black,23,AWD,6-Speed Automatic with Auto-Shift,3.8,6,37950,4.7,https://www.cars.com/vehicledetail/detail/797248989/overview/
+10001,4,USED,2007,Jaguar,XK,,13890,Gasoline,Green,18,Ivory,27,RWD,6-Speed Automatic,4.2,8,82513,4.8,https://www.cars.com/vehicledetail/detail/806206741/overview/
+10001,4,NEW,2020,Nissan,Versa 1.6 SR,,,Gasoline,Brilliant Silver Metallic,32,Gray,40,FWD,Automatic CVT,1.6,6,0,4.5,https://www.cars.com/vehicledetail/detail/791435055/overview/
+10001,4,NEW,2019,Chevrolet,Trax LT,,20018,Gasoline,Silver Ice Metallic,26,Jet Black,31,AWD,Automatic,,,5,4.3,https://www.cars.com/vehicledetail/detail/778517840/overview/
+10001,4,USED,2008,Mercury,Mountaineer Premier,,4905,Gasoline,White,13,Black,19,AWD,5-Speed Automatic,4.0,6,107148,4.7,https://www.cars.com/vehicledetail/detail/785606586/overview/
+10001,4,USED,2017,Mercedes-Benz,Maybach S 550 Base 4MATIC,,87950,Gasoline,Black,16,Black,24,AWD,9-Speed Automatic,4.7,8,30344,4,https://www.cars.com/vehicledetail/detail/803077691/overview/
+10001,4,USED,2006,BMW,M6,,13500,Gasoline,Black,12,Portland,18,RWD,7-Speed Automatic with Auto-Shift,5.0,10,73466,5,https://www.cars.com/vehicledetail/detail/785686250/overview/
+10001,4,NEW,2020,Nissan,Versa 1.6 SV,,,Gasoline,Brilliant Silver Metallic,32,Graphite,40,FWD,Automatic CVT,1.6,6,3,4.5,https://www.cars.com/vehicledetail/detail/793847316/overview/
+10001,4,USED,2017,Subaru,Crosstrek 2.0i Premium,,14500,Gasoline,Crystal White Pearl,23,Black,30,AWD,Automatic CVT,,,30297,4.7,https://www.cars.com/vehicledetail/detail/783816424/overview/
+10001,4,USED,2019,Volkswagen,Atlas 3.6L SEL,,32900,Gasoline,Pure White,17,Titan Black,24,AWD,8-Speed Automatic,3.6,6,13787,4.3,https://www.cars.com/vehicledetail/detail/795420784/overview/
+10001,4,USED,2013,Lexus,LX 570 Base,,33800,Gasoline,Starfire Pearl,12,Parchment,17,4WD,6-Speed Automatic,5.7,8,52006,4.9,https://www.cars.com/vehicledetail/detail/796594393/overview/
+10001,4,NEW,2020,Chevrolet,Trax LS,,,Gasoline,Black Metallic,26,Jet Black,31,FWD,6-Speed Automatic,1.4,6,10,4.6,https://www.cars.com/vehicledetail/detail/799096323/overview/
+10001,4,USED,2012,Toyota,Corolla LE,,5995,Gasoline,Gray,26,Ash,34,FWD,4-Speed Automatic,1.8,6,87002,4.5,https://www.cars.com/vehicledetail/detail/806029018/overview/
+10001,4,NEW,2019,Dodge,Journey SE Value Package,,24740,Gasoline,Granite,19,Black,25,FWD,4-Speed Automatic,2.4,6,6,3.8,https://www.cars.com/vehicledetail/detail/796730580/overview/
+10001,4,USED,2014,Ford,Fusion SE,,5545,Gasoline,Silver,22,,34,FWD,6-Speed Automatic,1.5,6,104259,4.7,https://www.cars.com/vehicledetail/detail/792973883/overview/
+10001,4,NEW,2020,Nissan,Versa 1.6 SV,,19401,Gasoline,Electric Blue Metallic,32,Graphite,40,FWD,Automatic CVT,1.6,6,5,4.5,https://www.cars.com/vehicledetail/detail/793805772/overview/
+10001,4,NEW,2020,Nissan,Rogue SV,,28676,Gasoline,Magnetic Black,26,Charcoal,33,AWD,Automatic CVT,2.5,6,8,4.6,https://www.cars.com/vehicledetail/detail/801770830/overview/
+10001,4,NEW,2020,Nissan,Kicks SV,,,Gasoline,Cayenne Red,31,Charcoal,36,FWD,Automatic CVT,1.6,6,0,4,https://www.cars.com/vehicledetail/detail/808099838/overview/
+10001,4,NEW,2020,Nissan,Versa S,,,Gasoline,Brilliant Silver Metallic,27,Charcoal,35,FWD,Variable,,,4,4.5,https://www.cars.com/vehicledetail/detail/802427035/overview/
+10001,4,USED,2016,Bentley,Flying Spur W12,,115000,E85 Flex Fuel,White,12,Black,20,AWD,8-Speed Automatic,6.0,8,20578,4,https://www.cars.com/vehicledetail/detail/802481245/overview/
+10001,4,NEW,2019,Ford,EcoSport SES,,23515,Gasoline,Diamond White,23,Ebony,29,4WD,Automatic,,,0,3.9,https://www.cars.com/vehicledetail/detail/774787752/overview/
+10001,4,NEW,2020,Aston,Martin DB11 V8,,,Gasoline,Midnight Blue,18,Chestnut Tan,24,RWD,8-Speed Automatic,4.0,8,10,,https://www.cars.com/vehicledetail/detail/808382577/overview/
+10001,4,NEW,2020,Nissan,Versa 1.6 SV,,,Gasoline,Brilliant Silver Metallic,32,Graphite,40,FWD,Automatic CVT,1.6,6,4,4.5,https://www.cars.com/vehicledetail/detail/796943026/overview/
+10001,4,USED,2014,MINI,Convertible Cooper,,11600,Gasoline,Silver,28,Brown,35,FWD,6-Speed Automatic,1.6,6,48829,5,https://www.cars.com/vehicledetail/detail/799809541/overview/
+10001,4,NEW,2020,Nissan,Versa 1.6 SV,,,Gasoline,Gun Metallic,32,Graphite,40,FWD,Automatic CVT,1.6,6,4,4.5,https://www.cars.com/vehicledetail/detail/795508994/overview/
+10001,4,NEW,2020,Nissan,Versa 1.6 SV,,,Gasoline,Black,32,Graphite,40,FWD,Automatic CVT,1.6,6,2,4.5,https://www.cars.com/vehicledetail/detail/793736917/overview/
+10001,4,USED,2019,Cadillac,XT4 Sport,,26500,Gasoline,Stellar Black Metallic,24,Light Wheat,30,FWD,9-Speed Automatic,2.0,6,231,3.2,https://www.cars.com/vehicledetail/detail/792763233/overview/
+10001,4,NEW,2020,Nissan,Rogue SV,,28676,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,AWD,Automatic CVT,2.5,6,6,4.6,https://www.cars.com/vehicledetail/detail/801148230/overview/
+10001,4,USED,2017,BMW,650 Gran Coupe i,,33495,Gasoline,White,17,Vermillion Red,24,RWD,8-Speed Automatic,4.4,8,56969,5,https://www.cars.com/vehicledetail/detail/806981338/overview/
+10001,4,USED,2013,Jaguar,XF SC,,12985,Gasoline,Polaris White,17,Charcoal,28,AWD,8-Speed Automatic,3.0,6,87213,4.5,https://www.cars.com/vehicledetail/detail/806666880/overview/
+10001,4,USED,2017,BMW,X5 eDrive xDrive40e,,27450,Hybrid,Dark Graphite Metallic,,Black,,AWD,8-Speed Automatic,2.0,6,45881,5,https://www.cars.com/vehicledetail/detail/791754512/overview/
+10001,4,USED,2009,Toyota,Camry Hybrid,,6495,Hybrid,Gray,33,Ash,34,FWD,Automatic CVT,2.4,6,79554,4.9,https://www.cars.com/vehicledetail/detail/807928852/overview/
+10001,4,USED,2019,Toyota,RAV4 Hybrid XLE,,25895,Hybrid,Midnight Black Metallic,41,Light Gray,38,AWD,Automatic CVT,2.5,6,2581,4.5,https://www.cars.com/vehicledetail/detail/804544353/overview/
+10001,4,USED,2019,Chevrolet,Impala 1LT,,14999,Gasoline,Black,22,Jet Black,29,FWD,6-Speed Automatic,3.6,6,42605,4.7,https://www.cars.com/vehicledetail/detail/803610943/overview/
+10001,4,USED,2014,INFINITI,Q50 Premium,,12999,Gasoline,Black Obsidian,20,Stone,29,AWD,Automatic,,,52088,4.4,https://www.cars.com/vehicledetail/detail/807758788/overview/
+10001,4,USED,2018,BMW,i3 94 Ah w/Range Extender,,18900,Electric,Not Specified,,,,RWD,1-Speed Automatic,,,7369,5,https://www.cars.com/vehicledetail/detail/808026906/overview/
+10001,4,NEW,2020,Nissan,Versa 1.6 SV,,19401,Gasoline,Brilliant Silver Metallic,32,Graphite,40,FWD,Automatic CVT,1.6,6,6,4.5,https://www.cars.com/vehicledetail/detail/793805729/overview/
+10001,4,USED,2016,Land Rover,Range Rover Sport Supercharged HST,,37444,Gasoline,Santorini Black,,Ebony / Ebony,,4WD,8-Speed Automatic,3.0,6,54192,4.6,https://www.cars.com/vehicledetail/detail/807497192/overview/
+10001,4,NEW,2020,Nissan,Versa 1.6 SV,,18820,Gasoline,Gun Metallic,32,Graphite,40,FWD,Automatic CVT,1.6,6,9,4.5,https://www.cars.com/vehicledetail/detail/789279593/overview/
+10001,4,NEW,2020,Nissan,Versa 1.6 SV,,,Gasoline,Gun Metallic,32,Graphite,40,FWD,Automatic CVT,1.6,6,2,4.5,https://www.cars.com/vehicledetail/detail/793736947/overview/
+10001,4,NEW,2020,Nissan,Rogue SV,,28676,Gasoline,Brilliant Silver Metallic,26,Charcoal,33,AWD,Automatic CVT,2.5,6,6,4.6,https://www.cars.com/vehicledetail/detail/801148228/overview/
+10001,4,USED,2006,INFINITI,FX45,,7995,Gasoline,Beryllium Metallic,14,Espresso / Black,18,AWD,5-Speed Automatic,4.5,8,148790,4.8,https://www.cars.com/vehicledetail/detail/792355934/overview/
+10001,4,NEW,2020,Nissan,Rogue Sport SV,,29100,Gasoline,Brilliant Silver Metallic,25,Charcoal,32,AWD,Automatic CVT,2.0,6,7,4.7,https://www.cars.com/vehicledetail/detail/803260215/overview/
+10001,4,USED,2011,Dodge,Nitro Heat,,12500,Gasoline,Gray,15,Dark Slate Gray,21,4WD,Automatic,3.7,6,37112,4.4,https://www.cars.com/vehicledetail/detail/803597031/overview/
+10001,4,NEW,2020,Nissan,Rogue Sport SV,,29075,Gasoline,Brilliant Silver Metallic,25,Charcoal,32,AWD,Variable,,,10,4.7,https://www.cars.com/vehicledetail/detail/806519111/overview/
